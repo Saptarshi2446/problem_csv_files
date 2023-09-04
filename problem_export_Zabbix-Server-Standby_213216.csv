@@ -1,0 +1,57 @@
+objectid,start_time,problem_description,problem_eventid,acknowledged,r_eventid,end_time,acknowledge_message,duration,hostname
+24738,2023-09-04 19:31:58,Website Unavailable: Facebook,3618816,0,,2023-09-04 21:32:15,,,Zabbix-Server-Standby
+24738,2023-09-04 17:18:28,Website Unavailable: Facebook,3614184,0,3614533.0,2023-09-04 17:28:29,,601.0,Zabbix-Server-Standby
+24738,2023-09-04 15:55:35,Website Unavailable: Facebook,3611284,0,3614017.0,2023-09-04 17:13:39,,4684.0,Zabbix-Server-Standby
+23296,2023-09-04 15:09:29,Website Unavailable: Grafana,3609565,0,,2023-09-04 21:32:15,,,Zabbix-Server-Standby
+26662,2023-09-04 08:51:47,has been restarted,3596448,0,3596803.0,2023-09-04 09:00:17,,510.0,Zabbix-Server-Standby
+24646,2023-09-04 08:51:27,{HOST.NAME} is unavailable by ICMP - ({HOST.IP}),3596401,0,,2023-09-04 21:32:15,,,Zabbix-Server-Standby
+23296,2023-09-03 21:51:47,Website Unavailable: Grafana,3589450,0,3598490.0,2023-09-04 09:51:58,,43211.0,Zabbix-Server-Standby
+24738,2023-09-03 00:41:36,Website Unavailable: Facebook,3576279,0,3576593.0,2023-09-03 00:50:21,,525.0,Zabbix-Server-Standby
+24738,2023-09-03 00:26:37,Website Unavailable: Facebook,3575736,0,3575869.0,2023-09-03 00:30:20,,223.0,Zabbix-Server-Standby
+23296,2023-09-02 22:10:34,Website Unavailable: Grafana,3570800,0,3576597.0,2023-09-03 11:04:46,,46452.0,Zabbix-Server-Standby
+24738,2023-09-02 16:50:54,Website Unavailable: Facebook,3559109,0,3572254.0,2023-09-02 22:50:36,,21582.0,Zabbix-Server-Standby
+26665,2023-09-01 20:14:23,Zabbix agent is not available,3542773,0,3596493.0,2023-09-04 08:52:23,,218280.0,Zabbix-Server-Standby
+24738,2023-09-01 14:49:50,Website Unavailable: Facebook,3531339,0,3542625.0,2023-09-01 20:09:53,,19203.0,Zabbix-Server-Standby
+26661,2023-09-01 09:52:11,Operating system description has changed,3520827,0,3596485.0,2023-09-04 08:52:11,,255600.0,Zabbix-Server-Standby
+26662,2023-09-01 09:39:17,has been restarted,3520421,0,3520711.0,2023-09-01 09:48:17,,540.0,Zabbix-Server-Standby
+26669,2023-09-01 09:38:54,Load average is too high,3520399,0,3520447.0,2023-09-01 09:39:54,,60.0,Zabbix-Server-Standby
+24646,2023-09-01 09:38:27,{HOST.NAME} is unavailable by ICMP - ({HOST.IP}),3520384,0,3542715.0,2023-09-01 20:12:27,,38040.0,Zabbix-Server-Standby
+24738,2023-09-01 01:02:00,Website Unavailable: Facebook,3518190,0,3519916.0,2023-09-01 09:23:28,,30088.0,Zabbix-Server-Standby
+24738,2023-08-31 23:43:31,Website Unavailable: Facebook,3515367,0,3515551.0,2023-08-31 23:48:31,,300.0,Zabbix-Server-Standby
+26665,2023-08-31 22:52:23,Zabbix agent is not available,3513554,0,3520425.0,2023-09-01 09:39:23,,38820.0,Zabbix-Server-Standby
+24738,2023-08-31 22:32:16,Website Unavailable: Facebook,3512850,0,3513815.0,2023-08-31 22:59:46,,1650.0,Zabbix-Server-Standby
+24738,2023-08-31 20:57:16,Website Unavailable: Facebook,3509358,0,3511343.0,2023-08-31 21:51:02,,3226.0,Zabbix-Server-Standby
+24738,2023-08-31 13:47:05,Website Unavailable: Facebook,3493301,0,3507917.0,2023-08-31 20:18:32,,23487.0,Zabbix-Server-Standby
+23296,2023-08-31 12:54:19,Website Unavailable: Grafana,3491495,0,3553232.0,2023-09-02 14:06:31,,177132.0,Zabbix-Server-Standby
+26688,2023-08-31 12:18:14,/: Disk space is critically low,3490463,0,3490493.0,2023-08-31 12:19:14,,60.0,Zabbix-Server-Standby
+26662,2023-08-31 09:11:47,has been restarted,3484684,0,3484983.0,2023-08-31 09:20:47,,540.0,Zabbix-Server-Standby
+24646,2023-08-31 09:11:27,{HOST.NAME} is unavailable by ICMP - ({HOST.IP}),3484658,0,3513523.0,2023-08-31 22:51:27,,49200.0,Zabbix-Server-Standby
+24738,2023-08-31 00:16:00,Website Unavailable: Facebook,3482180,0,3483484.0,2023-08-31 00:52:15,,2175.0,Zabbix-Server-Standby
+26665,2023-08-30 23:52:23,Zabbix agent is not available,3481328,0,3484709.0,2023-08-31 09:12:23,,33600.0,Zabbix-Server-Standby
+23296,2023-08-30 23:48:44,Website Unavailable: Grafana,3481202,0,3486696.0,2023-08-31 10:10:52,,37328.0,Zabbix-Server-Standby
+24738,2023-08-30 19:30:51,Website Unavailable: Facebook,3471443,0,3479772.0,2023-08-30 23:11:25,,13234.0,Zabbix-Server-Standby
+24738,2023-08-30 17:31:06,Website Unavailable: Facebook,3466937,0,3471255.0,2023-08-30 19:25:51,,6885.0,Zabbix-Server-Standby
+24738,2023-08-30 16:42:53,Website Unavailable: Facebook,3465081,0,3466705.0,2023-08-30 17:25:03,,2530.0,Zabbix-Server-Standby
+24738,2023-08-30 16:30:51,Website Unavailable: Facebook,3464623,0,3464847.0,2023-08-30 16:36:52,,361.0,Zabbix-Server-Standby
+23296,2023-08-30 16:02:42,Website Unavailable: Grafana,3463525,0,3463713.0,2023-08-30 16:07:27,,285.0,Zabbix-Server-Standby
+24738,2023-08-30 13:41:13,Website Unavailable: Facebook,3458249,0,3464376.0,2023-08-30 16:24:50,,9817.0,Zabbix-Server-Standby
+23296,2023-08-30 12:18:23,Website Unavailable: Grafana,3455251,0,3462549.0,2023-08-30 15:36:42,,11899.0,Zabbix-Server-Standby
+24646,2023-08-30 09:12:27,{HOST.NAME} is unavailable by ICMP - ({HOST.IP}),3449297,0,3481261.0,2023-08-30 23:50:27,,52680.0,Zabbix-Server-Standby
+26662,2023-08-30 09:12:17,has been restarted,3449255,0,3449929.0,2023-08-30 09:22:17,,600.0,Zabbix-Server-Standby
+24738,2023-08-29 23:48:46,Website Unavailable: Facebook,3449181,0,3449242.0,2023-08-30 09:12:09,,33803.0,Zabbix-Server-Standby
+23296,2023-08-29 13:27:05,Website Unavailable: Grafana,3427007,0,3449390.0,2023-08-30 09:13:08,,71163.0,Zabbix-Server-Standby
+24738,2023-08-28 22:55:59,Website Unavailable: Facebook,3419914,0,3421409.0,2023-08-28 23:36:25,,2426.0,Zabbix-Server-Standby
+24738,2023-08-28 17:02:38,Website Unavailable: Facebook,3407636,0,3417851.0,2023-08-28 21:56:35,,17637.0,Zabbix-Server-Standby
+24738,2023-08-28 02:12:26,Website Unavailable: Facebook,3398852,0,3398876.0,2023-08-28 12:39:07,,37601.0,Zabbix-Server-Standby
+24738,2023-08-28 01:58:41,Website Unavailable: Facebook,3398399,0,3398683.0,2023-08-28 02:07:27,,526.0,Zabbix-Server-Standby
+24738,2023-08-28 01:27:25,Website Unavailable: Facebook,3397384,0,3397547.0,2023-08-28 01:32:26,,301.0,Zabbix-Server-Standby
+24738,2023-08-27 17:12:17,Website Unavailable: Facebook,3381477,0,3392205.0,2023-08-27 22:46:34,,20057.0,Zabbix-Server-Standby
+24738,2023-08-27 16:27:17,Website Unavailable: Facebook,3380017,0,3380655.0,2023-08-27 16:47:02,,1185.0,Zabbix-Server-Standby
+24738,2023-08-27 03:04:37,Website Unavailable: Facebook,3354235,0,3376320.0,2023-08-27 14:32:17,,41260.0,Zabbix-Server-Standby
+26665,2023-08-26 21:46:23,Zabbix agent is not available,3344400,0,3449272.0,2023-08-30 09:12:23,,300360.0,Zabbix-Server-Standby
+24738,2023-08-25 14:40:12,Website Unavailable: Facebook,3332432,0,3343345.0,2023-08-25 20:12:47,,19955.0,Zabbix-Server-Standby
+26662,2023-08-25 10:49:50,has been restarted,3325002,0,3325352.0,2023-08-25 10:59:17,,567.0,Zabbix-Server-Standby
+26669,2023-08-25 10:49:50,Load average is too high,3325006,0,3325053.0,2023-08-25 10:50:54,,64.0,Zabbix-Server-Standby
+24646,2023-08-25 10:49:27,{HOST.NAME} is unavailable by ICMP - ({HOST.IP}),3324987,0,3344349.0,2023-08-26 21:44:27,,125700.0,Zabbix-Server-Standby
+26665,2023-08-25 09:25:23,Zabbix agent is not available,3322478,0,3325028.0,2023-08-25 10:50:23,,5100.0,Zabbix-Server-Standby
+26689,2023-08-17 11:07:43,/: Disk space is low,3043190,0,,2023-09-04 21:32:15,,,Zabbix-Server-Standby
