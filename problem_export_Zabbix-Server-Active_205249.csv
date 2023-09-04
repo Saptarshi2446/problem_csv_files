@@ -1,0 +1,98 @@
+objectid,start_time,problem_description,problem_eventid,acknowledged,r_eventid,end_time,acknowledge_message,duration,hostname
+26646,2023-09-04 15:56:48,Load average is too high,3611325,0,3611501.0,2023-09-04 16:01:47,,299.0,Zabbix-Server-Active
+26646,2023-09-04 14:06:48,Load average is too high,3607330,0,3607476.0,2023-09-04 14:10:47,,239.0,Zabbix-Server-Active
+26646,2023-09-04 13:00:47,Load average is too high,3604979,0,3605018.0,2023-09-04 13:01:47,,60.0,Zabbix-Server-Active
+26646,2023-09-04 12:53:47,Load average is too high,3604734,0,3604804.0,2023-09-04 12:55:47,,120.0,Zabbix-Server-Active
+23599,2023-09-04 09:12:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3597179,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+32195,2023-09-04 09:11:49,Port 38891 is down for sometime,3597155,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+23608,2023-09-04 08:51:32,Zabbix server: Utilization of http poller processes is high,3596404,0,3596506.0,2023-09-04 08:52:32,,60.0,Zabbix-Server-Active
+26639,2023-09-04 08:51:10,has been restarted,3596376,0,3596815.0,2023-09-04 09:00:40,,570.0,Zabbix-Server-Active
+24518,2023-09-04 08:51:09,Cluster node [node2]: Status changed,3596373,0,3621505.0,2023-09-04 20:51:09,,43200.0,Zabbix-Server-Active
+23599,2023-09-03 22:12:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3590107,0,3596395.0,2023-09-04 08:51:27,,38340.0,Zabbix-Server-Active
+32194,2023-09-03 22:12:25,Port 46207 is down for sometime,3590106,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+26639,2023-09-03 21:51:40,has been restarted,3589438,0,3589786.0,2023-09-03 22:01:40,,600.0,Zabbix-Server-Active
+23606,2023-09-03 21:51:34,Zabbix server: Utilization of history syncer processes is high,3589426,0,3589502.0,2023-09-03 21:52:34,,60.0,Zabbix-Server-Active
+23599,2023-09-03 11:26:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3577303,0,3589496.0,2023-09-03 21:52:27,,37560.0,Zabbix-Server-Active
+32190,2023-09-03 11:25:38,Port 38383 is down for sometime,3577280,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+26639,2023-09-03 11:05:10,has been restarted,3576631,0,3576942.0,2023-09-03 11:14:40,,570.0,Zabbix-Server-Active
+32193,2023-09-02 15:06:51,Port 34933 is down for sometime,3555401,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+32191,2023-09-02 15:01:51,Port 38895 is down for sometime,3555221,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+32192,2023-09-02 15:01:51,Port 44529 is down for sometime,3555222,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+23599,2023-09-02 12:35:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3550064,0,3576648.0,2023-09-03 11:05:27,,81000.0,Zabbix-Server-Active
+32189,2023-09-02 12:34:51,Port 44935 is down for sometime,3550044,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+23608,2023-09-02 12:14:32,Zabbix server: Utilization of http poller processes is high,3549408,0,3549455.0,2023-09-02 12:15:32,,60.0,Zabbix-Server-Active
+26639,2023-09-02 12:14:10,has been restarted,3549383,0,3549710.0,2023-09-02 12:23:40,,570.0,Zabbix-Server-Active
+26646,2023-09-01 21:35:48,Load average is too high,3545514,0,3545950.0,2023-09-01 21:47:47,,719.0,Zabbix-Server-Active
+32185,2023-09-01 20:30:31,Port 36415 is down for sometime,3543235,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+32186,2023-09-01 20:30:31,Port 42973 is down for sometime,3543236,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+32187,2023-09-01 20:30:31,Port 43383 is down for sometime,3543237,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+32188,2023-09-01 20:30:31,Port 39885 is down for sometime,3543238,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+23599,2023-09-01 20:30:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3543233,0,3549403.0,2023-09-02 12:14:27,,56640.0,Zabbix-Server-Active
+26639,2023-09-01 20:09:40,has been restarted,3542610,0,3542934.0,2023-09-01 20:19:40,,600.0,Zabbix-Server-Active
+26646,2023-09-01 18:47:48,Load average is too high,3539876,0,3540020.0,2023-09-01 18:51:47,,239.0,Zabbix-Server-Active
+26646,2023-09-01 18:36:47,Load average is too high,3539479,0,3539658.0,2023-09-01 18:41:47,,300.0,Zabbix-Server-Active
+26646,2023-09-01 18:17:47,Load average is too high,3538793,0,3538937.0,2023-09-01 18:21:47,,240.0,Zabbix-Server-Active
+26638,2023-09-01 09:51:04,Operating system description has changed,3520795,0,3543916.0,2023-09-01 20:51:04,,39600.0,Zabbix-Server-Active
+23599,2023-09-01 09:44:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3520592,0,3542655.0,2023-09-01 20:10:27,,37560.0,Zabbix-Server-Active
+24518,2023-09-01 09:38:09,Cluster node [node2]: Status changed,3520375,0,3549379.0,2023-09-02 12:14:09,,95760.0,Zabbix-Server-Active
+23608,2023-09-01 09:23:32,Zabbix server: Utilization of http poller processes is high,3519923,0,3519978.0,2023-09-01 09:24:32,,60.0,Zabbix-Server-Active
+26639,2023-09-01 09:23:10,has been restarted,3519892,0,3520217.0,2023-09-01 09:32:40,,570.0,Zabbix-Server-Active
+23636,2023-09-01 09:23:07,Zabbix server: Version has changed,3519888,0,3542642.0,2023-09-01 20:10:07,,38820.0,Zabbix-Server-Active
+24518,2023-08-31 22:49:09,Cluster node [node2]: Status changed,3513446,0,3519891.0,2023-09-01 09:23:09,,38040.0,Zabbix-Server-Active
+23616,2023-08-31 12:59:30,Zabbix server: Utilization of unreachable poller processes is high,3491643,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+30666,2023-08-31 11:06:42,Port 6379 is down for sometime,3488344,0,3519955.0,2023-09-01 09:23:52,,80230.0,Zabbix-Server-Active
+32166,2023-08-31 11:02:42,Port 45607 is down for sometime,3488235,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+29522,2023-08-31 11:01:42,Port 2181 is down for sometime,3488208,0,3519954.0,2023-09-01 09:23:52,,80530.0,Zabbix-Server-Active
+32164,2023-08-31 09:31:42,Port 45639 is down for sometime,3485319,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+23599,2023-08-31 09:31:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3485310,0,3519915.0,2023-09-01 09:23:27,,85920.0,Zabbix-Server-Active
+26639,2023-08-31 09:11:10,has been restarted,3484635,0,3484977.0,2023-08-31 09:20:40,,570.0,Zabbix-Server-Active
+24518,2023-08-30 23:48:09,Cluster node [node2]: Status changed,3481183,0,3509859.0,2023-08-31 21:11:09,,76980.0,Zabbix-Server-Active
+32165,2023-08-30 16:27:04,Port 38993 is down for sometime,3464486,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+27772,2023-08-30 14:16:01,Space Utilization > 70%,3459545,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+27772,2023-08-30 14:07:01,Space Utilization > 70%,3459209,0,3459244.0,2023-08-30 14:08:02,,61.0,Zabbix-Server-Active
+23616,2023-08-30 09:46:30,Zabbix server: Utilization of unreachable poller processes is high,3450587,0,3491362.0,2023-08-31 12:49:30,,97380.0,Zabbix-Server-Active
+23599,2023-08-30 09:33:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3450232,0,3484655.0,2023-08-31 09:11:27,,85080.0,Zabbix-Server-Active
+32159,2023-08-30 09:33:02,Port 46703 is down for sometime,3450216,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+24518,2023-08-30 09:13:09,Cluster node [node2]: Status changed,3449394,0,3475288.0,2023-08-30 21:13:09,,43200.0,Zabbix-Server-Active
+26639,2023-08-30 09:12:40,has been restarted,3449336,0,3449920.0,2023-08-30 09:22:10,,570.0,Zabbix-Server-Active
+23599,2023-08-29 13:48:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3427675,0,3449285.0,2023-08-30 09:12:27,,69840.0,Zabbix-Server-Active
+32158,2023-08-29 13:47:44,Port 43107 is down for sometime,3427652,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+23608,2023-08-29 13:27:32,Zabbix server: Utilization of http poller processes is high,3427037,0,3427073.0,2023-08-29 13:28:32,,60.0,Zabbix-Server-Active
+26639,2023-08-29 13:27:10,has been restarted,3427013,0,3427321.0,2023-08-29 13:36:40,,570.0,Zabbix-Server-Active
+27772,2023-08-28 19:27:01,Space Utilization > 70%,3412640,0,3418008.0,2023-08-28 22:01:01,,9240.0,Zabbix-Server-Active
+32157,2023-08-28 12:59:45,Port 46585 is down for sometime,3399484,1,,2023-09-04 20:52:48,No issues : Testing,,Zabbix-Server-Active
+23599,2023-08-28 12:59:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3399473,0,3427033.0,2023-08-29 13:27:27,,88080.0,Zabbix-Server-Active
+23608,2023-08-28 12:39:32,Zabbix server: Utilization of http poller processes is high,3398901,0,3398937.0,2023-08-28 12:40:32,,60.0,Zabbix-Server-Active
+26639,2023-08-28 12:39:10,has been restarted,3398879,0,3399171.0,2023-08-28 12:48:40,,570.0,Zabbix-Server-Active
+23599,2023-08-26 22:03:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3344848,0,3398897.0,2023-08-28 12:39:27,,138960.0,Zabbix-Server-Active
+32140,2023-08-26 22:02:41,Port 40237 is down for sometime,3344827,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+26639,2023-08-26 21:42:10,has been restarted,3344255,0,3344544.0,2023-08-26 21:51:40,,570.0,Zabbix-Server-Active
+23599,2023-08-25 09:45:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3323023,0,3344277.0,2023-08-26 21:42:27,,129420.0,Zabbix-Server-Active
+32138,2023-08-25 09:45:26,Port 33069 is down for sometime,3323022,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+24518,2023-08-25 09:25:09,Cluster node [node2]: Status changed,3322470,0,3366994.0,2023-08-27 09:42:09,,173820.0,Zabbix-Server-Active
+26639,2023-08-25 09:24:40,has been restarted,3322425,0,3322743.0,2023-08-25 09:34:40,,600.0,Zabbix-Server-Active
+30667,2023-08-24 00:17:32,Port 8085 is down for sometime,3275504,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+29768,2023-08-23 12:19:41,Port 8080 is down for sometime,3249160,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+32137,2023-08-23 09:22:39,Port 46863 is down for sometime,3243165,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+32116,2023-08-22 23:45:56,Port 43847 is down for sometime,3241672,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+30669,2023-08-22 09:41:38,Port 8501 is down for sometime,3213983,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+31800,2023-08-22 09:41:38,Port 41099 is down for sometime,3213984,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+32114,2023-08-21 18:05:55,Port 39269 is down for sometime,3201448,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+32115,2023-08-21 18:00:55,Port 37965 is down for sometime,3201271,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+31273,2023-08-21 09:53:55,Port 42389 is down for sometime,3184650,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+31235,2023-08-19 17:15:21,Port 42185 is down for sometime,3119618,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+31233,2023-08-17 09:49:00,Port 46787 is down for sometime,3040559,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+31234,2023-08-16 12:56:56,Port 45391 is down for sometime,3029835,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+30876,2023-08-16 09:10:56,Port 9080 is down for sometime,3022331,0,3604131.0,2023-09-04 12:36:49,,1653953.0,Zabbix-Server-Active
+31231,2023-08-16 09:10:56,Port 39547 is down for sometime,3022332,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+31232,2023-08-16 09:10:56,Port 34511 is down for sometime,3022333,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+31230,2023-08-14 09:13:56,Port 37197 is down for sometime,2994825,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+31216,2023-08-13 09:42:55,Port 40849 is down for sometime,2977165,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+31185,2023-08-11 09:54:02,Port 45503 is down for sometime,2949627,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+30874,2023-08-10 09:34:32,Port 40591 is down for sometime,2915764,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+30878,2023-08-10 09:34:32,Port 39407 is down for sometime,2915766,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+23609,2023-08-10 09:23:39,Zabbix server: Utilization of icmp pinger processes is high,2915425,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+30875,2023-08-09 07:26:28,Port 33503 is down for sometime,2879388,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+30877,2023-08-09 07:16:27,Port 43009 is down for sometime,2879046,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+30846,2023-08-08 11:16:27,Port 38489 is down for sometime,2839102,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
+30844,2023-08-06 11:45:45,Port 43757 is down for sometime,2788652,0,,2023-09-04 20:52:48,,,Zabbix-Server-Active
