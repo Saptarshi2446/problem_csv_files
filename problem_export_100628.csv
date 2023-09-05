@@ -1,0 +1,817 @@
+objectid,start_time,problem_description,problem_eventid,acknowledged,r_eventid,end_time,acknowledge_message,duration,hostname
+29389,2023-09-05 09:27:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3627405,0,,2023-09-05 10:06:26,,,Zabbixproxy2
+29302,2023-09-05 09:26:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3627381,0,,2023-09-05 10:06:26,,,Zabbixproxy
+23599,2023-09-05 09:26:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3627372,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+30876,2023-09-05 09:26:18,Port 9080 is down for sometime,3627362,0,3627882.0,2023-09-05 09:41:18,,900.0,Zabbix-Server-Active
+32196,2023-09-05 09:26:18,Port 46383 is down for sometime,3627363,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+32197,2023-09-05 09:26:18,Port 35939 is down for sometime,3627364,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+32198,2023-09-05 09:26:18,Port 46139 is down for sometime,3627365,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+32199,2023-09-05 09:26:18,Port 36015 is down for sometime,3627366,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+32200,2023-09-05 09:26:18,Port 41027 is down for sometime,3627367,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+31212,2023-09-05 09:18:04,Azure: There are errors in requests to API,3627100,0,3627122.0,2023-09-05 09:18:51,,47.0,Azure virtual machine Ubuntu20.04
+29315,2023-09-05 09:15:29,Zabbix proxy: Utilization of unreachable poller processes is high,3627011,0,,2023-09-05 10:06:26,,,Zabbixproxy
+26266,2023-09-05 09:09:34,Forecast Memory Utilization High,3626809,0,3626912.0,2023-09-05 09:12:34,,180.0,Calculated and Aggregate items
+29414,2023-09-05 09:06:26,Zabbix proxy: has been restarted,3626679,0,3627010.0,2023-09-05 09:15:26,,540.0,Zabbixproxy2
+26437,2023-09-05 09:05:56,Load average is too high,3626644,0,3626700.0,2023-09-05 09:06:48,,52.0,standby-node-2
+26669,2023-09-05 09:05:55,Load average is too high,3626641,0,3626703.0,2023-09-05 09:06:54,,59.0,Zabbix-Server-Standby
+29327,2023-09-05 09:05:55,Zabbix proxy: has been restarted,3626640,0,3627030.0,2023-09-05 09:15:55,,600.0,Zabbixproxy
+26662,2023-09-05 09:05:47,has been restarted,3626626,0,3627005.0,2023-09-05 09:15:17,,570.0,Zabbix-Server-Standby
+26607,2023-09-05 09:05:41,has been restarted,3626614,0,3627000.0,2023-09-05 09:15:11,,570.0,Linux Server
+26639,2023-09-05 09:05:40,has been restarted,3626611,0,3626999.0,2023-09-05 09:15:10,,570.0,Zabbix-Server-Active
+26430,2023-09-05 09:05:39,has been restarted,3626609,0,3627019.0,2023-09-05 09:15:39,,600.0,standby-node-2
+29307,2023-09-05 09:05:37,Zabbix proxy: Utilization of http poller processes is high,3626606,0,3626739.0,2023-09-05 09:07:37,,120.0,Zabbixproxy
+29394,2023-09-05 09:05:35,Zabbix proxy: Utilization of http poller processes is high,3626601,0,3626737.0,2023-09-05 09:07:35,,120.0,Zabbixproxy2
+23608,2023-09-05 09:05:32,Zabbix server: Utilization of http poller processes is high,3626588,0,3626773.0,2023-09-05 09:08:32,,180.0,Zabbix-Server-Active
+31212,2023-09-04 22:16:51,Azure: There are errors in requests to API,3624397,0,3624504.0,2023-09-04 22:19:55,,184.0,Azure virtual machine Ubuntu20.04
+26804,2023-09-04 21:27:55,Unavailable by ICMP ping,3622755,0,,2023-09-05 10:06:26,,,AP_8_Kerala_TH
+26787,2023-09-04 21:27:52,Unavailable by ICMP ping,3622751,0,,2023-09-05 10:06:26,,,AP_7_Kerala_TH
+26503,2023-09-04 21:27:46,Unavailable by ICMP ping,3622747,0,,2023-09-05 10:06:26,,,AP_1_Mumbai_BN
+28878,2023-09-04 21:27:30,Unavailable by ICMP ping,3622738,0,,2023-09-05 10:06:26,,,AP_15_Kerala_EK
+26609,2023-09-04 21:17:45,High memory utilization,3622407,0,3622577.0,2023-09-04 21:22:45,,300.0,Linux Server
+26609,2023-09-04 21:01:45,High memory utilization,3621862,0,3622030.0,2023-09-04 21:06:45,,300.0,Linux Server
+26609,2023-09-04 20:51:45,High memory utilization,3621524,0,3621659.0,2023-09-04 20:55:45,,240.0,Linux Server
+26609,2023-09-04 20:41:45,High memory utilization,3621186,0,3621353.0,2023-09-04 20:46:45,,300.0,Linux Server
+26609,2023-09-04 20:30:45,High memory utilization,3620811,0,3620948.0,2023-09-04 20:34:45,,240.0,Linux Server
+31212,2023-09-04 19:52:04,Azure: There are errors in requests to API,3619497,0,3619521.0,2023-09-04 19:52:52,,48.0,Azure virtual machine Ubuntu20.04
+26609,2023-09-04 19:38:45,High memory utilization,3619045,0,3620471.0,2023-09-04 20:20:45,,2520.0,Linux Server
+24738,2023-09-04 19:31:58,Website Unavailable: Facebook,3618816,0,3624039.0,2023-09-04 22:06:07,,9249.0,Zabbix-Server-Standby
+26609,2023-09-04 19:13:45,High memory utilization,3618203,0,3618706.0,2023-09-04 19:28:45,,900.0,Linux Server
+26609,2023-09-04 18:59:45,High memory utilization,3617727,0,3617863.0,2023-09-04 19:03:45,,240.0,Linux Server
+26609,2023-09-04 18:50:45,High memory utilization,3617420,0,3617558.0,2023-09-04 18:54:45,,240.0,Linux Server
+26609,2023-09-04 18:39:45,High memory utilization,3617033,0,3617068.0,2023-09-04 18:40:45,,60.0,Linux Server
+26609,2023-09-04 18:08:45,High memory utilization,3615947,0,3616193.0,2023-09-04 18:15:45,,420.0,Linux Server
+26265,2023-09-04 18:00:33,Forecast CPU Utilization High,3615660,0,3615731.0,2023-09-04 18:02:33,,120.0,Calculated and Aggregate items
+26265,2023-09-04 17:56:33,Forecast CPU Utilization High,3615514,0,3615552.0,2023-09-04 17:57:33,,60.0,Calculated and Aggregate items
+26265,2023-09-04 17:51:33,Forecast CPU Utilization High,3615340,0,3615373.0,2023-09-04 17:52:33,,60.0,Calculated and Aggregate items
+26609,2023-09-04 17:36:45,High memory utilization,3614825,0,3614861.0,2023-09-04 17:37:45,,60.0,Linux Server
+24738,2023-09-04 17:18:28,Website Unavailable: Facebook,3614184,0,3614533.0,2023-09-04 17:28:29,,601.0,Zabbix-Server-Standby
+26787,2023-09-04 16:08:54,Unavailable by ICMP ping,3611756,0,3622071.0,2023-09-04 21:07:54,,17940.0,AP_7_Kerala_TH
+26804,2023-09-04 16:08:54,Unavailable by ICMP ping,3611757,0,3622072.0,2023-09-04 21:07:54,,17940.0,AP_8_Kerala_TH
+26503,2023-09-04 16:08:45,Unavailable by ICMP ping,3611749,0,3622102.0,2023-09-04 21:08:45,,18000.0,AP_1_Mumbai_BN
+28878,2023-09-04 16:08:30,Unavailable by ICMP ping,3611740,0,3622090.0,2023-09-04 21:08:30,,18000.0,AP_15_Kerala_EK
+26646,2023-09-04 15:56:48,Load average is too high,3611325,0,3611501.0,2023-09-04 16:01:47,,299.0,Zabbix-Server-Active
+24738,2023-09-04 15:55:35,Website Unavailable: Facebook,3611284,0,3614017.0,2023-09-04 17:13:39,,4684.0,Zabbix-Server-Standby
+31179,2023-09-04 15:45:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3610899,0,3610973.0,2023-09-04 15:46:50,,108.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-09-04 15:45:02,Azure Microsoft SQL: There are errors in requests to API,3610901,0,3610975.0,2023-09-04 15:46:50,,108.0,Azure Microsoft SQL database azure-sqlserver1
+29734,2023-09-04 15:39:56,PostgreSQL: Configuration has changed,3610704,0,3612839.0,2023-09-04 16:39:56,,3600.0,PG2c
+29737,2023-09-04 15:32:57,PostgreSQL: Service is down,3610460,0,,2023-09-05 10:06:26,,,PG2c
+26614,2023-09-04 15:11:19,Load average is too high,3609633,0,3609980.0,2023-09-04 15:21:18,,599.0,Linux Server
+24214,2023-09-04 15:10:35,Website Unavailable: Grafana,3609608,0,3627582.0,2023-09-05 09:32:58,,66143.0,Web Scenario
+23296,2023-09-04 15:09:29,Website Unavailable: Grafana,3609565,0,3627591.0,2023-09-05 09:33:13,,66224.0,Zabbix-Server-Standby
+26646,2023-09-04 14:06:48,Load average is too high,3607330,0,3607476.0,2023-09-04 14:10:47,,239.0,Zabbix-Server-Active
+31212,2023-09-04 13:35:05,Azure: There are errors in requests to API,3606201,0,3606226.0,2023-09-04 13:35:52,,47.0,Azure virtual machine Ubuntu20.04
+26614,2023-09-04 13:01:19,Load average is too high,3604999,0,3605177.0,2023-09-04 13:06:18,,299.0,Linux Server
+26646,2023-09-04 13:00:47,Load average is too high,3604979,0,3605018.0,2023-09-04 13:01:47,,60.0,Zabbix-Server-Active
+26646,2023-09-04 12:53:47,Load average is too high,3604734,0,3604804.0,2023-09-04 12:55:47,,120.0,Zabbix-Server-Active
+26614,2023-09-04 12:53:18,Load average is too high,3604715,0,3604822.0,2023-09-04 12:56:18,,180.0,Linux Server
+26265,2023-09-04 12:47:33,Forecast CPU Utilization High,3604513,0,3606002.0,2023-09-04 13:29:33,,2520.0,Calculated and Aggregate items
+26787,2023-09-04 12:19:54,Unavailable by ICMP ping,3603552,0,3611611.0,2023-09-04 16:04:53,,13499.0,AP_7_Kerala_TH
+26804,2023-09-04 12:19:54,Unavailable by ICMP ping,3603553,0,3611612.0,2023-09-04 16:04:53,,13499.0,AP_8_Kerala_TH
+26503,2023-09-04 12:19:45,Unavailable by ICMP ping,3603545,0,3611606.0,2023-09-04 16:04:45,,13500.0,AP_1_Mumbai_BN
+28878,2023-09-04 12:19:30,Unavailable by ICMP ping,3603536,0,3611596.0,2023-09-04 16:04:30,,13500.0,AP_15_Kerala_EK
+29302,2023-09-04 09:12:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3597187,0,3626618.0,2023-09-05 09:05:42,,85980.0,Zabbixproxy
+23599,2023-09-04 09:12:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3597179,0,3626578.0,2023-09-05 09:05:28,,85981.0,Zabbix-Server-Active
+29389,2023-09-04 09:12:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3597174,0,3626677.0,2023-09-05 09:06:24,,86040.0,Zabbixproxy2
+32195,2023-09-04 09:11:49,Port 38891 is down for sometime,3597155,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+29734,2023-09-04 08:54:56,PostgreSQL: Configuration has changed,3596627,0,3598590.0,2023-09-04 09:54:56,,3600.0,PG2c
+26266,2023-09-04 08:54:34,Forecast Memory Utilization High,3596614,0,3596717.0,2023-09-04 08:57:34,,180.0,Calculated and Aggregate items
+29740,2023-09-04 08:51:59,PostgreSQL: Service has been restarted,3596477,0,3596829.0,2023-09-04 09:00:59,,540.0,PG2c
+29327,2023-09-04 08:51:55,Zabbix proxy: has been restarted,3596466,0,3596825.0,2023-09-04 09:00:55,,540.0,Zabbixproxy
+26662,2023-09-04 08:51:47,has been restarted,3596448,0,3596803.0,2023-09-04 09:00:17,,510.0,Zabbix-Server-Standby
+26430,2023-09-04 08:51:39,has been restarted,3596413,0,3596813.0,2023-09-04 09:00:39,,540.0,standby-node-2
+29307,2023-09-04 08:51:37,Zabbix proxy: Utilization of http poller processes is high,3596412,0,3596521.0,2023-09-04 08:52:37,,60.0,Zabbixproxy
+29394,2023-09-04 08:51:35,Zabbix proxy: Utilization of http poller processes is high,3596410,0,3596518.0,2023-09-04 08:52:35,,60.0,Zabbixproxy2
+23608,2023-09-04 08:51:32,Zabbix server: Utilization of http poller processes is high,3596404,0,3596506.0,2023-09-04 08:52:32,,60.0,Zabbix-Server-Active
+24646,2023-09-04 08:51:27,{HOST.NAME} is unavailable by ICMP - ({HOST.IP}),3596401,0,,2023-09-05 10:06:26,,,Zabbix-Server-Standby
+29414,2023-09-04 08:51:26,Zabbix proxy: has been restarted,3596394,0,3596845.0,2023-09-04 09:01:26,,600.0,Zabbixproxy2
+26607,2023-09-04 08:51:11,has been restarted,3596375,0,3596816.0,2023-09-04 09:00:41,,570.0,Linux Server
+26639,2023-09-04 08:51:10,has been restarted,3596376,0,3596815.0,2023-09-04 09:00:40,,570.0,Zabbix-Server-Active
+24518,2023-09-04 08:51:09,Cluster node [node2]: Status changed,3596373,0,3621505.0,2023-09-04 20:51:09,,43200.0,Zabbix-Server-Active
+26770,2023-09-04 01:10:51,Unavailable by ICMP ping,3596353,0,,2023-09-05 10:06:26,,,AP_6_Kerala_EK
+23599,2023-09-03 22:12:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3590107,0,3596395.0,2023-09-04 08:51:27,,38340.0,Zabbix-Server-Active
+32194,2023-09-03 22:12:25,Port 46207 is down for sometime,3590106,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+29389,2023-09-03 22:12:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3590104,0,3596390.0,2023-09-04 08:51:24,,38340.0,Zabbixproxy2
+29302,2023-09-03 22:11:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3590081,0,3596418.0,2023-09-04 08:51:42,,38400.0,Zabbixproxy
+26266,2023-09-03 21:55:34,Forecast Memory Utilization High,3589600,0,3589722.0,2023-09-03 21:59:34,,240.0,Calculated and Aggregate items
+29414,2023-09-03 21:52:26,Zabbix proxy: has been restarted,3589495,0,3589811.0,2023-09-03 22:02:26,,600.0,Zabbixproxy2
+24214,2023-09-03 21:52:02,Website Unavailable: Grafana,3589473,0,3598465.0,2023-09-04 09:51:14,,43152.0,Web Scenario
+29327,2023-09-03 21:51:55,Zabbix proxy: has been restarted,3589460,0,3589793.0,2023-09-03 22:01:55,,600.0,Zabbixproxy
+23296,2023-09-03 21:51:47,Website Unavailable: Grafana,3589450,0,3598490.0,2023-09-04 09:51:58,,43211.0,Zabbix-Server-Standby
+26607,2023-09-03 21:51:41,has been restarted,3589440,0,3589785.0,2023-09-03 22:01:41,,600.0,Linux Server
+26639,2023-09-03 21:51:40,has been restarted,3589438,0,3589786.0,2023-09-03 22:01:40,,600.0,Zabbix-Server-Active
+29307,2023-09-03 21:51:37,Zabbix proxy: Utilization of http poller processes is high,3589433,0,3589572.0,2023-09-03 21:54:37,,180.0,Zabbixproxy
+29394,2023-09-03 21:51:35,Zabbix proxy: Utilization of http poller processes is high,3589430,0,3589570.0,2023-09-03 21:54:35,,180.0,Zabbixproxy2
+23606,2023-09-03 21:51:34,Zabbix server: Utilization of history syncer processes is high,3589426,0,3589502.0,2023-09-03 21:52:34,,60.0,Zabbix-Server-Active
+26787,2023-09-03 16:44:54,Unavailable by ICMP ping,3588651,0,3596468.0,2023-09-04 08:51:53,,58019.0,AP_7_Kerala_TH
+26804,2023-09-03 16:44:54,Unavailable by ICMP ping,3588652,0,3596469.0,2023-09-04 08:51:53,,58019.0,AP_8_Kerala_TH
+26503,2023-09-03 16:44:45,Unavailable by ICMP ping,3588645,0,3596446.0,2023-09-04 08:51:45,,58020.0,AP_1_Mumbai_BN
+28878,2023-09-03 16:44:30,Unavailable by ICMP ping,3588636,0,3596405.0,2023-09-04 08:51:30,,58020.0,AP_15_Kerala_EK
+23599,2023-09-03 11:26:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3577303,0,3589496.0,2023-09-03 21:52:27,,37560.0,Zabbix-Server-Active
+29389,2023-09-03 11:26:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3577302,0,3589492.0,2023-09-03 21:52:24,,37560.0,Zabbixproxy2
+29302,2023-09-03 11:25:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3577279,0,3589443.0,2023-09-03 21:51:42,,37560.0,Zabbixproxy
+32190,2023-09-03 11:25:38,Port 38383 is down for sometime,3577280,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+26266,2023-09-03 11:08:34,Forecast Memory Utilization High,3576759,0,3576819.0,2023-09-03 11:10:34,,120.0,Calculated and Aggregate items
+29414,2023-09-03 11:05:26,Zabbix proxy: has been restarted,3576646,0,3576969.0,2023-09-03 11:15:26,,600.0,Zabbixproxy2
+26607,2023-09-03 11:05:11,has been restarted,3576633,0,3576943.0,2023-09-03 11:14:41,,570.0,Linux Server
+26639,2023-09-03 11:05:10,has been restarted,3576631,0,3576942.0,2023-09-03 11:14:40,,570.0,Zabbix-Server-Active
+29327,2023-09-03 11:04:55,Zabbix proxy: has been restarted,3576611,0,3576953.0,2023-09-03 11:14:55,,600.0,Zabbixproxy
+24738,2023-09-03 00:41:36,Website Unavailable: Facebook,3576279,0,3576593.0,2023-09-03 00:50:21,,525.0,Zabbix-Server-Standby
+24738,2023-09-03 00:26:37,Website Unavailable: Facebook,3575736,0,3575869.0,2023-09-03 00:30:20,,223.0,Zabbix-Server-Standby
+23296,2023-09-02 22:10:34,Website Unavailable: Grafana,3570800,0,3576597.0,2023-09-03 11:04:46,,46452.0,Zabbix-Server-Standby
+24214,2023-09-02 22:10:19,Website Unavailable: Grafana,3570788,0,3576595.0,2023-09-03 11:04:45,,46466.0,Web Scenario
+24738,2023-09-02 16:50:54,Website Unavailable: Facebook,3559109,0,3572254.0,2023-09-02 22:50:36,,21582.0,Zabbix-Server-Standby
+32193,2023-09-02 15:06:51,Port 34933 is down for sometime,3555401,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+32191,2023-09-02 15:01:51,Port 38895 is down for sometime,3555221,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+32192,2023-09-02 15:01:51,Port 44529 is down for sometime,3555222,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+31212,2023-09-02 13:46:04,Azure: There are errors in requests to API,3552514,0,3552572.0,2023-09-02 13:47:51,,107.0,Azure virtual machine Ubuntu20.04
+29302,2023-09-02 12:35:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3550074,0,3576662.0,2023-09-03 11:05:42,,81000.0,Zabbixproxy
+23599,2023-09-02 12:35:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3550064,0,3576648.0,2023-09-03 11:05:27,,81000.0,Zabbix-Server-Active
+29389,2023-09-02 12:35:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3550063,0,3576644.0,2023-09-03 11:05:24,,81000.0,Zabbixproxy2
+32189,2023-09-02 12:34:51,Port 44935 is down for sometime,3550044,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+26266,2023-09-02 12:27:34,Forecast Memory Utilization High,3549831,0,3550554.0,2023-09-02 12:50:34,,1380.0,Calculated and Aggregate items
+26265,2023-09-02 12:27:33,Forecast CPU Utilization High,3549827,0,3549889.0,2023-09-02 12:29:33,,120.0,Calculated and Aggregate items
+26265,2023-09-02 12:20:33,Forecast CPU Utilization High,3549617,0,3549705.0,2023-09-02 12:23:33,,180.0,Calculated and Aggregate items
+26266,2023-09-02 12:17:34,Forecast Memory Utilization High,3549528,0,3549618.0,2023-09-02 12:20:34,,180.0,Calculated and Aggregate items
+29327,2023-09-02 12:14:55,Zabbix proxy: has been restarted,3549437,0,3549753.0,2023-09-02 12:24:55,,600.0,Zabbixproxy
+29307,2023-09-02 12:14:37,Zabbix proxy: Utilization of http poller processes is high,3549416,0,3549463.0,2023-09-02 12:15:37,,60.0,Zabbixproxy
+29394,2023-09-02 12:14:35,Zabbix proxy: Utilization of http poller processes is high,3549413,0,3549459.0,2023-09-02 12:15:35,,60.0,Zabbixproxy2
+23608,2023-09-02 12:14:32,Zabbix server: Utilization of http poller processes is high,3549408,0,3549455.0,2023-09-02 12:15:32,,60.0,Zabbix-Server-Active
+29414,2023-09-02 12:14:26,Zabbix proxy: has been restarted,3549400,0,3549736.0,2023-09-02 12:24:26,,600.0,Zabbixproxy2
+26607,2023-09-02 12:14:11,has been restarted,3549382,0,3549711.0,2023-09-02 12:23:41,,570.0,Linux Server
+26639,2023-09-02 12:14:10,has been restarted,3549383,0,3549710.0,2023-09-02 12:23:40,,570.0,Zabbix-Server-Active
+31212,2023-09-01 23:21:04,Azure: There are errors in requests to API,3549334,0,3549359.0,2023-09-01 23:21:52,,48.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-01 23:17:04,Azure: There are errors in requests to API,3549179,0,3549209.0,2023-09-01 23:17:52,,48.0,Azure virtual machine Ubuntu20.04
+26646,2023-09-01 21:35:48,Load average is too high,3545514,0,3545950.0,2023-09-01 21:47:47,,719.0,Zabbix-Server-Active
+26614,2023-09-01 21:31:18,Load average is too high,3545354,0,3545971.0,2023-09-01 21:48:18,,1020.0,Linux Server
+26265,2023-09-01 21:23:33,Forecast CPU Utilization High,3545073,0,3546235.0,2023-09-01 21:55:33,,1920.0,Calculated and Aggregate items
+31212,2023-09-01 21:23:04,Azure: There are errors in requests to API,3545058,0,3545084.0,2023-09-01 21:23:53,,49.0,Azure virtual machine Ubuntu20.04
+26614,2023-09-01 21:18:18,Load average is too high,3544880,0,3545174.0,2023-09-01 21:26:18,,480.0,Linux Server
+23345,2023-09-01 20:40:05,Nginx: Failed to fetch stub status page,3543524,0,3596474.0,2023-09-04 08:51:58,,216713.0,NGINX
+26404,2023-09-01 20:40:04,Nginx: Failed to fetch stub status page,3543521,0,3596481.0,2023-09-04 08:52:03,,216719.0,standby-node-2
+31257,2023-09-01 20:39:57,Nginx: Failed to fetch stub status page,3543513,0,3596539.0,2023-09-04 08:52:44,,216767.0,NGINX clone
+32185,2023-09-01 20:30:31,Port 36415 is down for sometime,3543235,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+32186,2023-09-01 20:30:31,Port 42973 is down for sometime,3543236,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+32187,2023-09-01 20:30:31,Port 43383 is down for sometime,3543237,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+32188,2023-09-01 20:30:31,Port 39885 is down for sometime,3543238,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+23599,2023-09-01 20:30:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3543233,0,3549403.0,2023-09-02 12:14:27,,56640.0,Zabbix-Server-Active
+29389,2023-09-01 20:30:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3543231,0,3549394.0,2023-09-02 12:14:24,,56640.0,Zabbixproxy2
+29302,2023-09-01 20:29:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3543210,0,3549422.0,2023-09-02 12:14:42,,56700.0,Zabbixproxy
+26265,2023-09-01 20:19:33,Forecast CPU Utilization High,3542928,0,3544108.0,2023-09-01 20:56:33,,2220.0,Calculated and Aggregate items
+26665,2023-09-01 20:14:23,Zabbix agent is not available,3542773,0,3596493.0,2023-09-04 08:52:23,,218280.0,Zabbix-Server-Standby
+26433,2023-09-01 20:14:05,Zabbix agent is not available,3542763,0,3596483.0,2023-09-04 08:52:05,,218280.0,standby-node-2
+29414,2023-09-01 20:10:26,Zabbix proxy: has been restarted,3542654,0,3542958.0,2023-09-01 20:20:26,,600.0,Zabbixproxy2
+26614,2023-09-01 20:10:17,Load average is too high,3542648,0,3542649.0,2023-09-01 20:10:18,,1.0,Linux Server
+29327,2023-09-01 20:09:55,Zabbix proxy: has been restarted,3542627,0,3542945.0,2023-09-01 20:19:55,,600.0,Zabbixproxy
+26607,2023-09-01 20:09:41,has been restarted,3542611,0,3542935.0,2023-09-01 20:19:41,,600.0,Linux Server
+26639,2023-09-01 20:09:40,has been restarted,3542610,0,3542934.0,2023-09-01 20:19:40,,600.0,Zabbix-Server-Active
+26614,2023-09-01 19:17:18,Load average is too high,3540936,0,3540974.0,2023-09-01 19:18:18,,60.0,Linux Server
+26646,2023-09-01 18:47:48,Load average is too high,3539876,0,3540020.0,2023-09-01 18:51:47,,239.0,Zabbix-Server-Active
+26646,2023-09-01 18:36:47,Load average is too high,3539479,0,3539658.0,2023-09-01 18:41:47,,300.0,Zabbix-Server-Active
+26265,2023-09-01 18:25:33,Forecast CPU Utilization High,3539075,0,3539112.0,2023-09-01 18:26:33,,60.0,Calculated and Aggregate items
+26265,2023-09-01 18:20:33,Forecast CPU Utilization High,3538893,0,3538965.0,2023-09-01 18:22:33,,120.0,Calculated and Aggregate items
+26646,2023-09-01 18:17:47,Load average is too high,3538793,0,3538937.0,2023-09-01 18:21:47,,240.0,Zabbix-Server-Active
+31212,2023-09-01 18:02:52,Azure: There are errors in requests to API,3538251,0,3538290.0,2023-09-01 18:03:54,,62.0,Azure virtual machine Ubuntu20.04
+24738,2023-09-01 14:49:50,Website Unavailable: Facebook,3531339,0,3542625.0,2023-09-01 20:09:53,,19203.0,Zabbix-Server-Standby
+26787,2023-09-01 12:50:54,Unavailable by ICMP ping,3527146,0,3586897.0,2023-09-03 15:56:53,,183959.0,AP_7_Kerala_TH
+26804,2023-09-01 12:50:54,Unavailable by ICMP ping,3527147,0,3586898.0,2023-09-03 15:56:53,,183959.0,AP_8_Kerala_TH
+26503,2023-09-01 12:50:45,Unavailable by ICMP ping,3527139,0,3586892.0,2023-09-03 15:56:45,,183960.0,AP_1_Mumbai_BN
+28878,2023-09-01 12:50:30,Unavailable by ICMP ping,3527130,0,3586884.0,2023-09-03 15:56:30,,183960.0,AP_15_Kerala_EK
+26503,2023-09-01 12:19:45,Unavailable by ICMP ping,3526051,0,3526962.0,2023-09-01 12:45:45,,1560.0,AP_1_Mumbai_BN
+28878,2023-09-01 12:19:30,Unavailable by ICMP ping,3526041,0,3526953.0,2023-09-01 12:45:30,,1560.0,AP_15_Kerala_EK
+26787,2023-09-01 12:18:54,Unavailable by ICMP ping,3526019,0,3526967.0,2023-09-01 12:45:53,,1619.0,AP_7_Kerala_TH
+26804,2023-09-01 12:18:54,Unavailable by ICMP ping,3526020,0,3526968.0,2023-09-01 12:45:53,,1619.0,AP_8_Kerala_TH
+26429,2023-09-01 10:35:34,Operating system description has changed,3522410,0,3597934.0,2023-09-04 09:35:34,,255600.0,standby-node-2
+29741,2023-09-01 10:10:01,PostgreSQL: Version has changed,3521519,0,,2023-09-05 10:06:26,,,PG2c
+29734,2023-09-01 10:09:56,PostgreSQL: Configuration has changed,3521513,0,3523604.0,2023-09-01 11:09:57,,3601.0,PG2c
+29737,2023-09-01 10:02:57,PostgreSQL: Service is down,3521265,0,3596470.0,2023-09-04 08:51:57,,254940.0,PG2c
+31212,2023-09-01 09:57:51,Azure: There are errors in requests to API,3521020,0,3521064.0,2023-09-01 09:59:02,,71.0,Azure virtual machine Ubuntu20.04
+27708,2023-09-01 09:53:18,Docker: Failed to fetch info data,3520866,0,,2023-09-05 10:06:26,,,Docker server
+27818,2023-09-01 09:53:08,Zabbix agent is not available,3520858,0,,2023-09-05 10:06:26,,,AICIN
+26661,2023-09-01 09:52:11,Operating system description has changed,3520827,0,3596485.0,2023-09-04 08:52:11,,255600.0,Zabbix-Server-Standby
+26638,2023-09-01 09:51:04,Operating system description has changed,3520795,0,3543916.0,2023-09-01 20:51:04,,39600.0,Zabbix-Server-Active
+26606,2023-09-01 09:49:35,Operating system description has changed,3520748,0,3543862.0,2023-09-01 20:49:35,,39600.0,Linux Server
+29302,2023-09-01 09:44:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3520601,0,3542613.0,2023-09-01 20:09:42,,37500.0,Zabbixproxy
+23599,2023-09-01 09:44:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3520592,0,3542655.0,2023-09-01 20:10:27,,37560.0,Zabbix-Server-Active
+29389,2023-09-01 09:44:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3520591,0,3542651.0,2023-09-01 20:10:24,,37560.0,Zabbixproxy2
+26662,2023-09-01 09:39:17,has been restarted,3520421,0,3520711.0,2023-09-01 09:48:17,,540.0,Zabbix-Server-Standby
+26669,2023-09-01 09:38:54,Load average is too high,3520399,0,3520447.0,2023-09-01 09:39:54,,60.0,Zabbix-Server-Standby
+26430,2023-09-01 09:38:53,has been restarted,3520398,0,3520705.0,2023-09-01 09:48:09,,556.0,standby-node-2
+24646,2023-09-01 09:38:27,{HOST.NAME} is unavailable by ICMP - ({HOST.IP}),3520384,0,3542715.0,2023-09-01 20:12:27,,38040.0,Zabbix-Server-Standby
+24518,2023-09-01 09:38:09,Cluster node [node2]: Status changed,3520375,0,3549379.0,2023-09-02 12:14:09,,95760.0,Zabbix-Server-Active
+26265,2023-09-01 09:29:33,Forecast CPU Utilization High,3520129,0,3520212.0,2023-09-01 09:32:33,,180.0,Calculated and Aggregate items
+26266,2023-09-01 09:26:34,Forecast Memory Utilization High,3520048,0,3520132.0,2023-09-01 09:29:34,,180.0,Calculated and Aggregate items
+29327,2023-09-01 09:23:55,Zabbix proxy: has been restarted,3519959,0,3520228.0,2023-09-01 09:32:55,,540.0,Zabbixproxy
+29328,2023-09-01 09:23:51,Zabbix proxy: Version has changed,3519952,0,3542621.0,2023-09-01 20:09:51,,38760.0,Zabbixproxy
+29415,2023-09-01 09:23:51,Zabbix proxy: Version has changed,3519953,0,3542622.0,2023-09-01 20:09:51,,38760.0,Zabbixproxy2
+29307,2023-09-01 09:23:37,Zabbix proxy: Utilization of http poller processes is high,3519932,0,3519987.0,2023-09-01 09:24:37,,60.0,Zabbixproxy
+29394,2023-09-01 09:23:35,Zabbix proxy: Utilization of http poller processes is high,3519927,0,3519983.0,2023-09-01 09:24:35,,60.0,Zabbixproxy2
+23608,2023-09-01 09:23:32,Zabbix server: Utilization of http poller processes is high,3519923,0,3519978.0,2023-09-01 09:24:32,,60.0,Zabbix-Server-Active
+29414,2023-09-01 09:23:26,Zabbix proxy: has been restarted,3519913,0,3520244.0,2023-09-01 09:33:26,,600.0,Zabbixproxy2
+26607,2023-09-01 09:23:11,has been restarted,3519894,0,3520218.0,2023-09-01 09:32:41,,570.0,Linux Server
+26639,2023-09-01 09:23:10,has been restarted,3519892,0,3520217.0,2023-09-01 09:32:40,,570.0,Zabbix-Server-Active
+23636,2023-09-01 09:23:07,Zabbix server: Version has changed,3519888,0,3542642.0,2023-09-01 20:10:07,,38820.0,Zabbix-Server-Active
+29740,2023-09-01 09:22:59,PostgreSQL: Service has been restarted,3519872,0,3520230.0,2023-09-01 09:32:59,,600.0,PG2c
+27827,2023-09-01 01:37:11,High memory utilization,3519388,0,3519868.0,2023-09-01 01:51:11,,840.0,AICIN
+31212,2023-09-01 01:31:51,Azure: There are errors in requests to API,3519199,0,3519271.0,2023-09-01 01:33:53,,122.0,Azure virtual machine Ubuntu20.04
+24738,2023-09-01 01:02:00,Website Unavailable: Facebook,3518190,0,3519916.0,2023-09-01 09:23:28,,30088.0,Zabbix-Server-Standby
+31212,2023-09-01 00:46:51,Azure: There are errors in requests to API,3517641,0,3517678.0,2023-09-01 00:47:53,,62.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-01 00:45:04,Azure: There are errors in requests to API,3517583,0,3517607.0,2023-09-01 00:45:51,,47.0,Azure virtual machine Ubuntu20.04
+27827,2023-09-01 00:28:11,High memory utilization,3517000,0,3518093.0,2023-09-01 00:59:11,,1860.0,AICIN
+31212,2023-09-01 00:05:04,Azure: There are errors in requests to API,3516173,0,3516233.0,2023-09-01 00:06:51,,107.0,Azure virtual machine Ubuntu20.04
+24738,2023-08-31 23:43:31,Website Unavailable: Facebook,3515367,0,3515551.0,2023-08-31 23:48:31,,300.0,Zabbix-Server-Standby
+27840,2023-08-31 23:23:33,Windows(C:): Disk space is critically low,3514648,0,3518005.0,2023-09-01 00:56:39,,5586.0,AICIN
+27827,2023-08-31 23:20:11,High memory utilization,3514527,0,3515762.0,2023-08-31 23:54:11,,2040.0,AICIN
+29732,2023-08-31 23:19:02,PostgreSQL: Failed to get items,3514484,0,3519942.0,2023-09-01 09:23:44,,36282.0,PG2c
+31257,2023-08-31 23:18:57,Nginx: Failed to fetch stub status page,3514480,0,3520406.0,2023-09-01 09:38:54,,37197.0,NGINX clone
+23345,2023-08-31 23:18:05,Nginx: Failed to fetch stub status page,3514451,0,3520414.0,2023-09-01 09:39:04,,37259.0,NGINX
+26404,2023-08-31 23:18:04,Nginx: Failed to fetch stub status page,3514450,0,3520413.0,2023-09-01 09:39:03,,37259.0,standby-node-2
+31212,2023-08-31 23:15:04,Azure: There are errors in requests to API,3514345,0,3514403.0,2023-08-31 23:16:53,,109.0,Azure virtual machine Ubuntu20.04
+26665,2023-08-31 22:52:23,Zabbix agent is not available,3513554,0,3520425.0,2023-09-01 09:39:23,,38820.0,Zabbix-Server-Standby
+26433,2023-08-31 22:52:05,Zabbix agent is not available,3513548,0,3520415.0,2023-09-01 09:39:05,,38820.0,standby-node-2
+24518,2023-08-31 22:49:09,Cluster node [node2]: Status changed,3513446,0,3519891.0,2023-09-01 09:23:09,,38040.0,Zabbix-Server-Active
+24738,2023-08-31 22:32:16,Website Unavailable: Facebook,3512850,0,3513815.0,2023-08-31 22:59:46,,1650.0,Zabbix-Server-Standby
+31212,2023-08-31 22:29:04,Azure: There are errors in requests to API,3512741,0,3512799.0,2023-08-31 22:30:52,,108.0,Azure virtual machine Ubuntu20.04
+27864,2023-08-31 22:26:55,"""cplspcon"" (Intel(R) Content Protection HDCP Service) is not running",3512666,0,3518002.0,2023-09-01 00:56:37,,8982.0,AICIN
+27827,2023-08-31 22:16:11,High memory utilization,3512278,0,3512453.0,2023-08-31 22:21:11,,300.0,AICIN
+27826,2023-08-31 21:21:33,Host has been restarted,3510252,0,3510534.0,2023-08-31 21:29:08,,455.0,AICIN
+27826,2023-08-31 21:04:40,Host has been restarted,3509632,0,3509865.0,2023-08-31 21:11:06,,386.0,AICIN
+24738,2023-08-31 20:57:16,Website Unavailable: Facebook,3509358,0,3511343.0,2023-08-31 21:51:02,,3226.0,Zabbix-Server-Standby
+27820,2023-08-31 20:53:15,The Memory Pages/sec is too high,3509218,0,3509424.0,2023-08-31 20:58:57,,342.0,AICIN
+27826,2023-08-31 20:52:56,Host has been restarted,3509206,0,3509477.0,2023-08-31 21:00:28,,452.0,AICIN
+27827,2023-08-31 20:27:11,High memory utilization,3508246,0,3509215.0,2023-08-31 20:53:11,,1560.0,AICIN
+27841,2023-08-31 20:24:34,Windows(C:): Disk space is low,3508145,0,3509211.0,2023-08-31 20:52:56,,1702.0,AICIN
+31212,2023-08-31 20:18:04,Azure: There are errors in requests to API,3507906,0,3507938.0,2023-08-31 20:19:02,,58.0,Azure virtual machine Ubuntu20.04
+28921,2023-08-31 19:44:33,Unavailable by ICMP ping,3506672,0,,2023-09-05 10:06:26,,,AP_18_Mumbai_BN
+31212,2023-08-31 17:48:04,Azure: There are errors in requests to API,3502382,0,3502417.0,2023-08-31 17:49:04,,60.0,Azure virtual machine Ubuntu20.04
+27827,2023-08-31 17:31:11,High memory utilization,3501743,0,3502126.0,2023-08-31 17:41:11,,600.0,AICIN
+27820,2023-08-31 17:30:59,The Memory Pages/sec is too high,3501738,0,3502161.0,2023-08-31 17:42:04,,665.0,AICIN
+27827,2023-08-31 17:04:11,High memory utilization,3500719,0,3501001.0,2023-08-31 17:11:11,,420.0,AICIN
+31212,2023-08-31 16:48:05,Azure: There are errors in requests to API,3500142,0,3500171.0,2023-08-31 16:48:58,,53.0,Azure virtual machine Ubuntu20.04
+27827,2023-08-31 16:36:11,High memory utilization,3499703,0,3499807.0,2023-08-31 16:39:11,,180.0,AICIN
+27840,2023-08-31 16:30:53,Windows(C:): Disk space is critically low,3499516,0,3502448.0,2023-08-31 17:49:52,,4739.0,AICIN
+31212,2023-08-31 16:18:06,Azure: There are errors in requests to API,3499038,0,3499061.0,2023-08-31 16:18:53,,47.0,Azure virtual machine Ubuntu20.04
+27827,2023-08-31 16:08:11,High memory utilization,3498657,0,3498691.0,2023-08-31 16:09:11,,60.0,AICIN
+27841,2023-08-31 15:45:25,Windows(C:): Disk space is low,3497808,0,3502449.0,2023-08-31 17:49:52,,7467.0,AICIN
+31179,2023-08-31 15:44:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3497738,0,3497776.0,2023-08-31 15:44:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-31 15:44:02,Azure Microsoft SQL: There are errors in requests to API,3497740,0,3497778.0,2023-08-31 15:44:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+27827,2023-08-31 15:31:11,High memory utilization,3497267,0,3497411.0,2023-08-31 15:35:11,,240.0,AICIN
+31212,2023-08-31 15:17:04,Azure: There are errors in requests to API,3496761,0,3496791.0,2023-08-31 15:17:59,,55.0,Azure virtual machine Ubuntu20.04
+29740,2023-08-31 15:05:46,PostgreSQL: Service has been restarted,3496321,0,3496718.0,2023-08-31 15:15:59,,613.0,PG2c
+29741,2023-08-31 14:55:01,PostgreSQL: Version has changed,3495882,0,3498734.0,2023-08-31 16:10:04,,4503.0,PG2c
+29737,2023-08-31 14:54:57,PostgreSQL: Service is down,3495875,0,3496282.0,2023-08-31 15:05:45,,648.0,PG2c
+29734,2023-08-31 14:54:56,PostgreSQL: Configuration has changed,3495872,0,3505398.0,2023-08-31 19:09:59,,15303.0,PG2c
+27840,2023-08-31 14:52:16,Windows(C:): Disk space is critically low,3495707,0,3497807.0,2023-08-31 15:45:25,,3189.0,AICIN
+31212,2023-08-31 14:47:04,Azure: There are errors in requests to API,3495519,0,3495581.0,2023-08-31 14:48:52,,108.0,Azure virtual machine Ubuntu20.04
+27827,2023-08-31 14:23:11,High memory utilization,3494657,0,3496946.0,2023-08-31 15:22:11,,3540.0,AICIN
+27827,2023-08-31 14:12:11,High memory utilization,3494239,0,3494389.0,2023-08-31 14:16:11,,240.0,AICIN
+24738,2023-08-31 13:47:05,Website Unavailable: Facebook,3493301,0,3507917.0,2023-08-31 20:18:32,,23487.0,Zabbix-Server-Standby
+31212,2023-08-31 13:47:04,Azure: There are errors in requests to API,3493300,0,3493327.0,2023-08-31 13:47:52,,48.0,Azure virtual machine Ubuntu20.04
+27840,2023-08-31 13:40:44,Windows(C:): Disk space is critically low,3493064,0,3495280.0,2023-08-31 14:40:04,,3560.0,AICIN
+27827,2023-08-31 13:23:11,High memory utilization,3492452,0,3493721.0,2023-08-31 13:58:11,,2100.0,AICIN
+28229,2023-08-31 13:08:29,WildFly: Failed to fetch info data,3491947,0,,2023-09-05 10:06:26,,,Wildfly-Jboss-JMX
+27827,2023-08-31 13:04:11,High memory utilization,3491808,0,3492112.0,2023-08-31 13:13:11,,540.0,AICIN
+27969,2023-08-31 13:03:39,MongoDB: Failed to fetch info data,3491788,0,,2023-09-05 10:06:26,,,MongoDB
+23616,2023-08-31 12:59:30,Zabbix server: Utilization of unreachable poller processes is high,3491643,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+29315,2023-08-31 12:59:29,Zabbix proxy: Utilization of unreachable poller processes is high,3491640,0,3626584.0,2023-09-05 09:05:29,,417960.0,Zabbixproxy
+29402,2023-08-31 12:58:48,Zabbix proxy: Utilization of unreachable poller processes is high,3491624,0,,2023-09-05 10:06:26,,,Zabbixproxy2
+26719,2023-08-31 12:56:48,Unavailable by ICMP ping,3491571,0,,2023-09-05 10:06:26,,,AP_2_Mumbai_KL
+29124,2023-08-31 12:56:39,Unavailable by ICMP ping,3491568,0,,2023-09-05 10:06:26,,,AP_26_Mumbai_KL
+28941,2023-08-31 12:56:36,Unavailable by ICMP ping,3491565,0,,2023-09-05 10:06:26,,,AP_19_Mumbai_BN
+29009,2023-08-31 12:56:36,Unavailable by ICMP ping,3491566,0,,2023-09-05 10:06:26,,,AP_7_Mumbai_KL
+28889,2023-08-31 12:56:33,Unavailable by ICMP ping,3491560,0,,2023-09-05 10:06:26,,,AP_16_Kerala_EK
+28901,2023-08-31 12:56:33,Unavailable by ICMP ping,3491561,0,,2023-09-05 10:06:26,,,AP_17_Mumbai_BN
+28847,2023-08-31 12:56:30,Unavailable by ICMP ping,3491559,0,,2023-09-05 10:06:26,,,AP_13_Mumbai_BN
+28754,2023-08-31 12:56:27,Unavailable by ICMP ping,3491555,0,,2023-09-05 10:06:26,,,AP_10_Mumbai_BN
+24214,2023-08-31 12:54:34,Website Unavailable: Grafana,3491504,0,3553238.0,2023-09-02 14:06:36,,177122.0,Web Scenario
+23296,2023-08-31 12:54:19,Website Unavailable: Grafana,3491495,0,3553232.0,2023-09-02 14:06:31,,177132.0,Zabbix-Server-Standby
+27827,2023-08-31 12:45:11,High memory utilization,3491240,0,3491583.0,2023-08-31 12:57:11,,720.0,AICIN
+26688,2023-08-31 12:18:14,/: Disk space is critically low,3490463,0,3490493.0,2023-08-31 12:19:14,,60.0,Zabbix-Server-Standby
+23533,2023-08-31 12:14:41,High CPU utilization,3490358,0,3490593.0,2023-08-31 12:22:41,,480.0,Docker server
+31179,2023-08-31 11:57:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3489820,0,3489855.0,2023-08-31 11:57:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-31 11:57:02,Azure Microsoft SQL: There are errors in requests to API,3489822,0,3489857.0,2023-08-31 11:57:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+27827,2023-08-31 11:50:11,High memory utilization,3489602,0,3490111.0,2023-08-31 12:06:12,,961.0,AICIN
+27827,2023-08-31 11:31:11,High memory utilization,3489018,0,3489262.0,2023-08-31 11:39:11,,480.0,AICIN
+27840,2023-08-31 11:29:43,Windows(C:): Disk space is critically low,3488975,0,3491356.0,2023-08-31 12:49:10,,4767.0,AICIN
+31212,2023-08-31 11:20:04,Azure: There are errors in requests to API,3488715,0,3488735.0,2023-08-31 11:20:52,,48.0,Azure virtual machine Ubuntu20.04
+30666,2023-08-31 11:06:42,Port 6379 is down for sometime,3488344,0,3519955.0,2023-09-01 09:23:52,,80230.0,Zabbix-Server-Active
+32166,2023-08-31 11:02:42,Port 45607 is down for sometime,3488235,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+29522,2023-08-31 11:01:42,Port 2181 is down for sometime,3488208,0,3519954.0,2023-09-01 09:23:52,,80530.0,Zabbix-Server-Active
+28851,2023-08-31 10:12:58,has been restarted,3486827,0,3487078.0,2023-08-31 10:19:58,,420.0,AP_13_Mumbai_BN
+28945,2023-08-31 10:12:34,has been restarted,3486809,0,3487085.0,2023-08-31 10:20:04,,450.0,AP_19_Mumbai_BN
+28946,2023-08-31 10:11:34,No SNMP data collection,3486755,0,3486808.0,2023-08-31 10:12:34,,60.0,AP_19_Mumbai_BN
+28853,2023-08-31 10:11:33,No SNMP data collection,3486749,0,3486807.0,2023-08-31 10:12:33,,60.0,AP_13_Mumbai_BN
+27106,2023-08-31 10:11:19,has been restarted,3486724,0,3487069.0,2023-08-31 10:19:49,,510.0,grafana-server
+29128,2023-08-31 10:11:08,has been restarted,3486720,0,3487089.0,2023-08-31 10:20:08,,540.0,AP_26_Mumbai_KL
+29013,2023-08-31 10:11:05,has been restarted,3486715,0,3487086.0,2023-08-31 10:20:05,,540.0,AP_7_Mumbai_KL
+28893,2023-08-31 10:11:04,has been restarted,3486712,0,3487080.0,2023-08-31 10:20:01,,537.0,AP_16_Kerala_EK
+28905,2023-08-31 10:11:04,has been restarted,3486713,0,3487081.0,2023-08-31 10:20:02,,538.0,AP_17_Mumbai_BN
+28758,2023-08-31 10:11:03,has been restarted,3486706,0,3487076.0,2023-08-31 10:19:55,,532.0,AP_10_Mumbai_BN
+24606,2023-08-31 10:10:50,Zabbix proxy: has been restarted,3486694,0,3487070.0,2023-08-31 10:19:50,,540.0,grafana-server
+28230,2023-08-31 10:10:40,WildFly: has been restarted,3486688,0,3487090.0,2023-08-31 10:20:09,,569.0,Wildfly-Jboss-JMX
+28921,2023-08-31 10:10:33,Unavailable by ICMP ping,3486678,0,3506200.0,2023-08-31 19:31:33,,33660.0,AP_18_Mumbai_BN
+29072,2023-08-31 10:10:32,High CPU utilization,3486661,0,3486748.0,2023-08-31 10:11:32,,60.0,AP_17_Mumbai_BN
+27970,2023-08-31 10:10:30,MongoDB: has been restarted,3486655,0,3487096.0,2023-08-31 10:20:28,,598.0,MongoDB
+23544,2023-08-31 10:10:26,Load average is too high,3486651,0,3486735.0,2023-08-31 10:11:26,,60.0,Docker server
+29181,2023-08-31 10:10:26,High CPU utilization,3486649,0,3486728.0,2023-08-31 10:11:25,,59.0,AP_10_Mumbai_BN
+23537,2023-08-31 10:10:17,has been restarted,3486642,0,3487068.0,2023-08-31 10:19:47,,570.0,Docker server
+27716,2023-08-31 10:10:12,Container /docker-cabot_web_1: An error has occurred in the container,3486638,0,,2023-09-05 10:06:26,,,Docker server
+26723,2023-08-31 10:09:55,has been restarted,3486617,0,3487093.0,2023-08-31 10:20:18,,623.0,AP_2_Mumbai_KL
+27109,2023-08-31 10:09:55,Zabbix agent is not available,3486615,0,3486700.0,2023-08-31 10:10:55,,60.0,grafana-server
+26720,2023-08-31 10:09:48,High ICMP ping loss,3486608,0,3486774.0,2023-08-31 10:11:48,,120.0,AP_2_Mumbai_KL
+27708,2023-08-31 09:40:48,Docker: Failed to fetch info data,3485589,0,3486680.0,2023-08-31 10:10:36,,1788.0,Docker server
+29302,2023-08-31 09:31:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3485318,0,3519939.0,2023-09-01 09:23:42,,85920.0,Zabbixproxy
+32164,2023-08-31 09:31:42,Port 45639 is down for sometime,3485319,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+23599,2023-08-31 09:31:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3485310,0,3519915.0,2023-09-01 09:23:27,,85920.0,Zabbix-Server-Active
+29389,2023-08-31 09:31:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3485308,0,3519908.0,2023-09-01 09:23:24,,85920.0,Zabbixproxy2
+29402,2023-08-31 09:21:48,Zabbix proxy: Utilization of unreachable poller processes is high,3485018,0,3491373.0,2023-08-31 12:49:48,,12480.0,Zabbixproxy2
+26266,2023-08-31 09:14:34,Forecast Memory Utilization High,3484789,0,3484823.0,2023-08-31 09:15:34,,60.0,Calculated and Aggregate items
+29740,2023-08-31 09:11:59,PostgreSQL: Service has been restarted,3484697,0,3485026.0,2023-08-31 09:21:59,,600.0,PG2c
+26662,2023-08-31 09:11:47,has been restarted,3484684,0,3484983.0,2023-08-31 09:20:47,,540.0,Zabbix-Server-Standby
+24646,2023-08-31 09:11:27,{HOST.NAME} is unavailable by ICMP - ({HOST.IP}),3484658,0,3513523.0,2023-08-31 22:51:27,,49200.0,Zabbix-Server-Standby
+29414,2023-08-31 09:11:26,Zabbix proxy: has been restarted,3484654,0,3485006.0,2023-08-31 09:21:26,,600.0,Zabbixproxy2
+26607,2023-08-31 09:11:11,has been restarted,3484636,0,3484978.0,2023-08-31 09:20:41,,570.0,Linux Server
+26639,2023-08-31 09:11:10,has been restarted,3484635,0,3484977.0,2023-08-31 09:20:40,,570.0,Zabbix-Server-Active
+26430,2023-08-31 09:11:09,has been restarted,3484633,0,3484975.0,2023-08-31 09:20:39,,570.0,standby-node-2
+26426,2023-08-31 09:11:03,High CPU utilization,3484618,0,3484699.0,2023-08-31 09:12:03,,60.0,standby-node-2
+29327,2023-08-31 09:10:55,Zabbix proxy: has been restarted,3484608,0,3484989.0,2023-08-31 09:20:55,,600.0,Zabbixproxy
+31212,2023-08-31 01:22:04,Azure: There are errors in requests to API,3484569,0,3484594.0,2023-08-31 01:22:52,,48.0,Azure virtual machine Ubuntu20.04
+26404,2023-08-31 00:18:04,Nginx: Failed to fetch stub status page,3482253,0,3484620.0,2023-08-31 09:11:03,,31979.0,standby-node-2
+29732,2023-08-31 00:18:02,PostgreSQL: Failed to get items,3482249,0,3484729.0,2023-08-31 09:12:44,,32082.0,PG2c
+31257,2023-08-31 00:17:57,Nginx: Failed to fetch stub status page,3482244,0,3484681.0,2023-08-31 09:11:44,,32027.0,NGINX clone
+24738,2023-08-31 00:16:00,Website Unavailable: Facebook,3482180,0,3483484.0,2023-08-31 00:52:15,,2175.0,Zabbix-Server-Standby
+31179,2023-08-30 23:57:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3481504,0,3481544.0,2023-08-30 23:57:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-30 23:57:02,Azure Microsoft SQL: There are errors in requests to API,3481506,0,3481546.0,2023-08-30 23:57:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+26665,2023-08-30 23:52:23,Zabbix agent is not available,3481328,0,3484709.0,2023-08-31 09:12:23,,33600.0,Zabbix-Server-Standby
+26433,2023-08-30 23:52:05,Zabbix agent is not available,3481322,0,3484624.0,2023-08-31 09:11:05,,33540.0,standby-node-2
+31212,2023-08-30 23:50:04,Azure: There are errors in requests to API,3481251,0,3481276.0,2023-08-30 23:50:51,,47.0,Azure virtual machine Ubuntu20.04
+23296,2023-08-30 23:48:44,Website Unavailable: Grafana,3481202,0,3486696.0,2023-08-31 10:10:52,,37328.0,Zabbix-Server-Standby
+24214,2023-08-30 23:48:29,Website Unavailable: Grafana,3481188,0,3486693.0,2023-08-31 10:10:48,,37339.0,Web Scenario
+24518,2023-08-30 23:48:09,Cluster node [node2]: Status changed,3481183,0,3509859.0,2023-08-31 21:11:09,,76980.0,Zabbix-Server-Active
+23340,2023-08-30 23:48:04,Nginx: Service is down,3481179,0,3484622.0,2023-08-31 09:11:04,,33780.0,NGINX
+31212,2023-08-30 23:18:05,Azure: There are errors in requests to API,3480056,0,3480084.0,2023-08-30 23:18:58,,53.0,Azure virtual machine Ubuntu20.04
+31179,2023-08-30 23:17:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3479997,0,3480040.0,2023-08-30 23:17:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-30 23:17:02,Azure Microsoft SQL: There are errors in requests to API,3479999,0,3480042.0,2023-08-30 23:17:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-30 22:17:04,Azure: There are errors in requests to API,3477686,0,3477718.0,2023-08-30 22:17:58,,54.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-30 19:51:05,Azure: There are errors in requests to API,3472205,0,3472229.0,2023-08-30 19:51:51,,46.0,Azure virtual machine Ubuntu20.04
+24738,2023-08-30 19:30:51,Website Unavailable: Facebook,3471443,0,3479772.0,2023-08-30 23:11:25,,13234.0,Zabbix-Server-Standby
+31212,2023-08-30 19:19:05,Azure: There are errors in requests to API,3471006,0,3471077.0,2023-08-30 19:21:01,,116.0,Azure virtual machine Ubuntu20.04
+24738,2023-08-30 17:31:06,Website Unavailable: Facebook,3466937,0,3471255.0,2023-08-30 19:25:51,,6885.0,Zabbix-Server-Standby
+24738,2023-08-30 16:42:53,Website Unavailable: Facebook,3465081,0,3466705.0,2023-08-30 17:25:03,,2530.0,Zabbix-Server-Standby
+24738,2023-08-30 16:30:51,Website Unavailable: Facebook,3464623,0,3464847.0,2023-08-30 16:36:52,,361.0,Zabbix-Server-Standby
+32165,2023-08-30 16:27:04,Port 38993 is down for sometime,3464486,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+24214,2023-08-30 16:02:59,Website Unavailable: Grafana,3463535,0,3463727.0,2023-08-30 16:07:44,,285.0,Web Scenario
+23296,2023-08-30 16:02:42,Website Unavailable: Grafana,3463525,0,3463713.0,2023-08-30 16:07:27,,285.0,Zabbix-Server-Standby
+27772,2023-08-30 14:16:01,Space Utilization > 70%,3459545,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+28807,2023-08-30 14:11:27,Unavailable by ICMP ping,3459376,0,,2023-09-05 10:06:26,,,AP_11_Mumbai_BN
+27772,2023-08-30 14:07:01,Space Utilization > 70%,3459209,0,3459244.0,2023-08-30 14:08:02,,61.0,Zabbix-Server-Active
+26265,2023-08-30 14:05:33,Forecast CPU Utilization High,3459152,0,3459188.0,2023-08-30 14:06:33,,60.0,Calculated and Aggregate items
+24738,2023-08-30 13:41:13,Website Unavailable: Facebook,3458249,0,3464376.0,2023-08-30 16:24:50,,9817.0,Zabbix-Server-Standby
+28229,2023-08-30 12:32:29,WildFly: Failed to fetch info data,3455775,0,3486687.0,2023-08-31 10:10:40,,77891.0,Wildfly-Jboss-JMX
+27969,2023-08-30 12:27:39,MongoDB: Failed to fetch info data,3455617,0,3486657.0,2023-08-31 10:10:30,,78171.0,MongoDB
+29740,2023-08-30 12:22:59,PostgreSQL: Service has been restarted,3455427,0,3455796.0,2023-08-30 12:32:59,,600.0,PG2c
+26719,2023-08-30 12:20:48,Unavailable by ICMP ping,3455330,0,3486607.0,2023-08-31 10:09:48,,78540.0,AP_2_Mumbai_KL
+29124,2023-08-30 12:20:39,Unavailable by ICMP ping,3455327,0,3486689.0,2023-08-31 10:10:39,,78600.0,AP_26_Mumbai_KL
+28941,2023-08-30 12:20:36,Unavailable by ICMP ping,3455324,0,3486684.0,2023-08-31 10:10:36,,78600.0,AP_19_Mumbai_BN
+29009,2023-08-30 12:20:36,Unavailable by ICMP ping,3455325,0,3486685.0,2023-08-31 10:10:36,,78600.0,AP_7_Mumbai_KL
+28889,2023-08-30 12:20:33,Unavailable by ICMP ping,3455319,0,3486676.0,2023-08-31 10:10:33,,78600.0,AP_16_Kerala_EK
+28901,2023-08-30 12:20:33,Unavailable by ICMP ping,3455320,0,3486677.0,2023-08-31 10:10:33,,78600.0,AP_17_Mumbai_BN
+28847,2023-08-30 12:20:30,Unavailable by ICMP ping,3455318,0,3486666.0,2023-08-31 10:10:30,,78600.0,AP_13_Mumbai_BN
+28754,2023-08-30 12:20:27,Unavailable by ICMP ping,3455314,0,3486656.0,2023-08-31 10:10:27,,78600.0,AP_10_Mumbai_BN
+24214,2023-08-30 12:18:39,Website Unavailable: Grafana,3455261,0,3462523.0,2023-08-30 15:35:59,,11840.0,Web Scenario
+23296,2023-08-30 12:18:23,Website Unavailable: Grafana,3455251,0,3462549.0,2023-08-30 15:36:42,,11899.0,Zabbix-Server-Standby
+29741,2023-08-30 11:40:00,PostgreSQL: Version has changed,3454062,0,3485119.0,2023-08-31 09:25:00,,78300.0,PG2c
+29734,2023-08-30 11:39:56,PostgreSQL: Configuration has changed,3454059,0,3457635.0,2023-08-30 13:24:59,,6303.0,PG2c
+29737,2023-08-30 11:35:57,PostgreSQL: Service is down,3453914,0,3455424.0,2023-08-30 12:22:57,,2820.0,PG2c
+31212,2023-08-30 11:22:04,Azure: There are errors in requests to API,3453453,0,3453477.0,2023-08-30 11:22:52,,48.0,Azure virtual machine Ubuntu20.04
+23616,2023-08-30 09:46:30,Zabbix server: Utilization of unreachable poller processes is high,3450587,0,3491362.0,2023-08-31 12:49:30,,97380.0,Zabbix-Server-Active
+29315,2023-08-30 09:46:29,Zabbix proxy: Utilization of unreachable poller processes is high,3450588,0,3491361.0,2023-08-31 12:49:29,,97380.0,Zabbixproxy
+29402,2023-08-30 09:45:48,Zabbix proxy: Utilization of unreachable poller processes is high,3450567,0,3484596.0,2023-08-31 09:10:48,,84300.0,Zabbixproxy2
+29302,2023-08-30 09:33:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3450237,0,3484677.0,2023-08-31 09:11:42,,85080.0,Zabbixproxy
+23599,2023-08-30 09:33:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3450232,0,3484655.0,2023-08-31 09:11:27,,85080.0,Zabbix-Server-Active
+29389,2023-08-30 09:33:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3450230,0,3484647.0,2023-08-31 09:11:24,,85080.0,Zabbixproxy2
+32159,2023-08-30 09:33:02,Port 46703 is down for sometime,3450216,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+26265,2023-08-30 09:21:33,Forecast CPU Utilization High,3449901,0,3449974.0,2023-08-30 09:23:33,,120.0,Calculated and Aggregate items
+26266,2023-08-30 09:15:34,Forecast Memory Utilization High,3449618,0,3449902.0,2023-08-30 09:21:34,,360.0,Calculated and Aggregate items
+28230,2023-08-30 09:14:10,WildFly: has been restarted,3449527,0,3449921.0,2023-08-30 09:22:09,,479.0,Wildfly-Jboss-JMX
+32160,2023-08-30 09:14:07,/var/snap/lxd/common/shmounts: Disk space is critically low,3449518,0,3486716.0,2023-08-31 10:11:07,,89820.0,grafana-server
+28910,2023-08-30 09:13:32,Load average is too high,3449446,0,3449586.0,2023-08-30 09:14:32,,60.0,AP_17_Mumbai_BN
+26723,2023-08-30 09:13:28,has been restarted,3449436,0,3449931.0,2023-08-30 09:22:18,,530.0,AP_2_Mumbai_KL
+28856,2023-08-30 09:13:28,Load average is too high,3449434,0,3449561.0,2023-08-30 09:14:28,,60.0,AP_13_Mumbai_BN
+28763,2023-08-30 09:13:26,Load average is too high,3449425,0,3449558.0,2023-08-30 09:14:25,,59.0,AP_10_Mumbai_BN
+27714,2023-08-30 09:13:12,Container /docker-cabot_web_1: Container has been stopped with error code,3449402,0,,2023-09-05 10:06:26,,,Docker server
+28085,2023-08-30 09:13:12,Container /docker-cabot_web_1: Docker container stopped state,3449404,0,,2023-09-05 10:06:26,,,Docker server
+24518,2023-08-30 09:13:09,Cluster node [node2]: Status changed,3449394,0,3475288.0,2023-08-30 21:13:09,,43200.0,Zabbix-Server-Active
+26430,2023-08-30 09:13:09,has been restarted,3449395,0,3449918.0,2023-08-30 09:22:09,,540.0,standby-node-2
+29128,2023-08-30 09:13:08,has been restarted,3449392,0,3449945.0,2023-08-30 09:22:38,,570.0,AP_26_Mumbai_KL
+29013,2023-08-30 09:13:05,has been restarted,3449389,0,3449943.0,2023-08-30 09:22:35,,570.0,AP_7_Mumbai_KL
+28905,2023-08-30 09:13:02,has been restarted,3449382,0,3449941.0,2023-08-30 09:22:32,,570.0,AP_17_Mumbai_BN
+28893,2023-08-30 09:13:01,has been restarted,3449380,0,3449940.0,2023-08-30 09:22:31,,570.0,AP_16_Kerala_EK
+29740,2023-08-30 09:12:59,PostgreSQL: Service has been restarted,3449377,0,3449957.0,2023-08-30 09:22:59,,600.0,PG2c
+28851,2023-08-30 09:12:58,has been restarted,3449376,0,3449938.0,2023-08-30 09:22:28,,570.0,AP_13_Mumbai_BN
+28758,2023-08-30 09:12:55,has been restarted,3449374,0,3449935.0,2023-08-30 09:22:25,,570.0,AP_10_Mumbai_BN
+29327,2023-08-30 09:12:55,Zabbix proxy: has been restarted,3449370,0,3449956.0,2023-08-30 09:22:55,,600.0,Zabbixproxy
+24606,2023-08-30 09:12:50,Zabbix proxy: has been restarted,3449364,0,3449951.0,2023-08-30 09:22:50,,600.0,grafana-server
+27151,2023-08-30 09:12:49,/: Disk space is critically low,3449357,0,3486772.0,2023-08-31 10:11:49,,89940.0,grafana-server
+28945,2023-08-30 09:12:47,has been restarted,3449354,0,3449942.0,2023-08-30 09:22:34,,587.0,AP_19_Mumbai_BN
+26639,2023-08-30 09:12:40,has been restarted,3449336,0,3449920.0,2023-08-30 09:22:10,,570.0,Zabbix-Server-Active
+27113,2023-08-30 09:12:28,Load average is too high,3449295,0,3449428.0,2023-08-30 09:13:26,,58.0,grafana-server
+27970,2023-08-30 09:12:28,MongoDB: has been restarted,3449289,0,3449937.0,2023-08-30 09:22:28,,600.0,MongoDB
+24646,2023-08-30 09:12:27,{HOST.NAME} is unavailable by ICMP - ({HOST.IP}),3449297,0,3481261.0,2023-08-30 23:50:27,,52680.0,Zabbix-Server-Standby
+29414,2023-08-30 09:12:26,Zabbix proxy: has been restarted,3449282,0,3449936.0,2023-08-30 09:22:26,,600.0,Zabbixproxy2
+27106,2023-08-30 09:12:19,has been restarted,3449264,0,3449932.0,2023-08-30 09:22:19,,600.0,grafana-server
+26662,2023-08-30 09:12:17,has been restarted,3449255,0,3449929.0,2023-08-30 09:22:17,,600.0,Zabbix-Server-Standby
+23585,2023-08-30 09:12:16,/: Disk space is low,3449253,0,,2023-09-05 10:06:26,,,Docker server
+26607,2023-08-30 09:12:11,has been restarted,3449243,0,3449924.0,2023-08-30 09:22:11,,600.0,Linux Server
+24738,2023-08-29 23:48:46,Website Unavailable: Facebook,3449181,0,3449242.0,2023-08-30 09:12:09,,33803.0,Zabbix-Server-Standby
+31182,2023-08-29 23:44:02,Azure Microsoft SQL: There are errors in requests to API,3449016,0,3449041.0,2023-08-29 23:44:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31179,2023-08-29 23:40:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3448862,0,3448899.0,2023-08-29 23:40:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 23:40:02,Azure Microsoft SQL: There are errors in requests to API,3448864,0,3448901.0,2023-08-29 23:40:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 23:39:04,Azure: There are errors in requests to API,3448817,0,3448979.0,2023-08-29 23:42:57,,233.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 23:37:04,Azure: There are errors in requests to API,3448745,0,3448771.0,2023-08-29 23:37:53,,49.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 23:34:04,Azure: There are errors in requests to API,3448627,0,3448663.0,2023-08-29 23:34:52,,48.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 23:34:02,Azure Microsoft SQL: There are errors in requests to API,3448622,0,3448660.0,2023-08-29 23:34:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 23:31:04,Azure: There are errors in requests to API,3448510,0,3448532.0,2023-08-29 23:31:52,,48.0,Azure virtual machine Ubuntu20.04
+31217,2023-08-29 23:30:45,Azure: There are errors in requests to API,3448495,0,3449239.0,2023-08-29 23:50:32,,1187.0,Azure_AJ
+31212,2023-08-29 23:29:05,Azure: There are errors in requests to API,3448438,0,3448464.0,2023-08-29 23:29:54,,49.0,Azure virtual machine Ubuntu20.04
+31173,2023-08-29 23:27:06,Azure: There are errors in requests to API,3448351,0,3448733.0,2023-08-29 23:36:53,,587.0,Azure
+31212,2023-08-29 23:27:04,Azure: There are errors in requests to API,3448350,0,3448392.0,2023-08-29 23:27:52,,48.0,Azure virtual machine Ubuntu20.04
+31179,2023-08-29 23:27:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3448344,0,3448387.0,2023-08-29 23:27:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 23:27:02,Azure Microsoft SQL: There are errors in requests to API,3448346,0,3448389.0,2023-08-29 23:27:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31179,2023-08-29 23:25:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3448249,0,3448287.0,2023-08-29 23:25:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 23:24:04,Azure: There are errors in requests to API,3448205,0,3448229.0,2023-08-29 23:24:53,,49.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 23:24:02,Azure Microsoft SQL: There are errors in requests to API,3448201,0,3448289.0,2023-08-29 23:25:49,,107.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 23:21:04,Azure: There are errors in requests to API,3448099,0,3448161.0,2023-08-29 23:22:55,,111.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 23:17:04,Azure: There are errors in requests to API,3447957,0,3448018.0,2023-08-29 23:18:53,,109.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 23:16:02,Azure Microsoft SQL: There are errors in requests to API,3447918,0,3447943.0,2023-08-29 23:16:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 23:13:04,Azure: There are errors in requests to API,3447816,0,3447840.0,2023-08-29 23:13:52,,48.0,Azure virtual machine Ubuntu20.04
+31179,2023-08-29 23:11:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3447728,0,3447766.0,2023-08-29 23:11:48,,46.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 23:11:02,Azure Microsoft SQL: There are errors in requests to API,3447730,0,3447768.0,2023-08-29 23:11:48,,46.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 23:05:04,Azure: There are errors in requests to API,3447512,0,3447535.0,2023-08-29 23:05:51,,47.0,Azure virtual machine Ubuntu20.04
+31179,2023-08-29 23:01:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3447359,0,3447397.0,2023-08-29 23:01:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 23:01:02,Azure Microsoft SQL: There are errors in requests to API,3447361,0,3447399.0,2023-08-29 23:01:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 22:59:04,Azure: There are errors in requests to API,3447265,0,3447339.0,2023-08-29 23:00:52,,108.0,Azure virtual machine Ubuntu20.04
+31179,2023-08-29 22:59:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3447257,0,3447298.0,2023-08-29 22:59:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 22:59:02,Azure Microsoft SQL: There are errors in requests to API,3447259,0,3447300.0,2023-08-29 22:59:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 22:55:02,Azure Microsoft SQL: There are errors in requests to API,3447107,0,3447133.0,2023-08-29 22:55:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 22:53:04,Azure: There are errors in requests to API,3447027,0,3447064.0,2023-08-29 22:53:52,,48.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 22:53:02,Azure Microsoft SQL: There are errors in requests to API,3447021,0,3447061.0,2023-08-29 22:53:48,,46.0,Azure Microsoft SQL database azure-sqlserver1
+31218,2023-08-29 22:50:46,Azure: There are errors in storages requests to API,3446931,0,3447697.0,2023-08-29 23:10:33,,1187.0,Azure_AJ
+31173,2023-08-29 22:47:06,Azure: There are errors in requests to API,3446802,0,3447168.0,2023-08-29 22:56:52,,586.0,Azure
+31182,2023-08-29 22:47:02,Azure Microsoft SQL: There are errors in requests to API,3446798,0,3446826.0,2023-08-29 22:47:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31179,2023-08-29 22:44:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3446676,0,3446717.0,2023-08-29 22:44:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 22:44:02,Azure Microsoft SQL: There are errors in requests to API,3446678,0,3446719.0,2023-08-29 22:44:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 22:43:04,Azure: There are errors in requests to API,3446633,0,3446720.0,2023-08-29 22:44:52,,108.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 22:37:02,Azure Microsoft SQL: There are errors in requests to API,3446405,0,3446549.0,2023-08-29 22:40:49,,227.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 22:35:05,Azure: There are errors in requests to API,3446324,0,3446384.0,2023-08-29 22:36:52,,107.0,Azure virtual machine Ubuntu20.04
+31179,2023-08-29 22:32:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3446201,0,3446239.0,2023-08-29 22:32:51,,49.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 22:32:02,Azure Microsoft SQL: There are errors in requests to API,3446203,0,3446241.0,2023-08-29 22:32:51,,49.0,Azure Microsoft SQL database azure-sqlserver1
+31217,2023-08-29 22:30:45,Azure: There are errors in requests to API,3446142,0,3446525.0,2023-08-29 22:40:32,,587.0,Azure_AJ
+31212,2023-08-29 22:29:59,Azure: There are errors in requests to API,3446114,0,3446181.0,2023-08-29 22:31:52,,113.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 22:23:04,Azure: There are errors in requests to API,3445873,0,3445898.0,2023-08-29 22:23:53,,49.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 22:23:02,Azure Microsoft SQL: There are errors in requests to API,3445868,0,3445904.0,2023-08-29 22:23:55,,53.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 22:20:05,Azure: There are errors in requests to API,3445755,0,3445790.0,2023-08-29 22:20:50,,45.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 22:20:02,Azure Microsoft SQL: There are errors in requests to API,3445751,0,3445788.0,2023-08-29 22:20:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31173,2023-08-29 22:17:06,Azure: There are errors in requests to API,3445637,0,3446386.0,2023-08-29 22:36:53,,1187.0,Azure
+31212,2023-08-29 22:16:04,Azure: There are errors in requests to API,3445602,0,3445624.0,2023-08-29 22:16:52,,48.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 22:14:02,Azure Microsoft SQL: There are errors in requests to API,3445528,0,3445554.0,2023-08-29 22:14:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 22:07:02,Azure Microsoft SQL: There are errors in requests to API,3445264,0,3445349.0,2023-08-29 22:08:50,,108.0,Azure Microsoft SQL database azure-sqlserver1
+31179,2023-08-29 22:03:03,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3445112,0,3445150.0,2023-08-29 22:03:50,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 22:02:02,Azure Microsoft SQL: There are errors in requests to API,3445076,0,3445152.0,2023-08-29 22:03:50,,108.0,Azure Microsoft SQL database azure-sqlserver1
+31174,2023-08-29 21:57:07,Azure: There are errors in storages requests to API,3444897,0,3445255.0,2023-08-29 22:06:53,,586.0,Azure
+31182,2023-08-29 21:56:02,Azure Microsoft SQL: There are errors in requests to API,3444846,0,3444882.0,2023-08-29 21:56:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 21:53:04,Azure: There are errors in requests to API,3444736,0,3444759.0,2023-08-29 21:53:52,,48.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 21:52:02,Azure Microsoft SQL: There are errors in requests to API,3444697,0,3444722.0,2023-08-29 21:52:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31179,2023-08-29 21:49:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3444578,0,3444617.0,2023-08-29 21:49:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 21:49:02,Azure Microsoft SQL: There are errors in requests to API,3444580,0,3444619.0,2023-08-29 21:49:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31173,2023-08-29 21:47:06,Azure: There are errors in requests to API,3444486,0,3444885.0,2023-08-29 21:56:54,,588.0,Azure
+31182,2023-08-29 21:47:02,Azure Microsoft SQL: There are errors in requests to API,3444482,0,3444521.0,2023-08-29 21:47:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 21:45:02,Azure Microsoft SQL: There are errors in requests to API,3444389,0,3444427.0,2023-08-29 21:45:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 21:44:05,Azure: There are errors in requests to API,3444345,0,3444369.0,2023-08-29 21:44:52,,47.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 21:43:02,Azure Microsoft SQL: There are errors in requests to API,3444304,0,3444330.0,2023-08-29 21:43:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 21:40:02,Azure Microsoft SQL: There are errors in requests to API,3444200,0,3444226.0,2023-08-29 21:40:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 21:39:04,Azure: There are errors in requests to API,3444166,0,3444191.0,2023-08-29 21:39:53,,49.0,Azure virtual machine Ubuntu20.04
+31217,2023-08-29 21:30:45,Azure: There are errors in requests to API,3443874,0,3444214.0,2023-08-29 21:40:31,,586.0,Azure_AJ
+31212,2023-08-29 21:28:04,Azure: There are errors in requests to API,3443782,0,3443806.0,2023-08-29 21:28:53,,49.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 21:26:04,Azure: There are errors in requests to API,3443710,0,3443734.0,2023-08-29 21:26:52,,48.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 21:26:02,Azure Microsoft SQL: There are errors in requests to API,3443706,0,3443732.0,2023-08-29 21:26:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 21:24:04,Azure: There are errors in requests to API,3443638,0,3443666.0,2023-08-29 21:24:55,,51.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 21:22:04,Azure: There are errors in requests to API,3443567,0,3443591.0,2023-08-29 21:22:52,,48.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 21:18:02,Azure Microsoft SQL: There are errors in requests to API,3443423,0,3443449.0,2023-08-29 21:18:51,,49.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 21:12:02,Azure Microsoft SQL: There are errors in requests to API,3443212,0,3443238.0,2023-08-29 21:12:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31218,2023-08-29 21:10:46,Azure: There are errors in storages requests to API,3443168,0,3443510.0,2023-08-29 21:20:32,,586.0,Azure_AJ
+31182,2023-08-29 21:07:02,Azure Microsoft SQL: There are errors in requests to API,3443025,0,3443062.0,2023-08-29 21:07:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 21:06:04,Azure: There are errors in requests to API,3442982,0,3443009.0,2023-08-29 21:06:56,,52.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 21:05:02,Azure Microsoft SQL: There are errors in requests to API,3442932,0,3442968.0,2023-08-29 21:05:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 20:59:04,Azure: There are errors in requests to API,3442720,0,3442743.0,2023-08-29 20:59:53,,49.0,Azure virtual machine Ubuntu20.04
+31179,2023-08-29 20:55:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3442567,0,3442603.0,2023-08-29 20:56:02,,60.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 20:54:06,Azure: There are errors in requests to API,3442534,0,3442557.0,2023-08-29 20:54:52,,46.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 20:54:02,Azure Microsoft SQL: There are errors in requests to API,3442530,0,3442673.0,2023-08-29 20:57:50,,228.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 20:48:04,Azure: There are errors in requests to API,3442313,0,3442346.0,2023-08-29 20:49:02,,58.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 20:48:02,Azure Microsoft SQL: There are errors in requests to API,3442310,0,3442336.0,2023-08-29 20:48:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 20:45:04,Azure: There are errors in requests to API,3442202,0,3442263.0,2023-08-29 20:46:52,,108.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 20:37:04,Azure: There are errors in requests to API,3441925,0,3441952.0,2023-08-29 20:37:53,,49.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 20:34:05,Azure: There are errors in requests to API,3441819,0,3441878.0,2023-08-29 20:35:53,,108.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 20:32:02,Azure Microsoft SQL: There are errors in requests to API,3441745,0,3441770.0,2023-08-29 20:32:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31179,2023-08-29 20:27:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3441552,0,3441592.0,2023-08-29 20:28:02,,60.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 20:26:04,Azure: There are errors in requests to API,3441509,0,3441531.0,2023-08-29 20:26:51,,47.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 20:26:02,Azure Microsoft SQL: There are errors in requests to API,3441505,0,3441665.0,2023-08-29 20:29:48,,226.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 20:21:04,Azure: There are errors in requests to API,3441335,0,3441358.0,2023-08-29 20:21:52,,48.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 20:14:04,Azure: There are errors in requests to API,3441084,0,3441142.0,2023-08-29 20:15:51,,107.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 20:14:02,Azure Microsoft SQL: There are errors in requests to API,3441080,0,3441106.0,2023-08-29 20:14:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 20:11:02,Azure Microsoft SQL: There are errors in requests to API,3440976,0,3441001.0,2023-08-29 20:11:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 20:08:04,Azure: There are errors in requests to API,3440874,0,3440897.0,2023-08-29 20:08:52,,48.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 20:05:02,Azure Microsoft SQL: There are errors in requests to API,3440754,0,3440790.0,2023-08-29 20:05:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 20:01:02,Azure Microsoft SQL: There are errors in requests to API,3440606,0,3440631.0,2023-08-29 20:01:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31217,2023-08-29 20:00:45,Azure: There are errors in requests to API,3440594,0,3440953.0,2023-08-29 20:10:32,,587.0,Azure_AJ
+31212,2023-08-29 19:59:04,Azure: There are errors in requests to API,3440538,0,3440561.0,2023-08-29 19:59:51,,47.0,Azure virtual machine Ubuntu20.04
+31173,2023-08-29 19:57:06,Azure: There are errors in requests to API,3440467,0,3441912.0,2023-08-29 20:36:54,,2388.0,Azure
+31182,2023-08-29 19:55:02,Azure Microsoft SQL: There are errors in requests to API,3440384,0,3440420.0,2023-08-29 19:55:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 19:49:02,Azure Microsoft SQL: There are errors in requests to API,3440168,0,3440195.0,2023-08-29 19:49:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 19:44:05,Azure: There are errors in requests to API,3439999,0,3440023.0,2023-08-29 19:44:53,,48.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 19:43:02,Azure Microsoft SQL: There are errors in requests to API,3439957,0,3439984.0,2023-08-29 19:43:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 19:42:04,Azure: There are errors in requests to API,3439923,0,3439948.0,2023-08-29 19:42:53,,49.0,Azure virtual machine Ubuntu20.04
+31217,2023-08-29 19:40:45,Azure: There are errors in requests to API,3439875,0,3440218.0,2023-08-29 19:50:31,,586.0,Azure_AJ
+31179,2023-08-29 19:37:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3439729,0,3439770.0,2023-08-29 19:37:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 19:37:02,Azure Microsoft SQL: There are errors in requests to API,3439731,0,3439772.0,2023-08-29 19:37:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 19:34:04,Azure: There are errors in requests to API,3439616,0,3439674.0,2023-08-29 19:35:51,,107.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 19:29:02,Azure Microsoft SQL: There are errors in requests to API,3439430,0,3439465.0,2023-08-29 19:29:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31173,2023-08-29 19:27:06,Azure: There are errors in requests to API,3439346,0,3439710.0,2023-08-29 19:36:53,,587.0,Azure
+31212,2023-08-29 19:27:04,Azure: There are errors in requests to API,3439345,0,3439373.0,2023-08-29 19:27:52,,48.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 19:27:02,Azure Microsoft SQL: There are errors in requests to API,3439341,0,3439370.0,2023-08-29 19:27:48,,46.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 19:22:52,Azure: There are errors in requests to API,3439191,0,3439228.0,2023-08-29 19:23:51,,59.0,Azure virtual machine Ubuntu20.04
+31174,2023-08-29 19:17:07,Azure: There are errors in storages requests to API,3438983,0,3439332.0,2023-08-29 19:26:53,,586.0,Azure
+31179,2023-08-29 19:17:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3438974,0,3439016.0,2023-08-29 19:17:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 19:16:04,Azure: There are errors in requests to API,3438932,0,3439022.0,2023-08-29 19:17:52,,108.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 19:16:02,Azure Microsoft SQL: There are errors in requests to API,3438928,0,3439018.0,2023-08-29 19:17:49,,107.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 19:07:04,Azure: There are errors in requests to API,3438617,0,3438641.0,2023-08-29 19:07:52,,48.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 19:03:05,Azure: There are errors in requests to API,3438465,0,3438502.0,2023-08-29 19:03:52,,47.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 19:03:02,Azure Microsoft SQL: There are errors in requests to API,3438460,0,3438499.0,2023-08-29 19:03:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31173,2023-08-29 18:57:06,Azure: There are errors in requests to API,3438243,0,3438605.0,2023-08-29 19:06:53,,587.0,Azure
+31212,2023-08-29 18:54:04,Azure: There are errors in requests to API,3438139,0,3438164.0,2023-08-29 18:54:53,,49.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 18:49:05,Azure: There are errors in requests to API,3437967,0,3437991.0,2023-08-29 18:49:52,,47.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 18:45:02,Azure Microsoft SQL: There are errors in requests to API,3437823,0,3437848.0,2023-08-29 18:45:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 18:43:05,Azure: There are errors in requests to API,3437757,0,3437780.0,2023-08-29 18:43:51,,46.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 18:38:04,Azure: There are errors in requests to API,3437586,0,3437610.0,2023-08-29 18:38:52,,48.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 18:29:02,Azure Microsoft SQL: There are errors in requests to API,3437269,0,3437296.0,2023-08-29 18:29:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 18:24:04,Azure: There are errors in requests to API,3437082,0,3437121.0,2023-08-29 18:24:53,,49.0,Azure virtual machine Ubuntu20.04
+31179,2023-08-29 18:24:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3437077,0,3437117.0,2023-08-29 18:24:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 18:24:02,Azure Microsoft SQL: There are errors in requests to API,3437079,0,3437119.0,2023-08-29 18:24:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 18:09:04,Azure: There are errors in requests to API,3436557,0,3436579.0,2023-08-29 18:09:52,,48.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 18:03:02,Azure Microsoft SQL: There are errors in requests to API,3436339,0,3436375.0,2023-08-29 18:03:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31217,2023-08-29 17:40:45,Azure: There are errors in requests to API,3435585,0,3435913.0,2023-08-29 17:50:32,,587.0,Azure_AJ
+31182,2023-08-29 17:40:02,Azure Microsoft SQL: There are errors in requests to API,3435561,0,3435587.0,2023-08-29 17:40:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 17:36:02,Azure Microsoft SQL: There are errors in requests to API,3435426,0,3435451.0,2023-08-29 17:36:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 17:22:04,Azure: There are errors in requests to API,3434964,0,3435020.0,2023-08-29 17:23:51,,107.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 17:18:04,Azure: There are errors in requests to API,3434828,0,3434851.0,2023-08-29 17:18:51,,47.0,Azure virtual machine Ubuntu20.04
+31217,2023-08-29 17:10:45,Azure: There are errors in requests to API,3434583,0,3434907.0,2023-08-29 17:20:32,,587.0,Azure_AJ
+31212,2023-08-29 16:58:04,Azure: There are errors in requests to API,3434160,0,3434184.0,2023-08-29 16:58:52,,48.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 16:57:02,Azure Microsoft SQL: There are errors in requests to API,3434110,0,3434182.0,2023-08-29 16:58:50,,108.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 16:55:04,Azure: There are errors in requests to API,3434033,0,3434094.0,2023-08-29 16:56:57,,113.0,Azure virtual machine Ubuntu20.04
+31173,2023-08-29 16:47:06,Azure: There are errors in requests to API,3433766,0,3434090.0,2023-08-29 16:56:53,,587.0,Azure
+31212,2023-08-29 16:47:04,Azure: There are errors in requests to API,3433765,0,3433789.0,2023-08-29 16:47:51,,47.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 16:44:04,Azure: There are errors in requests to API,3433664,0,3433686.0,2023-08-29 16:44:51,,47.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 16:36:04,Azure: There are errors in requests to API,3433396,0,3433453.0,2023-08-29 16:37:51,,107.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 16:22:04,Azure: There are errors in requests to API,3432929,0,3432952.0,2023-08-29 16:22:52,,48.0,Azure virtual machine Ubuntu20.04
+31182,2023-08-29 16:06:02,Azure Microsoft SQL: There are errors in requests to API,3432377,0,3432415.0,2023-08-29 16:06:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31179,2023-08-29 15:38:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3431420,0,3431458.0,2023-08-29 15:38:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 15:38:02,Azure Microsoft SQL: There are errors in requests to API,3431422,0,3431460.0,2023-08-29 15:38:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 15:29:02,Azure Microsoft SQL: There are errors in requests to API,3431098,0,3431134.0,2023-08-29 15:29:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-08-29 14:58:04,Azure: There are errors in requests to API,3430060,0,3430082.0,2023-08-29 14:58:51,,47.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 14:46:04,Azure: There are errors in requests to API,3429660,0,3429682.0,2023-08-29 14:46:51,,47.0,Azure virtual machine Ubuntu20.04
+26787,2023-08-29 14:27:54,Unavailable by ICMP ping,3429057,0,3525522.0,2023-09-01 12:04:53,,250619.0,AP_7_Kerala_TH
+26804,2023-08-29 14:27:54,Unavailable by ICMP ping,3429058,0,3525523.0,2023-09-01 12:04:53,,250619.0,AP_8_Kerala_TH
+26503,2023-08-29 14:27:45,Unavailable by ICMP ping,3429050,0,3525517.0,2023-09-01 12:04:45,,250620.0,AP_1_Mumbai_BN
+28878,2023-08-29 14:27:30,Unavailable by ICMP ping,3429042,0,3525507.0,2023-09-01 12:04:30,,250620.0,AP_15_Kerala_EK
+31212,2023-08-29 14:19:04,Azure: There are errors in requests to API,3428753,0,3428775.0,2023-08-29 14:19:51,,47.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 14:15:04,Azure: There are errors in requests to API,3428602,0,3428624.0,2023-08-29 14:15:51,,47.0,Azure virtual machine Ubuntu20.04
+31179,2023-08-29 14:01:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3428091,0,3428129.0,2023-08-29 14:01:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-29 14:01:02,Azure Microsoft SQL: There are errors in requests to API,3428093,0,3428131.0,2023-08-29 14:01:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+29302,2023-08-29 13:48:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3427683,0,3449341.0,2023-08-30 09:12:42,,69840.0,Zabbixproxy
+23599,2023-08-29 13:48:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3427675,0,3449285.0,2023-08-30 09:12:27,,69840.0,Zabbix-Server-Active
+29389,2023-08-29 13:48:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3427673,0,3449275.0,2023-08-30 09:12:24,,69840.0,Zabbixproxy2
+32158,2023-08-29 13:47:44,Port 43107 is down for sometime,3427652,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+31174,2023-08-29 13:47:07,Azure: There are errors in storages requests to API,3427636,0,3427923.0,2023-08-29 13:56:53,,586.0,Azure
+23608,2023-08-29 13:27:32,Zabbix server: Utilization of http poller processes is high,3427037,0,3427073.0,2023-08-29 13:28:32,,60.0,Zabbix-Server-Active
+29414,2023-08-29 13:27:26,Zabbix proxy: has been restarted,3427031,0,3427349.0,2023-08-29 13:37:26,,600.0,Zabbixproxy2
+24214,2023-08-29 13:27:21,Website Unavailable: Grafana,3427024,0,3449393.0,2023-08-30 09:13:10,,71149.0,Web Scenario
+26607,2023-08-29 13:27:11,has been restarted,3427015,0,3427322.0,2023-08-29 13:36:41,,570.0,Linux Server
+26639,2023-08-29 13:27:10,has been restarted,3427013,0,3427321.0,2023-08-29 13:36:40,,570.0,Zabbix-Server-Active
+23296,2023-08-29 13:27:05,Website Unavailable: Grafana,3427007,0,3449390.0,2023-08-30 09:13:08,,71163.0,Zabbix-Server-Standby
+29327,2023-08-29 13:26:55,Zabbix proxy: has been restarted,3426991,0,3427329.0,2023-08-29 13:36:55,,600.0,Zabbixproxy
+31182,2023-08-29 01:44:02,Azure Microsoft SQL: There are errors in requests to API,3426115,0,3426140.0,2023-08-29 01:44:50,,48.0,Azure Microsoft SQL database azure-sqlserver1
+31217,2023-08-29 01:20:45,Azure: There are errors in requests to API,3425263,0,3425617.0,2023-08-29 01:30:32,,587.0,Azure_AJ
+31212,2023-08-29 01:19:04,Azure: There are errors in requests to API,3425203,0,3425230.0,2023-08-29 01:19:54,,50.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 00:48:04,Azure: There are errors in requests to API,3424061,0,3424122.0,2023-08-29 00:49:52,,108.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 00:42:04,Azure: There are errors in requests to API,3423839,0,3423863.0,2023-08-29 00:42:52,,48.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-29 00:18:04,Azure: There are errors in requests to API,3422953,0,3422980.0,2023-08-29 00:18:55,,51.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-28 23:42:04,Azure: There are errors in requests to API,3421624,0,3421648.0,2023-08-28 23:42:53,,49.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-28 23:18:04,Azure: There are errors in requests to API,3420730,0,3420763.0,2023-08-28 23:19:03,,59.0,Azure virtual machine Ubuntu20.04
+26736,2023-08-28 23:01:51,Unavailable by ICMP ping,3420126,0,,2023-09-05 10:06:26,,,AP_3_Kerala_EK
+26753,2023-08-28 23:01:51,Unavailable by ICMP ping,3420127,0,,2023-09-05 10:06:26,,,AP_4_Mumbai_BN
+26737,2023-08-28 22:58:51,High ICMP ping loss,3420014,0,,2023-09-05 10:06:26,,,AP_3_Kerala_EK
+26754,2023-08-28 22:58:51,High ICMP ping loss,3420015,0,,2023-09-05 10:06:26,,,AP_4_Mumbai_BN
+24738,2023-08-28 22:55:59,Website Unavailable: Facebook,3419914,0,3421409.0,2023-08-28 23:36:25,,2426.0,Zabbix-Server-Standby
+28807,2023-08-28 22:52:28,Unavailable by ICMP ping,3419790,0,3459257.0,2023-08-30 14:08:28,,141360.0,AP_11_Mumbai_BN
+31212,2023-08-28 21:47:04,Azure: There are errors in requests to API,3417521,0,3417546.0,2023-08-28 21:47:52,,48.0,Azure virtual machine Ubuntu20.04
+27772,2023-08-28 19:27:01,Space Utilization > 70%,3412640,0,3418008.0,2023-08-28 22:01:01,,9240.0,Zabbix-Server-Active
+31212,2023-08-28 19:22:04,Azure: There are errors in requests to API,3412469,0,3412494.0,2023-08-28 19:22:53,,49.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-28 17:15:04,Azure: There are errors in requests to API,3408057,0,3408081.0,2023-08-28 17:15:53,,49.0,Azure virtual machine Ubuntu20.04
+24738,2023-08-28 17:02:38,Website Unavailable: Facebook,3407636,0,3417851.0,2023-08-28 21:56:35,,17637.0,Zabbix-Server-Standby
+31212,2023-08-28 16:55:04,Azure: There are errors in requests to API,3407380,0,3407408.0,2023-08-28 16:55:54,,50.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-28 16:52:04,Azure: There are errors in requests to API,3407275,0,3407334.0,2023-08-28 16:53:52,,108.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-28 15:18:04,Azure: There are errors in requests to API,3404109,0,3404132.0,2023-08-28 15:18:53,,49.0,Azure virtual machine Ubuntu20.04
+32157,2023-08-28 12:59:45,Port 46585 is down for sometime,3399484,1,,2023-09-05 10:06:26,No issues : Testing,,Zabbix-Server-Active
+29302,2023-08-28 12:59:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3399482,0,3427046.0,2023-08-29 13:27:42,,88080.0,Zabbixproxy
+23599,2023-08-28 12:59:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3399473,0,3427033.0,2023-08-29 13:27:27,,88080.0,Zabbix-Server-Active
+29389,2023-08-28 12:59:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3399470,0,3427026.0,2023-08-29 13:27:24,,88080.0,Zabbixproxy2
+26266,2023-08-28 12:42:34,Forecast Memory Utilization High,3399000,0,3399059.0,2023-08-28 12:44:34,,120.0,Calculated and Aggregate items
+26607,2023-08-28 12:39:41,has been restarted,3398909,0,3399172.0,2023-08-28 12:48:41,,540.0,Linux Server
+23608,2023-08-28 12:39:32,Zabbix server: Utilization of http poller processes is high,3398901,0,3398937.0,2023-08-28 12:40:32,,60.0,Zabbix-Server-Active
+29414,2023-08-28 12:39:26,Zabbix proxy: has been restarted,3398895,0,3399197.0,2023-08-28 12:49:26,,600.0,Zabbixproxy2
+26639,2023-08-28 12:39:10,has been restarted,3398879,0,3399171.0,2023-08-28 12:48:40,,570.0,Zabbix-Server-Active
+29327,2023-08-28 12:38:55,Zabbix proxy: has been restarted,3398857,0,3399180.0,2023-08-28 12:48:55,,600.0,Zabbixproxy
+24738,2023-08-28 02:12:26,Website Unavailable: Facebook,3398852,0,3398876.0,2023-08-28 12:39:07,,37601.0,Zabbix-Server-Standby
+26787,2023-08-28 02:04:54,Unavailable by ICMP ping,3398602,0,3428816.0,2023-08-29 14:20:53,,130559.0,AP_7_Kerala_TH
+26804,2023-08-28 02:04:54,Unavailable by ICMP ping,3398603,0,3428817.0,2023-08-29 14:20:53,,130559.0,AP_8_Kerala_TH
+26503,2023-08-28 02:04:45,Unavailable by ICMP ping,3398598,0,3428811.0,2023-08-29 14:20:45,,130560.0,AP_1_Mumbai_BN
+28878,2023-08-28 02:04:31,Unavailable by ICMP ping,3398589,0,3428842.0,2023-08-29 14:21:30,,130619.0,AP_15_Kerala_EK
+26788,2023-08-28 02:01:53,High ICMP ping loss,3398502,0,3428818.0,2023-08-29 14:20:53,,130740.0,AP_7_Kerala_TH
+26805,2023-08-28 02:01:53,High ICMP ping loss,3398503,0,3428819.0,2023-08-29 14:20:53,,130740.0,AP_8_Kerala_TH
+24738,2023-08-28 01:58:41,Website Unavailable: Facebook,3398399,0,3398683.0,2023-08-28 02:07:27,,526.0,Zabbix-Server-Standby
+31212,2023-08-28 01:49:04,Azure: There are errors in requests to API,3398087,0,3398111.0,2023-08-28 01:49:52,,48.0,Azure virtual machine Ubuntu20.04
+24738,2023-08-28 01:27:25,Website Unavailable: Facebook,3397384,0,3397547.0,2023-08-28 01:32:26,,301.0,Zabbix-Server-Standby
+31212,2023-08-28 00:18:04,Azure: There are errors in requests to API,3395169,0,3395195.0,2023-08-28 00:18:59,,55.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-27 23:18:04,Azure: There are errors in requests to API,3393234,0,3393257.0,2023-08-27 23:18:53,,49.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-27 17:49:04,Azure: There are errors in requests to API,3382659,0,3382714.0,2023-08-27 17:50:50,,106.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-27 17:19:04,Azure: There are errors in requests to API,3381701,0,3381724.0,2023-08-27 17:19:52,,48.0,Azure virtual machine Ubuntu20.04
+24738,2023-08-27 17:12:17,Website Unavailable: Facebook,3381477,0,3392205.0,2023-08-27 22:46:34,,20057.0,Zabbix-Server-Standby
+24738,2023-08-27 16:27:17,Website Unavailable: Facebook,3380017,0,3380655.0,2023-08-27 16:47:02,,1185.0,Zabbix-Server-Standby
+31212,2023-08-27 16:09:04,Azure: There are errors in requests to API,3379430,0,3379454.0,2023-08-27 16:09:53,,49.0,Azure virtual machine Ubuntu20.04
+28807,2023-08-27 14:37:27,Unavailable by ICMP ping,3376488,0,3419687.0,2023-08-28 22:49:27,,115920.0,AP_11_Mumbai_BN
+31212,2023-08-27 13:47:04,Azure: There are errors in requests to API,3374874,0,3374899.0,2023-08-27 13:47:53,,49.0,Azure virtual machine Ubuntu20.04
+28921,2023-08-27 12:58:33,Unavailable by ICMP ping,3373316,0,3486503.0,2023-08-31 10:07:33,,335340.0,AP_18_Mumbai_BN
+31212,2023-08-27 12:32:04,Azure: There are errors in requests to API,3372462,0,3372487.0,2023-08-27 12:32:52,,48.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-27 11:51:04,Azure: There are errors in requests to API,3371144,0,3371173.0,2023-08-27 11:52:02,,58.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-27 10:51:04,Azure: There are errors in requests to API,3369220,0,3369243.0,2023-08-27 10:51:52,,48.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-27 10:20:04,Azure: There are errors in requests to API,3368222,0,3368249.0,2023-08-27 10:20:52,,48.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-27 09:49:04,Azure: There are errors in requests to API,3367217,0,3367241.0,2023-08-27 09:49:53,,49.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-27 05:46:04,Azure: There are errors in requests to API,3359426,0,3359672.0,2023-08-27 05:53:53,,469.0,Azure virtual machine Ubuntu20.04
+24738,2023-08-27 03:04:37,Website Unavailable: Facebook,3354235,0,3376320.0,2023-08-27 14:32:17,,41260.0,Zabbix-Server-Standby
+31212,2023-08-27 02:49:04,Azure: There are errors in requests to API,3353731,0,3353754.0,2023-08-27 02:49:53,,49.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-27 01:49:04,Azure: There are errors in requests to API,3351857,0,3351880.0,2023-08-27 01:49:51,,47.0,Azure virtual machine Ubuntu20.04
+26770,2023-08-27 01:00:51,Unavailable by ICMP ping,3350354,0,3596247.0,2023-09-04 01:07:51,,691620.0,AP_6_Kerala_EK
+31212,2023-08-26 23:17:04,Azure: There are errors in requests to API,3347111,0,3347142.0,2023-08-26 23:17:51,,47.0,Azure virtual machine Ubuntu20.04
+31212,2023-08-26 22:17:04,Azure: There are errors in requests to API,3345240,0,3345266.0,2023-08-26 22:17:57,,53.0,Azure virtual machine Ubuntu20.04
+23345,2023-08-26 22:12:05,Nginx: Failed to fetch stub status page,3345080,0,3449379.0,2023-08-30 09:12:59,,298854.0,NGINX
+26404,2023-08-26 22:12:04,Nginx: Failed to fetch stub status page,3345077,0,3449385.0,2023-08-30 09:13:03,,298859.0,standby-node-2
+29732,2023-08-26 22:12:02,PostgreSQL: Failed to get items,3345073,0,3449348.0,2023-08-30 09:12:44,,298842.0,PG2c
+31257,2023-08-26 22:11:57,Nginx: Failed to fetch stub status page,3345067,0,3449475.0,2023-08-30 09:13:44,,298907.0,NGINX clone
+29302,2023-08-26 22:03:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3344857,0,3398910.0,2023-08-28 12:39:42,,138960.0,Zabbixproxy
+23599,2023-08-26 22:03:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3344848,0,3398897.0,2023-08-28 12:39:27,,138960.0,Zabbix-Server-Active
+29389,2023-08-26 22:03:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3344847,0,3398892.0,2023-08-28 12:39:24,,138960.0,Zabbixproxy2
+32140,2023-08-26 22:02:41,Port 40237 is down for sometime,3344827,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+29402,2023-08-26 21:50:48,Zabbix proxy: Utilization of unreachable poller processes is high,3344522,0,3449653.0,2023-08-30 09:16:48,,300360.0,Zabbixproxy2
+31212,2023-08-26 21:47:04,Azure: There are errors in requests to API,3344423,0,3344450.0,2023-08-26 21:47:58,,54.0,Azure virtual machine Ubuntu20.04
+26665,2023-08-26 21:46:23,Zabbix agent is not available,3344400,0,3449272.0,2023-08-30 09:12:23,,300360.0,Zabbix-Server-Standby
+26433,2023-08-26 21:46:05,Zabbix agent is not available,3344394,0,3449388.0,2023-08-30 09:13:05,,300420.0,standby-node-2
+26266,2023-08-26 21:45:34,Forecast Memory Utilization High,3344377,0,3344406.0,2023-08-26 21:46:34,,60.0,Calculated and Aggregate items
+29414,2023-08-26 21:42:26,Zabbix proxy: has been restarted,3344273,0,3344568.0,2023-08-26 21:52:26,,600.0,Zabbixproxy2
+26607,2023-08-26 21:42:12,has been restarted,3344257,0,3344545.0,2023-08-26 21:51:41,,569.0,Linux Server
+26639,2023-08-26 21:42:10,has been restarted,3344255,0,3344544.0,2023-08-26 21:51:40,,570.0,Zabbix-Server-Active
+29327,2023-08-26 21:41:55,Zabbix proxy: has been restarted,3344229,0,3344553.0,2023-08-26 21:51:55,,600.0,Zabbixproxy
+31182,2023-08-25 19:20:03,Azure Microsoft SQL: There are errors in requests to API,3341623,0,3341650.0,2023-08-25 19:20:49,,46.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-25 18:38:50,Azure Microsoft SQL: There are errors in requests to API,3340266,0,3340311.0,2023-08-25 18:39:51,,61.0,Azure Microsoft SQL database azure-sqlserver1
+28921,2023-08-25 17:20:33,Unavailable by ICMP ping,3337696,0,3373121.0,2023-08-27 12:52:33,,156720.0,AP_18_Mumbai_BN
+31212,2023-08-25 17:19:05,Azure: There are errors in requests to API,3337644,0,3337669.0,2023-08-25 17:19:54,,49.0,Azure virtual machine Ubuntu20.04
+24738,2023-08-25 14:40:12,Website Unavailable: Facebook,3332432,0,3343345.0,2023-08-25 20:12:47,,19955.0,Zabbix-Server-Standby
+28807,2023-08-25 14:02:27,Unavailable by ICMP ping,3331194,0,3376391.0,2023-08-27 14:34:27,,174720.0,AP_11_Mumbai_BN
+31212,2023-08-25 12:49:04,Azure: There are errors in requests to API,3328870,0,3328897.0,2023-08-25 12:49:58,,54.0,Azure virtual machine Ubuntu20.04
+31179,2023-08-25 10:51:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3325069,0,3325110.0,2023-08-25 10:51:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-08-25 10:51:02,Azure Microsoft SQL: There are errors in requests to API,3325071,0,3325112.0,2023-08-25 10:51:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+26430,2023-08-25 10:49:59,has been restarted,3325010,0,3325349.0,2023-08-25 10:59:09,,550.0,standby-node-2
+26437,2023-08-25 10:49:59,Load average is too high,3325013,0,3325049.0,2023-08-25 10:50:48,,49.0,standby-node-2
+26662,2023-08-25 10:49:50,has been restarted,3325002,0,3325352.0,2023-08-25 10:59:17,,567.0,Zabbix-Server-Standby
+26669,2023-08-25 10:49:50,Load average is too high,3325006,0,3325053.0,2023-08-25 10:50:54,,64.0,Zabbix-Server-Standby
+24646,2023-08-25 10:49:27,{HOST.NAME} is unavailable by ICMP - ({HOST.IP}),3324987,0,3344349.0,2023-08-26 21:44:27,,125700.0,Zabbix-Server-Standby
+31257,2023-08-25 09:54:57,Nginx: Failed to fetch stub status page,3323275,0,3324982.0,2023-08-25 10:49:20,,3263.0,NGINX clone
+27708,2023-08-25 09:54:48,Docker: Failed to fetch info data,3323269,0,3449331.0,2023-08-30 09:12:36,,429468.0,Docker server
+23345,2023-08-25 09:54:35,Nginx: Failed to fetch stub status page,3323259,0,3325024.0,2023-08-25 10:50:12,,3337.0,NGINX
+26404,2023-08-25 09:54:34,Nginx: Failed to fetch stub status page,3323255,0,3325012.0,2023-08-25 10:49:58,,3324.0,standby-node-2
+31212,2023-08-25 09:50:04,Azure: There are errors in requests to API,3323142,0,3323161.0,2023-08-25 09:50:52,,48.0,Azure virtual machine Ubuntu20.04
+23599,2023-08-25 09:45:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3323023,0,3344277.0,2023-08-26 21:42:27,,129420.0,Zabbix-Server-Active
+32138,2023-08-25 09:45:26,Port 33069 is down for sometime,3323022,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+29389,2023-08-25 09:45:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3323021,0,3344267.0,2023-08-26 21:42:24,,129420.0,Zabbixproxy2
+29302,2023-08-25 09:44:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3323000,0,3344293.0,2023-08-26 21:42:42,,129480.0,Zabbixproxy
+26433,2023-08-25 09:29:05,Zabbix agent is not available,3322597,0,3325019.0,2023-08-25 10:50:05,,4860.0,standby-node-2
+26266,2023-08-25 09:28:34,Forecast Memory Utilization High,3322581,0,3322612.0,2023-08-25 09:29:34,,60.0,Calculated and Aggregate items
+29414,2023-08-25 09:25:26,Zabbix proxy: has been restarted,3322488,0,3322767.0,2023-08-25 09:35:26,,600.0,Zabbixproxy2
+26665,2023-08-25 09:25:23,Zabbix agent is not available,3322478,0,3325028.0,2023-08-25 10:50:23,,5100.0,Zabbix-Server-Standby
+24518,2023-08-25 09:25:09,Cluster node [node2]: Status changed,3322470,0,3366994.0,2023-08-27 09:42:09,,173820.0,Zabbix-Server-Active
+29740,2023-08-25 09:25:00,PostgreSQL: Service has been restarted,3322458,0,3322756.0,2023-08-25 09:34:59,,599.0,PG2c
+29327,2023-08-25 09:24:55,Zabbix proxy: has been restarted,3322449,0,3322752.0,2023-08-25 09:34:55,,600.0,Zabbixproxy
+26607,2023-08-25 09:24:41,has been restarted,3322427,0,3322744.0,2023-08-25 09:34:41,,600.0,Linux Server
+26639,2023-08-25 09:24:40,has been restarted,3322425,0,3322743.0,2023-08-25 09:34:40,,600.0,Zabbix-Server-Active
+29307,2023-08-25 09:24:37,Zabbix proxy: Utilization of http poller processes is high,3322419,0,3322555.0,2023-08-25 09:27:37,,180.0,Zabbixproxy
+29394,2023-08-25 09:24:35,Zabbix proxy: Utilization of http poller processes is high,3322416,0,3322553.0,2023-08-25 09:27:35,,180.0,Zabbixproxy2
+30667,2023-08-24 00:17:32,Port 8085 is down for sometime,3275504,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+31110,2023-08-23 14:54:02,AWS S3: Failed to get alarms data,3254485,0,,2023-09-05 10:06:26,,,lokibucket1994
+30965,2023-08-23 14:50:05,AWS EC2: Failed to get volumes info,3254346,0,,2023-09-05 10:06:26,,,i-0df444c4af08fb05c
+31049,2023-08-23 14:50:05,AWS EC2: Failed to get volumes info,3254347,0,,2023-09-05 10:06:26,,,i-0773957198702ceb6
+31046,2023-08-23 14:50:04,AWS EC2: Failed to get metrics data,3254344,0,,2023-09-05 10:06:26,,,i-0773957198702ceb6
+30976,2023-08-23 14:50:03,AWS EC2: Failed to get metrics data,3254342,0,,2023-09-05 10:06:26,,,i-0c852b22dd4b688a2
+31004,2023-08-23 14:50:03,AWS EC2: Failed to get metrics data,3254334,0,,2023-09-05 10:06:26,,,i-0fdbb4ac2cef1b4ce
+31032,2023-08-23 14:50:03,AWS EC2: Failed to get metrics data,3254343,0,,2023-09-05 10:06:26,,,i-098ccda44a391520c
+31060,2023-08-23 14:50:03,AWS EC2: Failed to get metrics data,3254345,0,,2023-09-05 10:06:26,,,i-020624c16734140b4
+32131,2023-08-23 14:50:03,AWS S3: Failed to get alarms data,3254336,0,,2023-09-05 10:06:26,,,lokibucket21994
+30962,2023-08-23 14:50:02,AWS EC2: Failed to get metrics data,3254333,0,,2023-09-05 10:06:26,,,i-0df444c4af08fb05c
+31018,2023-08-23 14:50:02,AWS EC2: Failed to get metrics data,3254335,0,,2023-09-05 10:06:26,,,i-0b6285a4ef3c02a0c
+31074,2023-08-23 14:50:02,AWS EC2: Failed to get metrics data,3254330,0,,2023-09-05 10:06:26,,,i-0c2d804dc967f692f
+30920,2023-08-23 14:50:01,AWS EC2: Failed to get metrics data,3254325,0,,2023-09-05 10:06:26,,,i-0df1c9e7c4b1df988
+30934,2023-08-23 14:50:01,AWS EC2: Failed to get metrics data,3254328,0,,2023-09-05 10:06:26,,,i-0523c46a0294c3fa5
+30990,2023-08-23 14:50:01,AWS EC2: Failed to get metrics data,3254329,0,,2023-09-05 10:06:26,,,i-0a7e4a88a68b66215
+32123,2023-08-23 14:50:01,AWS EC2: Failed to get metrics data,3254331,0,,2023-09-05 10:06:26,,,i-0cb7127685a3938a9
+30948,2023-08-23 14:50:00,AWS EC2: Failed to get metrics data,3254326,0,,2023-09-05 10:06:26,,,i-068e5bd96f89ed662
+30951,2023-08-23 14:49:13,AWS EC2: Failed to get volumes info,3254294,0,,2023-09-05 10:06:26,,,i-068e5bd96f89ed662
+31035,2023-08-23 14:49:13,AWS EC2: Failed to get volumes info,3254295,0,,2023-09-05 10:06:26,,,i-098ccda44a391520c
+30937,2023-08-23 14:48:23,AWS EC2: Failed to get volumes info,3254255,0,,2023-09-05 10:06:26,,,i-0523c46a0294c3fa5
+31021,2023-08-23 14:48:23,AWS EC2: Failed to get volumes info,3254256,0,,2023-09-05 10:06:26,,,i-0b6285a4ef3c02a0c
+30923,2023-08-23 14:47:33,AWS EC2: Failed to get volumes info,3254227,0,,2023-09-05 10:06:26,,,i-0df1c9e7c4b1df988
+31007,2023-08-23 14:47:33,AWS EC2: Failed to get volumes info,3254228,0,,2023-09-05 10:06:26,,,i-0fdbb4ac2cef1b4ce
+30993,2023-08-23 14:46:43,AWS EC2: Failed to get volumes info,3254197,0,,2023-09-05 10:06:26,,,i-0a7e4a88a68b66215
+31077,2023-08-23 14:46:43,AWS EC2: Failed to get volumes info,3254198,0,,2023-09-05 10:06:26,,,i-0c2d804dc967f692f
+30914,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254150,0,,2023-09-05 10:06:26,,,i-0df1c9e7c4b1df988
+30928,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254151,0,,2023-09-05 10:06:26,,,i-0523c46a0294c3fa5
+30942,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254152,0,,2023-09-05 10:06:26,,,i-068e5bd96f89ed662
+30956,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254153,0,,2023-09-05 10:06:26,,,i-0df444c4af08fb05c
+30970,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254154,0,,2023-09-05 10:06:26,,,i-0c852b22dd4b688a2
+30984,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254155,0,,2023-09-05 10:06:26,,,i-0a7e4a88a68b66215
+30998,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254156,0,,2023-09-05 10:06:26,,,i-0fdbb4ac2cef1b4ce
+31012,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254157,0,,2023-09-05 10:06:26,,,i-0b6285a4ef3c02a0c
+31026,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254158,0,,2023-09-05 10:06:26,,,i-098ccda44a391520c
+31040,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254159,0,,2023-09-05 10:06:26,,,i-0773957198702ceb6
+31054,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254160,0,,2023-09-05 10:06:26,,,i-020624c16734140b4
+31068,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254161,0,,2023-09-05 10:06:26,,,i-0c2d804dc967f692f
+31106,2023-08-23 14:46:00,AWS S3: Failed to get alarms data,3254162,0,,2023-09-05 10:06:26,,,just-to-test-terraform
+32117,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254164,0,,2023-09-05 10:06:26,,,i-0cb7127685a3938a9
+30979,2023-08-23 14:45:53,AWS EC2: Failed to get volumes info,3254128,0,,2023-09-05 10:06:26,,,i-0c852b22dd4b688a2
+31063,2023-08-23 14:45:53,AWS EC2: Failed to get volumes info,3254129,0,,2023-09-05 10:06:26,,,i-020624c16734140b4
+32126,2023-08-23 14:45:39,AWS EC2: Failed to get volumes info,3254121,0,,2023-09-05 10:06:26,,,i-0cb7127685a3938a9
+29768,2023-08-23 12:19:41,Port 8080 is down for sometime,3249160,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+30929,2023-08-23 10:15:01,AWS EC2: Instance CPU Credit balance is too low,3244835,0,,2023-09-05 10:06:26,,,i-0523c46a0294c3fa5
+30943,2023-08-23 09:30:01,AWS EC2: Instance CPU Credit balance is too low,3243405,0,,2023-09-05 10:06:26,,,i-068e5bd96f89ed662
+32137,2023-08-23 09:22:39,Port 46863 is down for sometime,3243165,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+32116,2023-08-22 23:45:56,Port 43847 is down for sometime,3241672,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+26524,2023-08-22 15:48:48,Unavailable by ICMP ping,3226357,0,,2023-09-05 10:06:26,,,AP_5_Kerala_EK
+30669,2023-08-22 09:41:38,Port 8501 is down for sometime,3213983,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+31800,2023-08-22 09:41:38,Port 41099 is down for sometime,3213984,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+32114,2023-08-21 18:05:55,Port 39269 is down for sometime,3201448,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+32115,2023-08-21 18:00:55,Port 37965 is down for sometime,3201271,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+32082,2023-08-21 10:47:06,Zabbix agent is not available,3186452,0,,2023-09-05 10:06:26,,,host_50
+32059,2023-08-21 10:46:59,Zabbix agent is not available,3186445,0,,2023-09-05 10:06:26,,,host_49
+31949,2023-08-21 10:46:58,Zabbix agent is not available,3186443,0,,2023-09-05 10:06:26,,,host_42
+32036,2023-08-21 10:46:52,Zabbix agent is not available,3186439,0,,2023-09-05 10:06:26,,,host_48
+32013,2023-08-21 10:46:45,Zabbix agent is not available,3186436,0,,2023-09-05 10:06:26,,,host_47
+31990,2023-08-21 10:46:38,Zabbix agent is not available,3186431,0,,2023-09-05 10:06:26,,,host_46
+31908,2023-08-21 10:42:18,Zabbix agent is not available,3186280,0,,2023-09-05 10:06:26,,,host_38
+31885,2023-08-21 10:41:11,Zabbix agent is not available,3186243,0,,2023-09-05 10:06:26,,,host_37
+31862,2023-08-21 10:41:04,Zabbix agent is not available,3186239,0,,2023-09-05 10:06:26,,,host_36
+31839,2023-08-21 10:40:57,Zabbix agent is not available,3186231,0,,2023-09-05 10:06:26,,,host_35
+31816,2023-08-21 10:40:50,Zabbix agent is not available,3186226,0,,2023-09-05 10:06:26,,,host_34
+31273,2023-08-21 09:53:55,Port 42389 is down for sometime,3184650,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+31768,2023-08-19 20:08:58,Zabbix agent is not available,3125498,0,,2023-09-05 10:06:26,,,host_29
+31727,2023-08-19 19:18:18,Zabbix agent is not available,3123816,0,,2023-09-05 10:06:26,,,host_25
+31657,2023-08-19 18:33:20,Zabbix agent is not available,3122296,0,,2023-09-05 10:06:26,,,host_19
+31634,2023-08-19 18:33:13,Zabbix agent is not available,3122293,0,,2023-09-05 10:06:26,,,host_18
+31611,2023-08-19 18:33:06,Zabbix agent is not available,3122289,0,,2023-09-05 10:06:26,,,host_17
+31565,2023-08-19 18:32:52,Zabbix agent is not available,3122278,0,,2023-09-05 10:06:26,,,host_15
+31680,2023-08-19 18:32:27,Zabbix agent is not available,3122261,0,,2023-09-05 10:06:26,,,host_20
+31375,2023-08-19 18:16:45,Zabbix agent is not available,3121706,0,,2023-09-05 10:06:26,,,host_5
+31536,2023-08-19 18:16:34,Zabbix agent is not available,3121698,0,,2023-09-05 10:06:26,,,host_14
+31513,2023-08-19 18:16:27,Zabbix agent is not available,3121689,0,,2023-09-05 10:06:26,,,host_11
+31490,2023-08-19 18:16:20,Zabbix agent is not available,3121685,0,,2023-09-05 10:06:26,,,host_10
+31467,2023-08-19 18:16:13,Zabbix agent is not available,3121683,0,,2023-09-05 10:06:26,,,host_9
+31444,2023-08-19 18:16:06,Zabbix agent is not available,3121679,0,,2023-09-05 10:06:26,,,host_8
+31421,2023-08-19 18:15:59,Zabbix agent is not available,3121671,0,,2023-09-05 10:06:26,,,host_7
+31352,2023-08-19 17:59:38,Zabbix agent is not available,3121091,0,,2023-09-05 10:06:26,,,host_4
+31329,2023-08-19 17:59:31,Zabbix agent is not available,3121080,0,,2023-09-05 10:06:26,,,host_3
+31283,2023-08-19 17:59:17,Zabbix agent is not available,3121074,0,,2023-09-05 10:06:26,,,host_1
+31235,2023-08-19 17:15:21,Port 42185 is down for sometime,3119618,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+26689,2023-08-17 11:07:43,/: Disk space is low,3043190,0,,2023-09-05 10:06:26,,,Zabbix-Server-Standby
+26460,2023-08-17 11:07:10,/: Disk space is low,3043156,0,,2023-09-05 10:06:26,,,standby-node-2
+31233,2023-08-17 09:49:00,Port 46787 is down for sometime,3040559,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+31234,2023-08-16 12:56:56,Port 45391 is down for sometime,3029835,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+30876,2023-08-16 09:10:56,Port 9080 is down for sometime,3022331,0,3604131.0,2023-09-04 12:36:49,,1653953.0,Zabbix-Server-Active
+31231,2023-08-16 09:10:56,Port 39547 is down for sometime,3022332,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+31232,2023-08-16 09:10:56,Port 34511 is down for sometime,3022333,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+31230,2023-08-14 09:13:56,Port 37197 is down for sometime,2994825,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+31216,2023-08-13 09:42:55,Port 40849 is down for sometime,2977165,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+29395,2023-08-11 13:55:36,Zabbix proxy: Utilization of icmp pinger processes is high,2955378,0,,2023-09-05 10:06:26,,,Zabbixproxy2
+31209,2023-08-11 10:32:52,Azure: Virtual machine is in unknown state,2950914,0,,2023-09-05 10:06:26,,,Azure virtual machine Ubuntu20.04
+31185,2023-08-11 09:54:02,Port 45503 is down for sometime,2949627,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+30874,2023-08-10 09:34:32,Port 40591 is down for sometime,2915764,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+30878,2023-08-10 09:34:32,Port 39407 is down for sometime,2915766,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+23609,2023-08-10 09:23:39,Zabbix server: Utilization of icmp pinger processes is high,2915425,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+29308,2023-08-10 09:23:39,Zabbix proxy: Utilization of icmp pinger processes is high,2915427,0,,2023-09-05 10:06:26,,,Zabbixproxy
+30875,2023-08-09 07:26:28,Port 33503 is down for sometime,2879388,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+30877,2023-08-09 07:16:27,Port 43009 is down for sometime,2879046,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
+30846,2023-08-08 11:16:27,Port 38489 is down for sometime,2839102,0,,2023-09-05 10:06:26,,,Zabbix-Server-Active
