@@ -1,0 +1,785 @@
+objectid,start_time,problem_description,problem_eventid,acknowledged,r_eventid,end_time,acknowledge_message,duration,hostname
+23599,2023-09-11 09:05:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3790633,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+29389,2023-09-11 09:05:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3790631,0,,2023-09-11 12:49:31,,,Zabbixproxy2
+29302,2023-09-11 09:04:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3790610,0,,2023-09-11 12:49:31,,,Zabbixproxy
+32225,2023-09-11 09:04:29,Port 34975 is down for sometime,3790600,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+31182,2023-09-11 08:52:50,Azure Microsoft SQL: There are errors in requests to API,3790234,0,3790278.0,2023-09-11 08:53:50,,60.0,Azure Microsoft SQL database azure-sqlserver1
+23609,2023-09-11 08:48:39,Zabbix server: Utilization of icmp pinger processes is high,3790096,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+29308,2023-09-11 08:48:39,Zabbix proxy: Utilization of icmp pinger processes is high,3790097,0,,2023-09-11 12:49:31,,,Zabbixproxy
+26266,2023-09-11 08:48:34,Forecast Memory Utilization High,3790092,0,3790156.0,2023-09-11 08:50:34,,120.0,Calculated and Aggregate items
+29402,2023-09-11 08:46:48,Zabbix proxy: Utilization of unreachable poller processes is high,3790038,0,,2023-09-11 12:49:31,,,Zabbixproxy2
+29414,2023-09-11 08:44:26,Zabbix proxy: has been restarted,3789952,0,3790300.0,2023-09-11 08:54:26,,600.0,Zabbixproxy2
+26639,2023-09-11 08:44:10,has been restarted,3789939,0,3790292.0,2023-09-11 08:54:10,,600.0,Zabbix-Server-Active
+29327,2023-09-11 08:43:55,Zabbix proxy: has been restarted,3789920,0,3790281.0,2023-09-11 08:53:55,,600.0,Zabbixproxy
+26646,2023-09-11 08:43:47,Load average is too high,3789908,0,3789970.0,2023-09-11 08:44:47,,60.0,Zabbix-Server-Active
+26607,2023-09-11 08:43:41,has been restarted,3789899,0,3790262.0,2023-09-11 08:53:41,,600.0,Linux Server
+30667,2023-09-10 00:15:36,Port 8085 is down for sometime,3789891,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+26265,2023-09-09 23:20:33,Forecast CPU Utilization High,3787940,0,3788011.0,2023-09-09 23:22:33,,120.0,Calculated and Aggregate items
+24738,2023-09-09 22:55:07,Website Unavailable: Facebook,3787044,0,3787221.0,2023-09-09 23:00:07,,300.0,Zabbix-Server-Standby
+31212,2023-09-09 22:13:04,Azure: There are errors in requests to API,3785555,0,3785579.0,2023-09-09 22:13:53,,49.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-09 21:47:04,Azure: There are errors in requests to API,3784633,0,3784657.0,2023-09-09 21:47:52,,48.0,Azure virtual machine Ubuntu20.04
+26646,2023-09-09 21:08:48,Load average is too high,3783281,0,3783531.0,2023-09-09 21:15:47,,419.0,Zabbix-Server-Active
+32224,2023-09-09 18:49:11,mulesoft trigger,3778354,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+24738,2023-09-09 18:27:34,Website Unavailable: Facebook,3777585,0,3785272.0,2023-09-09 22:05:06,,13052.0,Zabbix-Server-Standby
+31212,2023-09-09 18:23:04,Azure: There are errors in requests to API,3777425,0,3777449.0,2023-09-09 18:23:52,,48.0,Azure virtual machine Ubuntu20.04
+26646,2023-09-09 18:09:00,Load average is too high,3776922,0,3776963.0,2023-09-09 18:10:03,,63.0,Zabbix-Server-Active
+31212,2023-09-09 17:18:04,Azure: There are errors in requests to API,3775121,0,3775145.0,2023-09-09 17:18:51,,47.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-09 15:48:04,Azure: There are errors in requests to API,3771938,0,3771962.0,2023-09-09 15:48:52,,48.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-09 14:21:04,Azure: There are errors in requests to API,3768870,0,3768894.0,2023-09-09 14:21:51,,47.0,Azure virtual machine Ubuntu20.04
+32224,2023-09-09 13:47:32,mulesoft trigger,3767671,0,3769158.0,2023-09-09 14:29:19,,2507.0,Zabbix-Server-Active
+32224,2023-09-09 13:43:04,mulesoft trigger,3767515,0,3767593.0,2023-09-09 13:45:15,,131.0,Zabbix-Server-Active
+32224,2023-09-09 13:38:04,mulesoft trigger,3767338,0,3767350.0,2023-09-09 13:38:31,,27.0,Zabbix-Server-Active
+32224,2023-09-09 13:32:04,mulesoft trigger,3767138,0,3767289.0,2023-09-09 13:36:50,,286.0,Zabbix-Server-Active
+23599,2023-09-09 13:26:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3766971,0,3789954.0,2023-09-11 08:44:27,,155880.0,Zabbix-Server-Active
+29389,2023-09-09 13:26:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3766969,0,3789949.0,2023-09-11 08:44:24,,155880.0,Zabbixproxy2
+32216,2023-09-09 13:25:36,Port 43031 is down for sometime,3766941,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32218,2023-09-09 13:25:36,Port 46311 is down for sometime,3766942,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32219,2023-09-09 13:25:36,Port 39581 is down for sometime,3766943,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32220,2023-09-09 13:25:36,Port 43331 is down for sometime,3766944,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+29302,2023-09-09 13:24:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3766912,0,3789901.0,2023-09-11 08:43:42,,155940.0,Zabbixproxy
+26266,2023-09-09 13:09:34,Forecast Memory Utilization High,3766456,0,3766487.0,2023-09-09 13:10:34,,60.0,Calculated and Aggregate items
+29414,2023-09-09 13:05:26,Zabbix proxy: has been restarted,3766320,0,3766636.0,2023-09-09 13:15:26,,600.0,Zabbixproxy2
+26607,2023-09-09 13:05:11,has been restarted,3766307,0,3766609.0,2023-09-09 13:14:41,,570.0,Linux Server
+26639,2023-09-09 13:05:10,has been restarted,3766308,0,3766628.0,2023-09-09 13:15:10,,600.0,Zabbix-Server-Active
+29327,2023-09-09 13:04:55,Zabbix proxy: has been restarted,3766286,0,3766619.0,2023-09-09 13:14:55,,600.0,Zabbixproxy
+27593,2023-09-09 02:53:23,Zabbix agent is not available,3766268,0,,2023-09-11 12:49:31,,,Windows-server
+26646,2023-09-09 02:21:58,Load average is too high,3765161,0,3765367.0,2023-09-09 02:27:47,,349.0,Zabbix-Server-Active
+26646,2023-09-09 02:16:46,Load average is too high,3764979,0,3764980.0,2023-09-09 02:16:47,,1.0,Zabbix-Server-Active
+26646,2023-09-09 02:03:46,Load average is too high,3764517,0,3764767.0,2023-09-09 02:10:47,,421.0,Zabbix-Server-Active
+31212,2023-09-09 01:48:04,Azure: There are errors in requests to API,3763969,0,3763991.0,2023-09-09 01:48:53,,49.0,Azure virtual machine Ubuntu20.04
+26265,2023-09-09 01:45:33,Forecast CPU Utilization High,3763876,0,3764085.0,2023-09-09 01:51:33,,360.0,Calculated and Aggregate items
+26646,2023-09-09 01:08:47,Load average is too high,3762584,0,3763744.0,2023-09-09 01:41:47,,1980.0,Zabbix-Server-Active
+26265,2023-09-09 01:00:33,Forecast CPU Utilization High,3762289,0,3762325.0,2023-09-09 01:01:33,,60.0,Calculated and Aggregate items
+28163,2023-09-09 01:00:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3762331,0,3762472.0,2023-09-09 01:04:03,,240.0,Windows-server
+32217,2023-09-09 00:56:28,Port 38455 is down for sometime,3762147,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+28163,2023-09-09 00:54:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3762116,0,3762223.0,2023-09-09 00:57:03,,180.0,Windows-server
+28163,2023-09-09 00:48:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3761903,0,3762046.0,2023-09-09 00:52:03,,240.0,Windows-server
+26265,2023-09-09 00:42:33,Forecast CPU Utilization High,3761646,0,3762150.0,2023-09-09 00:56:33,,840.0,Calculated and Aggregate items
+26646,2023-09-09 00:41:59,Load average is too high,3761625,0,3762372.0,2023-09-09 01:02:50,,1251.0,Zabbix-Server-Active
+28163,2023-09-09 00:40:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3761615,0,3761759.0,2023-09-09 00:44:03,,240.0,Windows-server
+28163,2023-09-09 00:38:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3761541,0,3761579.0,2023-09-09 00:39:03,,60.0,Windows-server
+26265,2023-09-09 00:35:33,Forecast CPU Utilization High,3761390,0,3761463.0,2023-09-09 00:37:33,,120.0,Calculated and Aggregate items
+28163,2023-09-09 00:32:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3761322,0,3761359.0,2023-09-09 00:33:03,,60.0,Windows-server
+26646,2023-09-09 00:30:47,Load average is too high,3761213,0,3761252.0,2023-09-09 00:31:47,,60.0,Zabbix-Server-Active
+28163,2023-09-09 00:28:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3761172,0,3761206.0,2023-09-09 00:29:03,,60.0,Windows-server
+28163,2023-09-09 00:16:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3760743,0,3761068.0,2023-09-09 00:25:03,,540.0,Windows-server
+28163,2023-09-09 00:14:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3760671,0,3760707.0,2023-09-09 00:15:03,,60.0,Windows-server
+26787,2023-09-09 00:06:54,Unavailable by ICMP ping,3760352,0,3794233.0,2023-09-11 10:46:53,,211199.0,AP_7_Kerala_TH
+26804,2023-09-09 00:06:54,Unavailable by ICMP ping,3760353,0,3794234.0,2023-09-11 10:46:53,,211199.0,AP_8_Kerala_TH
+26503,2023-09-09 00:06:45,Unavailable by ICMP ping,3760346,0,3794228.0,2023-09-11 10:46:45,,211200.0,AP_1_Mumbai_BN
+28878,2023-09-09 00:06:30,Unavailable by ICMP ping,3760334,0,3794216.0,2023-09-11 10:46:30,,211200.0,AP_15_Kerala_EK
+28163,2023-09-09 00:02:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3760231,0,3760595.0,2023-09-09 00:12:03,,600.0,Windows-server
+28163,2023-09-08 23:56:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3759999,0,3760109.0,2023-09-08 23:59:03,,180.0,Windows-server
+28163,2023-09-08 23:52:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3759855,0,3759961.0,2023-09-08 23:55:03,,180.0,Windows-server
+28163,2023-09-08 23:50:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3759782,0,3759817.0,2023-09-08 23:51:03,,60.0,Windows-server
+26265,2023-09-08 23:45:33,Forecast CPU Utilization High,3759556,0,3759809.0,2023-09-08 23:52:33,,420.0,Calculated and Aggregate items
+28163,2023-09-08 23:45:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3759597,0,3759670.0,2023-09-08 23:47:03,,120.0,Windows-server
+28163,2023-09-08 23:43:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3759525,0,3759559.0,2023-09-08 23:44:03,,60.0,Windows-server
+28163,2023-09-08 23:40:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3759419,0,3759491.0,2023-09-08 23:42:03,,120.0,Windows-server
+28163,2023-09-08 23:38:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3759347,0,3759383.0,2023-09-08 23:39:03,,60.0,Windows-server
+26646,2023-09-08 23:37:59,Load average is too high,3759283,0,3760856.0,2023-09-09 00:20:47,,2568.0,Zabbix-Server-Active
+28163,2023-09-08 23:34:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3759198,0,3759274.0,2023-09-08 23:36:03,,120.0,Windows-server
+28163,2023-09-08 23:30:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3759051,0,3759090.0,2023-09-08 23:31:03,,60.0,Windows-server
+26265,2023-09-08 23:29:33,Forecast CPU Utilization High,3758971,0,3759267.0,2023-09-08 23:37:33,,480.0,Calculated and Aggregate items
+28163,2023-09-08 23:27:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3758940,0,3759013.0,2023-09-08 23:29:03,,120.0,Windows-server
+28163,2023-09-08 23:24:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3758831,0,3758867.0,2023-09-08 23:25:03,,60.0,Windows-server
+28163,2023-09-08 23:19:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3758645,0,3758793.0,2023-09-08 23:23:03,,240.0,Windows-server
+31212,2023-09-08 23:18:04,Azure: There are errors in requests to API,3758553,0,3758581.0,2023-09-08 23:18:53,,49.0,Azure virtual machine Ubuntu20.04
+27639,2023-09-08 23:16:14,"""edgeupdate"" (Microsoft Edge Update Service (edgeupdate)) is not running",3758540,0,,2023-09-11 12:49:31,,,Windows-server
+28163,2023-09-08 23:15:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3758497,0,3758576.0,2023-09-08 23:17:03,,120.0,Windows-server
+28163,2023-09-08 23:11:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3758353,0,3758460.0,2023-09-08 23:14:03,,180.0,Windows-server
+28163,2023-09-08 23:05:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3758132,0,3758314.0,2023-09-08 23:10:03,,300.0,Windows-server
+28163,2023-09-08 23:03:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3758060,0,3758093.0,2023-09-08 23:04:03,,60.0,Windows-server
+28163,2023-09-08 23:01:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3757983,0,3758022.0,2023-09-08 23:02:03,,60.0,Windows-server
+28163,2023-09-08 22:59:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3757914,0,3757946.0,2023-09-08 23:00:03,,60.0,Windows-server
+28163,2023-09-08 22:56:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3757804,0,3757842.0,2023-09-08 22:57:03,,60.0,Windows-server
+28163,2023-09-08 22:54:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3757733,0,3757766.0,2023-09-08 22:55:03,,60.0,Windows-server
+28163,2023-09-08 22:51:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3757625,0,3757663.0,2023-09-08 22:52:03,,60.0,Windows-server
+31212,2023-09-08 22:49:04,Azure: There are errors in requests to API,3757495,0,3757520.0,2023-09-08 22:49:52,,48.0,Azure virtual machine Ubuntu20.04
+26265,2023-09-08 22:37:33,Forecast CPU Utilization High,3757090,0,3757797.0,2023-09-08 22:57:33,,1200.0,Calculated and Aggregate items
+31212,2023-09-08 22:29:04,Azure: There are errors in requests to API,3756778,0,3756805.0,2023-09-08 22:29:53,,49.0,Azure virtual machine Ubuntu20.04
+26646,2023-09-08 22:28:47,Load average is too high,3756763,0,3758688.0,2023-09-08 23:21:47,,3180.0,Zabbix-Server-Active
+26646,2023-09-08 22:13:47,Load average is too high,3756227,0,3756585.0,2023-09-08 22:23:47,,600.0,Zabbix-Server-Active
+26646,2023-09-08 22:00:48,Load average is too high,3755751,0,3755939.0,2023-09-08 22:05:47,,299.0,Zabbix-Server-Active
+28163,2023-09-08 22:00:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3755785,0,3755861.0,2023-09-08 22:02:03,,120.0,Windows-server
+31179,2023-09-08 22:00:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3755711,0,3755752.0,2023-09-08 22:00:48,,46.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-09-08 22:00:02,Azure Microsoft SQL: There are errors in requests to API,3755713,0,3755754.0,2023-09-08 22:00:48,,46.0,Azure Microsoft SQL database azure-sqlserver1
+31179,2023-09-08 21:56:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3755538,0,3755614.0,2023-09-08 21:57:49,,107.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-09-08 21:56:02,Azure Microsoft SQL: There are errors in requests to API,3755540,0,3755616.0,2023-09-08 21:57:49,,107.0,Azure Microsoft SQL database azure-sqlserver1
+28163,2023-09-08 21:55:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3755561,0,3755651.0,2023-09-08 21:57:03,,120.0,Windows-server
+26646,2023-09-08 21:53:47,Load average is too high,3755439,0,3755478.0,2023-09-08 21:54:47,,60.0,Zabbix-Server-Active
+28163,2023-09-08 21:53:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3755474,0,3755513.0,2023-09-08 21:54:03,,60.0,Windows-server
+28163,2023-09-08 21:50:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3755363,0,3755398.0,2023-09-08 21:51:03,,60.0,Windows-server
+31212,2023-09-08 21:47:04,Azure: There are errors in requests to API,3755200,0,3755226.0,2023-09-08 21:47:54,,50.0,Azure virtual machine Ubuntu20.04
+26265,2023-09-08 21:41:33,Forecast CPU Utilization High,3754993,0,3755031.0,2023-09-08 21:42:33,,60.0,Calculated and Aggregate items
+28163,2023-09-08 21:41:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3755037,0,3755148.0,2023-09-08 21:44:03,,180.0,Windows-server
+28163,2023-09-08 21:38:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3754921,0,3754999.0,2023-09-08 21:40:03,,120.0,Windows-server
+26646,2023-09-08 21:37:47,Load average is too high,3754853,0,3754962.0,2023-09-08 21:40:47,,180.0,Zabbix-Server-Active
+26265,2023-09-08 21:36:33,Forecast CPU Utilization High,3754806,0,3754841.0,2023-09-08 21:37:33,,60.0,Calculated and Aggregate items
+28163,2023-09-08 21:36:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3754849,0,3754885.0,2023-09-08 21:37:03,,60.0,Windows-server
+27595,2023-09-08 21:31:00,The Memory Pages/sec is too high,3754668,0,3754739.0,2023-09-08 21:33:00,,120.0,Windows-server
+26646,2023-09-08 21:17:46,Load average is too high,3754130,0,3754275.0,2023-09-08 21:21:47,,241.0,Zabbix-Server-Active
+26646,2023-09-08 21:02:46,Load average is too high,3753598,0,3753599.0,2023-09-08 21:02:47,,1.0,Zabbix-Server-Active
+27593,2023-09-08 20:28:23,Zabbix agent is not available,3752356,0,3754638.0,2023-09-08 21:30:17,,3714.0,Windows-server
+26265,2023-09-08 20:27:33,Forecast CPU Utilization High,3752329,0,3752692.0,2023-09-08 20:37:33,,600.0,Calculated and Aggregate items
+28163,2023-09-08 19:58:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3751320,0,3754669.0,2023-09-08 21:31:03,,5580.0,Windows-server
+28163,2023-09-08 19:55:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3751207,0,3751281.0,2023-09-08 19:57:03,,120.0,Windows-server
+26646,2023-09-08 19:54:47,Load average is too high,3751138,0,3751394.0,2023-09-08 20:01:47,,420.0,Zabbix-Server-Active
+28163,2023-09-08 19:53:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3751134,0,3751174.0,2023-09-08 19:54:03,,60.0,Windows-server
+31212,2023-09-08 19:52:05,Azure: There are errors in requests to API,3751041,0,3751067.0,2023-09-08 19:52:53,,48.0,Azure virtual machine Ubuntu20.04
+28163,2023-09-08 19:50:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3751025,0,3751063.0,2023-09-08 19:51:03,,60.0,Windows-server
+28163,2023-09-08 19:48:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3750949,0,3750988.0,2023-09-08 19:49:03,,60.0,Windows-server
+28163,2023-09-08 19:45:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3750843,0,3750879.0,2023-09-08 19:46:03,,60.0,Windows-server
+28163,2023-09-08 19:43:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3750770,0,3750807.0,2023-09-08 19:44:03,,60.0,Windows-server
+28163,2023-09-08 19:36:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3750517,0,3750627.0,2023-09-08 19:39:03,,180.0,Windows-server
+27595,2023-09-08 19:34:00,The Memory Pages/sec is too high,3750435,0,3750512.0,2023-09-08 19:36:00,,120.0,Windows-server
+27593,2023-09-08 19:12:23,Zabbix agent is not available,3749597,0,3750446.0,2023-09-08 19:34:17,,1314.0,Windows-server
+28163,2023-09-08 18:40:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3748498,0,3750479.0,2023-09-08 19:35:03,,3300.0,Windows-server
+28163,2023-09-08 18:38:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3748423,0,3748462.0,2023-09-08 18:39:03,,60.0,Windows-server
+28163,2023-09-08 18:36:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3748349,0,3748385.0,2023-09-08 18:37:03,,60.0,Windows-server
+28163,2023-09-08 18:31:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3748169,0,3748241.0,2023-09-08 18:33:03,,120.0,Windows-server
+28163,2023-09-08 18:26:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3747990,0,3748023.0,2023-09-08 18:27:03,,60.0,Windows-server
+28163,2023-09-08 18:24:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3747917,0,3747953.0,2023-09-08 18:25:03,,60.0,Windows-server
+26265,2023-09-08 18:21:33,Forecast CPU Utilization High,3747768,0,3748531.0,2023-09-08 18:42:33,,1260.0,Calculated and Aggregate items
+28163,2023-09-08 18:21:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3747810,0,3747843.0,2023-09-08 18:22:03,,60.0,Windows-server
+28163,2023-09-08 18:18:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3747697,0,3747733.0,2023-09-08 18:19:03,,60.0,Windows-server
+28163,2023-09-08 18:16:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3747624,0,3747664.0,2023-09-08 18:17:03,,60.0,Windows-server
+30667,2023-09-08 18:15:29,Port 8085 is down for sometime,3747549,0,3766332.0,2023-09-09 13:05:36,,67807.0,Zabbix-Server-Active
+28163,2023-09-08 18:13:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3747517,0,3747555.0,2023-09-08 18:14:03,,60.0,Windows-server
+28163,2023-09-08 18:11:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3747443,0,3747479.0,2023-09-08 18:12:03,,60.0,Windows-server
+28163,2023-09-08 18:08:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3747328,0,3747407.0,2023-09-08 18:10:03,,120.0,Windows-server
+28163,2023-09-08 18:06:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3747260,0,3747293.0,2023-09-08 18:07:03,,60.0,Windows-server
+28163,2023-09-08 18:04:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3747187,0,3747224.0,2023-09-08 18:05:03,,60.0,Windows-server
+28163,2023-09-08 18:01:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3747081,0,3747148.0,2023-09-08 18:03:03,,120.0,Windows-server
+28163,2023-09-08 17:58:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3746967,0,3747038.0,2023-09-08 18:00:03,,120.0,Windows-server
+28163,2023-09-08 17:56:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3746896,0,3746933.0,2023-09-08 17:57:03,,60.0,Windows-server
+28163,2023-09-08 17:49:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3746642,0,3746825.0,2023-09-08 17:54:03,,300.0,Windows-server
+28163,2023-09-08 17:47:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3746573,0,3746609.0,2023-09-08 17:48:03,,60.0,Windows-server
+28163,2023-09-08 17:42:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3746391,0,3746463.0,2023-09-08 17:44:03,,120.0,Windows-server
+28163,2023-09-08 17:39:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3746275,0,3746355.0,2023-09-08 17:41:03,,120.0,Windows-server
+28163,2023-09-08 17:36:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3746172,0,3746207.0,2023-09-08 17:37:03,,60.0,Windows-server
+28163,2023-09-08 17:31:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3745987,0,3746026.0,2023-09-08 17:32:03,,60.0,Windows-server
+24738,2023-09-08 17:30:12,Website Unavailable: Facebook,3745897,0,3760838.0,2023-09-09 00:20:23,,24611.0,Zabbix-Server-Standby
+26266,2023-09-08 17:28:34,Forecast Memory Utilization High,3745835,0,3747183.0,2023-09-08 18:05:34,,2220.0,Calculated and Aggregate items
+28163,2023-09-08 17:27:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3745841,0,3745878.0,2023-09-08 17:28:03,,60.0,Windows-server
+28163,2023-09-08 17:22:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3745657,0,3745733.0,2023-09-08 17:24:03,,120.0,Windows-server
+26614,2023-09-08 17:21:45,Load average is too high,3745587,0,3748664.0,2023-09-08 18:46:18,,5073.0,Linux Server
+24738,2023-09-08 17:21:27,Website Unavailable: Facebook,3745573,0,3745716.0,2023-09-08 17:25:12,,225.0,Zabbix-Server-Standby
+26609,2023-09-08 17:20:45,High memory utilization,3745550,0,3748464.0,2023-09-08 18:40:45,,4800.0,Linux Server
+28163,2023-09-08 17:19:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3745547,0,3745584.0,2023-09-08 17:20:03,,60.0,Windows-server
+26646,2023-09-08 17:17:04,Load average is too high,3745419,0,3748790.0,2023-09-08 18:49:47,,5563.0,Zabbix-Server-Active
+28163,2023-09-08 17:17:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3745472,0,3745509.0,2023-09-08 17:18:03,,60.0,Windows-server
+28163,2023-09-08 17:14:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3745366,0,3745402.0,2023-09-08 17:15:03,,60.0,Windows-server
+28163,2023-09-08 17:11:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3745256,0,3745291.0,2023-09-08 17:12:03,,60.0,Windows-server
+26612,2023-09-08 17:10:38,High swap space usage,3745179,0,3761289.0,2023-09-09 00:32:38,,26520.0,Linux Server
+26265,2023-09-08 17:10:33,Forecast CPU Utilization High,3745174,0,3747510.0,2023-09-08 18:14:33,,3840.0,Calculated and Aggregate items
+28163,2023-09-08 17:09:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3745178,0,3745219.0,2023-09-08 17:10:03,,60.0,Windows-server
+26646,2023-09-08 17:08:46,Load average is too high,3745107,0,3745121.0,2023-09-08 17:09:04,,18.0,Zabbix-Server-Active
+28163,2023-09-08 17:07:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3745103,0,3745143.0,2023-09-08 17:08:03,,60.0,Windows-server
+28163,2023-09-08 17:04:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3744996,0,3745066.0,2023-09-08 17:06:03,,120.0,Windows-server
+28163,2023-09-08 17:02:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3744924,0,3744961.0,2023-09-08 17:03:03,,60.0,Windows-server
+28163,2023-09-08 17:00:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3744851,0,3744889.0,2023-09-08 17:01:03,,60.0,Windows-server
+28163,2023-09-08 16:56:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3744708,0,3744744.0,2023-09-08 16:57:03,,60.0,Windows-server
+26646,2023-09-08 16:54:47,Load average is too high,3744599,0,3744637.0,2023-09-08 16:55:47,,60.0,Zabbix-Server-Active
+28163,2023-09-08 16:52:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3744558,0,3744634.0,2023-09-08 16:54:03,,120.0,Windows-server
+28163,2023-09-08 16:49:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3744453,0,3744526.0,2023-09-08 16:51:03,,120.0,Windows-server
+28163,2023-09-08 16:43:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3744243,0,3744348.0,2023-09-08 16:46:03,,180.0,Windows-server
+28163,2023-09-08 16:41:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3744170,0,3744207.0,2023-09-08 16:42:03,,60.0,Windows-server
+26646,2023-09-08 16:38:48,Load average is too high,3744028,0,3744137.0,2023-09-08 16:41:47,,179.0,Zabbix-Server-Active
+28163,2023-09-08 16:38:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3744059,0,3744097.0,2023-09-08 16:39:03,,60.0,Windows-server
+28163,2023-09-08 16:30:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3743772,0,3743954.0,2023-09-08 16:35:03,,300.0,Windows-server
+28163,2023-09-08 16:28:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3743702,0,3743738.0,2023-09-08 16:29:03,,60.0,Windows-server
+28163,2023-09-08 16:23:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3743522,0,3743560.0,2023-09-08 16:24:03,,60.0,Windows-server
+28163,2023-09-08 16:21:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3743452,0,3743488.0,2023-09-08 16:22:03,,60.0,Windows-server
+28163,2023-09-08 16:19:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3743376,0,3743415.0,2023-09-08 16:20:03,,60.0,Windows-server
+28163,2023-09-08 16:14:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3743202,0,3743307.0,2023-09-08 16:17:03,,180.0,Windows-server
+28163,2023-09-08 16:12:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3743130,0,3743162.0,2023-09-08 16:13:03,,60.0,Windows-server
+28163,2023-09-08 16:05:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3742881,0,3743022.0,2023-09-08 16:09:03,,240.0,Windows-server
+28163,2023-09-08 16:03:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3742811,0,3742845.0,2023-09-08 16:04:03,,60.0,Windows-server
+28163,2023-09-08 15:59:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3742666,0,3742774.0,2023-09-08 16:02:03,,180.0,Windows-server
+28163,2023-09-08 15:56:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3742559,0,3742628.0,2023-09-08 15:58:03,,120.0,Windows-server
+28163,2023-09-08 15:53:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3742449,0,3742488.0,2023-09-08 15:54:03,,60.0,Windows-server
+28163,2023-09-08 15:51:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3742380,0,3742413.0,2023-09-08 15:52:03,,60.0,Windows-server
+28163,2023-09-08 15:48:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3742266,0,3742305.0,2023-09-08 15:49:03,,60.0,Windows-server
+24738,2023-09-08 15:46:25,Website Unavailable: Facebook,3742146,0,3745206.0,2023-09-08 17:11:26,,5101.0,Zabbix-Server-Standby
+28163,2023-09-08 15:43:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3742087,0,3742197.0,2023-09-08 15:46:03,,180.0,Windows-server
+28163,2023-09-08 15:38:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3741906,0,3741943.0,2023-09-08 15:39:03,,60.0,Windows-server
+28163,2023-09-08 15:35:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3741801,0,3741837.0,2023-09-08 15:36:03,,60.0,Windows-server
+28163,2023-09-08 15:32:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3741694,0,3741727.0,2023-09-08 15:33:03,,60.0,Windows-server
+28163,2023-09-08 15:29:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3741585,0,3741620.0,2023-09-08 15:30:03,,60.0,Windows-server
+28163,2023-09-08 15:27:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3741513,0,3741550.0,2023-09-08 15:28:03,,60.0,Windows-server
+28163,2023-09-08 15:23:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3741366,0,3741405.0,2023-09-08 15:24:03,,60.0,Windows-server
+28163,2023-09-08 15:18:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3741187,0,3741296.0,2023-09-08 15:21:03,,180.0,Windows-server
+28163,2023-09-08 15:15:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3741081,0,3741150.0,2023-09-08 15:17:03,,120.0,Windows-server
+28163,2023-09-08 15:13:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3741009,0,3741045.0,2023-09-08 15:14:03,,60.0,Windows-server
+28163,2023-09-08 15:11:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3740937,0,3740974.0,2023-09-08 15:12:03,,60.0,Windows-server
+28163,2023-09-08 15:08:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3740827,0,3740865.0,2023-09-08 15:09:03,,60.0,Windows-server
+28163,2023-09-08 15:06:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3740758,0,3740790.0,2023-09-08 15:07:03,,60.0,Windows-server
+28163,2023-09-08 15:03:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3740647,0,3740686.0,2023-09-08 15:04:03,,60.0,Windows-server
+28163,2023-09-08 15:01:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3740578,0,3740611.0,2023-09-08 15:02:03,,60.0,Windows-server
+28163,2023-09-08 14:57:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3740431,0,3740505.0,2023-09-08 14:59:03,,120.0,Windows-server
+28163,2023-09-08 14:55:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3740363,0,3740396.0,2023-09-08 14:56:03,,60.0,Windows-server
+28163,2023-09-08 14:53:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3740286,0,3740324.0,2023-09-08 14:54:03,,60.0,Windows-server
+28163,2023-09-08 14:50:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3740181,0,3740252.0,2023-09-08 14:52:03,,120.0,Windows-server
+28163,2023-09-08 14:47:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3740074,0,3740110.0,2023-09-08 14:48:03,,60.0,Windows-server
+28163,2023-09-08 14:41:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3739859,0,3740035.0,2023-09-08 14:46:03,,300.0,Windows-server
+28163,2023-09-08 14:39:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3739784,0,3739818.0,2023-09-08 14:40:03,,60.0,Windows-server
+28163,2023-09-08 14:36:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3739673,0,3739712.0,2023-09-08 14:37:03,,60.0,Windows-server
+28163,2023-09-08 14:30:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3739463,0,3739535.0,2023-09-08 14:32:03,,120.0,Windows-server
+26609,2023-09-08 14:29:45,High memory utilization,3739392,0,3739824.0,2023-09-08 14:41:45,,720.0,Linux Server
+28163,2023-09-08 14:26:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3739318,0,3739425.0,2023-09-08 14:29:03,,180.0,Windows-server
+28163,2023-09-08 14:24:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3739246,0,3739283.0,2023-09-08 14:25:03,,60.0,Windows-server
+26646,2023-09-08 14:21:46,Load average is too high,3739101,0,3739102.0,2023-09-08 14:21:47,,1.0,Zabbix-Server-Active
+31212,2023-09-08 14:21:04,Azure: There are errors in requests to API,3739074,0,3739104.0,2023-09-08 14:21:52,,48.0,Azure virtual machine Ubuntu20.04
+28163,2023-09-08 14:21:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3739138,0,3739171.0,2023-09-08 14:22:03,,60.0,Windows-server
+28163,2023-09-08 14:14:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3738880,0,3739098.0,2023-09-08 14:20:03,,360.0,Windows-server
+26646,2023-09-08 14:13:48,Load average is too high,3738811,0,3738888.0,2023-09-08 14:15:57,,129.0,Zabbix-Server-Active
+28163,2023-09-08 14:09:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3738701,0,3738808.0,2023-09-08 14:12:03,,180.0,Windows-server
+28163,2023-09-08 14:06:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3738594,0,3738629.0,2023-09-08 14:07:03,,60.0,Windows-server
+28163,2023-09-08 14:02:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3738450,0,3738523.0,2023-09-08 14:04:03,,120.0,Windows-server
+28163,2023-09-08 13:56:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3738239,0,3738276.0,2023-09-08 13:57:03,,60.0,Windows-server
+26609,2023-09-08 13:55:45,High memory utilization,3738167,0,3739178.0,2023-09-08 14:23:45,,1680.0,Linux Server
+26609,2023-09-08 13:45:45,High memory utilization,3737813,0,3737954.0,2023-09-08 13:49:45,,240.0,Linux Server
+31212,2023-09-08 13:43:04,Azure: There are errors in requests to API,3737703,0,3737743.0,2023-09-08 13:43:52,,48.0,Azure virtual machine Ubuntu20.04
+31179,2023-09-08 13:43:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3737696,0,3737738.0,2023-09-08 13:43:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-09-08 13:43:02,Azure Microsoft SQL: There are errors in requests to API,3737698,0,3737740.0,2023-09-08 13:43:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+26265,2023-09-08 13:40:33,Forecast CPU Utilization High,3737595,0,3738440.0,2023-09-08 14:03:33,,1380.0,Calculated and Aggregate items
+28163,2023-09-08 13:22:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3736997,0,3737067.0,2023-09-08 13:24:03,,120.0,Windows-server
+28163,2023-09-08 13:17:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3736819,0,3736925.0,2023-09-08 13:20:03,,180.0,Windows-server
+28163,2023-09-08 13:14:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3736712,0,3736751.0,2023-09-08 13:15:03,,60.0,Windows-server
+28163,2023-09-08 13:10:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3736572,0,3736678.0,2023-09-08 13:13:03,,180.0,Windows-server
+28163,2023-09-08 13:06:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3736429,0,3736462.0,2023-09-08 13:07:03,,60.0,Windows-server
+28163,2023-09-08 13:03:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3736316,0,3736353.0,2023-09-08 13:04:03,,60.0,Windows-server
+28163,2023-09-08 13:00:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3736212,0,3736244.0,2023-09-08 13:01:03,,60.0,Windows-server
+28163,2023-09-08 12:56:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3736068,0,3736176.0,2023-09-08 12:59:03,,180.0,Windows-server
+28163,2023-09-08 12:53:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3735959,0,3735992.0,2023-09-08 12:54:03,,60.0,Windows-server
+28163,2023-09-08 12:51:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3735881,0,3735920.0,2023-09-08 12:52:03,,60.0,Windows-server
+26609,2023-09-08 12:48:45,High memory utilization,3735741,0,3735777.0,2023-09-08 12:49:45,,60.0,Linux Server
+28163,2023-09-08 12:47:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3735737,0,3735848.0,2023-09-08 12:50:03,,180.0,Windows-server
+28163,2023-09-08 12:45:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3735661,0,3735699.0,2023-09-08 12:46:03,,60.0,Windows-server
+28163,2023-09-08 12:43:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3735589,0,3735622.0,2023-09-08 12:44:03,,60.0,Windows-server
+28163,2023-09-08 12:41:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3735514,0,3735551.0,2023-09-08 12:42:03,,60.0,Windows-server
+28163,2023-09-08 12:39:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3735442,0,3735478.0,2023-09-08 12:40:03,,60.0,Windows-server
+28163,2023-09-08 12:37:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3735369,0,3735405.0,2023-09-08 12:38:03,,60.0,Windows-server
+26638,2023-09-08 11:51:16,Operating system description has changed,3733695,0,3786900.0,2023-09-09 22:51:04,,125988.0,Zabbix-Server-Active
+31212,2023-09-08 11:49:04,Azure: There are errors in requests to API,3733618,0,3733641.0,2023-09-08 11:49:51,,47.0,Azure virtual machine Ubuntu20.04
+26606,2023-09-08 09:49:35,Operating system description has changed,3729380,0,3767747.0,2023-09-09 13:49:35,,100800.0,Linux Server
+32209,2023-09-08 09:30:28,Port 35229 is down for sometime,3728754,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+23599,2023-09-08 09:30:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3728753,0,3766322.0,2023-09-09 13:05:27,,99300.0,Zabbix-Server-Active
+29389,2023-09-08 09:30:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3728751,0,3766317.0,2023-09-09 13:05:24,,99300.0,Zabbixproxy2
+29302,2023-09-08 09:29:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3728728,0,3766269.0,2023-09-09 13:04:42,,99300.0,Zabbixproxy
+26266,2023-09-08 09:14:34,Forecast Memory Utilization High,3728275,0,3728334.0,2023-09-08 09:16:34,,120.0,Calculated and Aggregate items
+29414,2023-09-08 09:10:26,Zabbix proxy: has been restarted,3728128,0,3728455.0,2023-09-08 09:20:26,,600.0,Zabbixproxy2
+29327,2023-09-08 09:09:55,Zabbix proxy: has been restarted,3728061,0,3728437.0,2023-09-08 09:19:55,,600.0,Zabbixproxy
+26607,2023-09-08 09:09:41,has been restarted,3728020,0,3728415.0,2023-09-08 09:19:11,,570.0,Linux Server
+26639,2023-09-08 09:09:40,has been restarted,3728016,0,3728414.0,2023-09-08 09:19:10,,570.0,Zabbix-Server-Active
+29307,2023-09-08 09:09:37,Zabbix proxy: Utilization of http poller processes is high,3728005,0,3728215.0,2023-09-08 09:12:37,,180.0,Zabbixproxy
+31212,2023-09-08 01:23:52,Azure: There are errors in requests to API,3727815,0,3727996.0,2023-09-08 01:28:55,,303.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-08 00:38:56,Azure: There are errors in requests to API,3726223,0,3726290.0,2023-09-08 00:40:52,,116.0,Azure virtual machine Ubuntu20.04
+31179,2023-09-08 00:31:49,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3725967,0,3726005.0,2023-09-08 00:32:49,,60.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-09-08 00:31:49,Azure Microsoft SQL: There are errors in requests to API,3725968,0,3726006.0,2023-09-08 00:32:49,,60.0,Azure Microsoft SQL database azure-sqlserver1
+30667,2023-09-08 00:18:37,Port 8085 is down for sometime,3725507,0,3728131.0,2023-09-08 09:10:28,,31911.0,Zabbix-Server-Active
+31212,2023-09-08 00:07:04,Azure: There are errors in requests to API,3725096,0,3725191.0,2023-09-08 00:09:52,,168.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-07 23:35:04,Azure: There are errors in requests to API,3723957,0,3723981.0,2023-09-07 23:35:52,,48.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-07 22:57:52,Azure: There are errors in requests to API,3722634,0,3722706.0,2023-09-07 22:59:52,,120.0,Azure virtual machine Ubuntu20.04
+26646,2023-09-07 21:46:46,Load average is too high,3720123,0,3720124.0,2023-09-07 21:46:47,,1.0,Zabbix-Server-Active
+31212,2023-09-07 21:23:51,Azure: There are errors in requests to API,3719308,0,3719494.0,2023-09-07 21:29:00,,309.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-07 21:21:51,Azure: There are errors in requests to API,3719238,0,3719274.0,2023-09-07 21:22:51,,60.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-07 21:18:04,Azure: There are errors in requests to API,3719108,0,3719134.0,2023-09-07 21:18:53,,49.0,Azure virtual machine Ubuntu20.04
+26265,2023-09-07 20:46:33,Forecast CPU Utilization High,3717994,0,3718346.0,2023-09-07 20:56:33,,600.0,Calculated and Aggregate items
+31212,2023-09-07 19:55:05,Azure: There are errors in requests to API,3716172,0,3716266.0,2023-09-07 19:57:52,,167.0,Azure virtual machine Ubuntu20.04
+26770,2023-09-07 19:19:51,Unavailable by ICMP ping,3714929,0,,2023-09-11 12:49:31,,,AP_6_Kerala_EK
+27593,2023-09-07 19:11:23,Zabbix agent is not available,3714625,0,3729603.0,2023-09-08 09:54:17,,52974.0,Windows-server
+26646,2023-09-07 18:42:47,Load average is too high,3713609,0,3713897.0,2023-09-07 18:50:47,,480.0,Zabbix-Server-Active
+28163,2023-09-07 18:41:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3713604,0,3729599.0,2023-09-08 09:54:03,,54780.0,Windows-server
+28163,2023-09-07 18:36:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3713423,0,3713566.0,2023-09-07 18:40:03,,240.0,Windows-server
+28163,2023-09-07 18:34:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3713355,0,3713390.0,2023-09-07 18:35:03,,60.0,Windows-server
+28163,2023-09-07 18:31:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3713246,0,3713315.0,2023-09-07 18:33:03,,120.0,Windows-server
+28163,2023-09-07 18:28:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3713140,0,3713172.0,2023-09-07 18:29:03,,60.0,Windows-server
+28163,2023-09-07 18:25:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3713031,0,3713068.0,2023-09-07 18:26:03,,60.0,Windows-server
+31212,2023-09-07 18:22:52,Azure: There are errors in requests to API,3712891,0,3712964.0,2023-09-07 18:24:52,,120.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-07 18:20:52,Azure: There are errors in requests to API,3712818,0,3712855.0,2023-09-07 18:21:52,,60.0,Azure virtual machine Ubuntu20.04
+28163,2023-09-07 18:20:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3712848,0,3712925.0,2023-09-07 18:22:03,,120.0,Windows-server
+28163,2023-09-07 18:13:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3712599,0,3712708.0,2023-09-07 18:16:03,,180.0,Windows-server
+28163,2023-09-07 18:11:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3712529,0,3712565.0,2023-09-07 18:12:03,,60.0,Windows-server
+28163,2023-09-07 18:08:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3712418,0,3712493.0,2023-09-07 18:10:03,,120.0,Windows-server
+28163,2023-09-07 18:05:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3712307,0,3712344.0,2023-09-07 18:06:03,,60.0,Windows-server
+28163,2023-09-07 18:02:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3712203,0,3712272.0,2023-09-07 18:04:03,,120.0,Windows-server
+28163,2023-09-07 17:58:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3712062,0,3712098.0,2023-09-07 17:59:03,,60.0,Windows-server
+28163,2023-09-07 17:54:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3711915,0,3712024.0,2023-09-07 17:57:03,,180.0,Windows-server
+28163,2023-09-07 17:52:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3711843,0,3711881.0,2023-09-07 17:53:03,,60.0,Windows-server
+28163,2023-09-07 17:46:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3711633,0,3711669.0,2023-09-07 17:47:03,,60.0,Windows-server
+28163,2023-09-07 17:42:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3711486,0,3711561.0,2023-09-07 17:44:03,,120.0,Windows-server
+28163,2023-09-07 17:39:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3711380,0,3711418.0,2023-09-07 17:40:03,,60.0,Windows-server
+28163,2023-09-07 17:37:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3711311,0,3711344.0,2023-09-07 17:38:03,,60.0,Windows-server
+28163,2023-09-07 17:34:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3711202,0,3711274.0,2023-09-07 17:36:03,,120.0,Windows-server
+28163,2023-09-07 17:30:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3711056,0,3711163.0,2023-09-07 17:33:03,,180.0,Windows-server
+28163,2023-09-07 17:22:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3710777,0,3710985.0,2023-09-07 17:28:03,,360.0,Windows-server
+28163,2023-09-07 17:13:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3710454,0,3710599.0,2023-09-07 17:17:03,,240.0,Windows-server
+28163,2023-09-07 17:08:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3710278,0,3710385.0,2023-09-07 17:11:03,,180.0,Windows-server
+28163,2023-09-07 17:06:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3710200,0,3710239.0,2023-09-07 17:07:03,,60.0,Windows-server
+28163,2023-09-07 17:04:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3710132,0,3710168.0,2023-09-07 17:05:03,,60.0,Windows-server
+28163,2023-09-07 17:02:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3710059,0,3710095.0,2023-09-07 17:03:03,,60.0,Windows-server
+28163,2023-09-07 16:57:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3709882,0,3709987.0,2023-09-07 17:00:03,,180.0,Windows-server
+28163,2023-09-07 16:55:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3709810,0,3709846.0,2023-09-07 16:56:03,,60.0,Windows-server
+28163,2023-09-07 16:51:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3709667,0,3709704.0,2023-09-07 16:52:03,,60.0,Windows-server
+28163,2023-09-07 16:47:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3709525,0,3709561.0,2023-09-07 16:48:03,,60.0,Windows-server
+28163,2023-09-07 16:45:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3709452,0,3709485.0,2023-09-07 16:46:03,,60.0,Windows-server
+28163,2023-09-07 16:42:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3709344,0,3709380.0,2023-09-07 16:43:03,,60.0,Windows-server
+28163,2023-09-07 16:39:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3709235,0,3709269.0,2023-09-07 16:40:03,,60.0,Windows-server
+28163,2023-09-07 16:34:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3709054,0,3709127.0,2023-09-07 16:36:03,,120.0,Windows-server
+28163,2023-09-07 16:32:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3708984,0,3709017.0,2023-09-07 16:33:03,,60.0,Windows-server
+28163,2023-09-07 16:27:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3708804,0,3708841.0,2023-09-07 16:28:03,,60.0,Windows-server
+28163,2023-09-07 16:25:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3708733,0,3708766.0,2023-09-07 16:26:03,,60.0,Windows-server
+28163,2023-09-07 16:21:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3708589,0,3708660.0,2023-09-07 16:23:03,,120.0,Windows-server
+28163,2023-09-07 16:11:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3708233,0,3708376.0,2023-09-07 16:15:03,,240.0,Windows-server
+28163,2023-09-07 16:08:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3708127,0,3708199.0,2023-09-07 16:10:03,,120.0,Windows-server
+28163,2023-09-07 16:05:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3708019,0,3708091.0,2023-09-07 16:07:03,,120.0,Windows-server
+28163,2023-09-07 16:03:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3707943,0,3707980.0,2023-09-07 16:04:03,,60.0,Windows-server
+28163,2023-09-07 15:57:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3707726,0,3707836.0,2023-09-07 16:00:03,,180.0,Windows-server
+28163,2023-09-07 15:55:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3707652,0,3707690.0,2023-09-07 15:56:03,,60.0,Windows-server
+26614,2023-09-07 15:53:22,Load average is too high,3707532,0,3707602.0,2023-09-07 15:55:18,,116.0,Linux Server
+28163,2023-09-07 15:53:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3707582,0,3707619.0,2023-09-07 15:54:03,,60.0,Windows-server
+26265,2023-09-07 15:52:33,Forecast CPU Utilization High,3707502,0,3707867.0,2023-09-07 16:02:33,,600.0,Calculated and Aggregate items
+28163,2023-09-07 15:51:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3707508,0,3707545.0,2023-09-07 15:52:03,,60.0,Windows-server
+26646,2023-09-07 15:49:47,Load average is too high,3707405,0,3707733.0,2023-09-07 15:58:47,,540.0,Zabbix-Server-Active
+28163,2023-09-07 15:49:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3707437,0,3707473.0,2023-09-07 15:50:03,,60.0,Windows-server
+28163,2023-09-07 15:45:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3707293,0,3707398.0,2023-09-07 15:48:03,,180.0,Windows-server
+28163,2023-09-07 15:42:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3707186,0,3707219.0,2023-09-07 15:43:03,,60.0,Windows-server
+28163,2023-09-07 15:37:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3707010,0,3707150.0,2023-09-07 15:41:03,,240.0,Windows-server
+28163,2023-09-07 15:33:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3706866,0,3706900.0,2023-09-07 15:34:03,,60.0,Windows-server
+28163,2023-09-07 15:31:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3706790,0,3706827.0,2023-09-07 15:32:03,,60.0,Windows-server
+28163,2023-09-07 15:28:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3706682,0,3706722.0,2023-09-07 15:29:03,,60.0,Windows-server
+28163,2023-09-07 15:25:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3706572,0,3706647.0,2023-09-07 15:27:03,,120.0,Windows-server
+28163,2023-09-07 15:23:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3706503,0,3706540.0,2023-09-07 15:24:03,,60.0,Windows-server
+28163,2023-09-07 15:21:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3706429,0,3706467.0,2023-09-07 15:22:03,,60.0,Windows-server
+28163,2023-09-07 15:19:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3706355,0,3706392.0,2023-09-07 15:20:03,,60.0,Windows-server
+28163,2023-09-07 15:14:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3706178,0,3706251.0,2023-09-07 15:16:03,,120.0,Windows-server
+28163,2023-09-07 15:12:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3706107,0,3706144.0,2023-09-07 15:13:03,,60.0,Windows-server
+28163,2023-09-07 15:09:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3706000,0,3706037.0,2023-09-07 15:10:03,,60.0,Windows-server
+28163,2023-09-07 15:07:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3705928,0,3705965.0,2023-09-07 15:08:03,,60.0,Windows-server
+28163,2023-09-07 15:03:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3705785,0,3705857.0,2023-09-07 15:05:03,,120.0,Windows-server
+28163,2023-09-07 14:58:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3705608,0,3705645.0,2023-09-07 14:59:03,,60.0,Windows-server
+24738,2023-09-07 14:57:05,Website Unavailable: Facebook,3705514,0,3728085.0,2023-09-08 09:10:05,,65580.0,Zabbix-Server-Standby
+28163,2023-09-07 14:56:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3705535,0,3705571.0,2023-09-07 14:57:03,,60.0,Windows-server
+28163,2023-09-07 14:53:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3705423,0,3705498.0,2023-09-07 14:55:03,,120.0,Windows-server
+28163,2023-09-07 14:47:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3705208,0,3705321.0,2023-09-07 14:50:03,,180.0,Windows-server
+28163,2023-09-07 14:43:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3705066,0,3705137.0,2023-09-07 14:45:03,,120.0,Windows-server
+28163,2023-09-07 14:40:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3704956,0,3704992.0,2023-09-07 14:41:03,,60.0,Windows-server
+28163,2023-09-07 14:38:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3704883,0,3704919.0,2023-09-07 14:39:03,,60.0,Windows-server
+28163,2023-09-07 14:34:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3704740,0,3704776.0,2023-09-07 14:35:03,,60.0,Windows-server
+28163,2023-09-07 14:32:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3704671,0,3704703.0,2023-09-07 14:33:03,,60.0,Windows-server
+28163,2023-09-07 14:28:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3704525,0,3704564.0,2023-09-07 14:29:03,,60.0,Windows-server
+28163,2023-09-07 14:23:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3704350,0,3704387.0,2023-09-07 14:24:03,,60.0,Windows-server
+28163,2023-09-07 14:18:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3704174,0,3704280.0,2023-09-07 14:21:03,,180.0,Windows-server
+31212,2023-09-07 14:17:04,Azure: There are errors in requests to API,3704075,0,3704100.0,2023-09-07 14:17:52,,48.0,Azure virtual machine Ubuntu20.04
+28163,2023-09-07 14:14:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3704024,0,3704137.0,2023-09-07 14:17:03,,180.0,Windows-server
+28163,2023-09-07 14:12:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3703952,0,3703988.0,2023-09-07 14:13:03,,60.0,Windows-server
+28163,2023-09-07 14:06:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3703734,0,3703773.0,2023-09-07 14:07:03,,60.0,Windows-server
+28163,2023-09-07 14:03:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3703629,0,3703666.0,2023-09-07 14:04:03,,60.0,Windows-server
+28163,2023-09-07 14:00:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3703519,0,3703556.0,2023-09-07 14:01:03,,60.0,Windows-server
+28163,2023-09-07 13:58:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3703449,0,3703483.0,2023-09-07 13:59:03,,60.0,Windows-server
+28163,2023-09-07 13:48:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3703093,0,3703272.0,2023-09-07 13:53:03,,300.0,Windows-server
+28163,2023-09-07 13:46:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3703020,0,3703058.0,2023-09-07 13:47:03,,60.0,Windows-server
+28163,2023-09-07 13:43:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3702913,0,3702984.0,2023-09-07 13:45:03,,120.0,Windows-server
+28163,2023-09-07 13:33:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3702560,0,3702737.0,2023-09-07 13:38:03,,300.0,Windows-server
+28163,2023-09-07 13:30:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3702451,0,3702523.0,2023-09-07 13:32:03,,120.0,Windows-server
+28163,2023-09-07 13:28:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3702377,0,3702413.0,2023-09-07 13:29:03,,60.0,Windows-server
+28163,2023-09-07 13:21:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3702130,0,3702234.0,2023-09-07 13:24:03,,180.0,Windows-server
+28163,2023-09-07 13:19:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3702058,0,3702095.0,2023-09-07 13:20:03,,60.0,Windows-server
+28163,2023-09-07 13:14:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3701876,0,3702020.0,2023-09-07 13:18:03,,240.0,Windows-server
+28163,2023-09-07 13:08:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3701666,0,3701843.0,2023-09-07 13:13:03,,300.0,Windows-server
+28163,2023-09-07 12:59:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3701345,0,3701418.0,2023-09-07 13:01:03,,120.0,Windows-server
+28163,2023-09-07 12:57:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3701273,0,3701309.0,2023-09-07 12:58:03,,60.0,Windows-server
+28163,2023-09-07 12:51:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3701059,0,3701162.0,2023-09-07 12:54:03,,180.0,Windows-server
+28163,2023-09-07 12:49:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3700984,0,3701023.0,2023-09-07 12:50:03,,60.0,Windows-server
+28163,2023-09-07 12:46:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3700878,0,3700950.0,2023-09-07 12:48:03,,120.0,Windows-server
+32213,2023-09-07 12:43:27,"""StiSvc"" (Windows Image Acquisition (WIA)) is not running",3700786,0,,2023-09-11 12:49:31,,,Windows-server
+28163,2023-09-07 12:40:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3700659,0,3700768.0,2023-09-07 12:43:03,,180.0,Windows-server
+28163,2023-09-07 12:38:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3700587,0,3700620.0,2023-09-07 12:39:03,,60.0,Windows-server
+28163,2023-09-07 12:35:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3700475,0,3700550.0,2023-09-07 12:37:03,,120.0,Windows-server
+28163,2023-09-07 12:28:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3700231,0,3700441.0,2023-09-07 12:34:03,,360.0,Windows-server
+28163,2023-09-07 12:25:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3700120,0,3700153.0,2023-09-07 12:26:03,,60.0,Windows-server
+28163,2023-09-07 12:21:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3699978,0,3700045.0,2023-09-07 12:23:03,,120.0,Windows-server
+28163,2023-09-07 12:16:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3699797,0,3699867.0,2023-09-07 12:18:03,,120.0,Windows-server
+28163,2023-09-07 12:11:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3699620,0,3699691.0,2023-09-07 12:13:03,,120.0,Windows-server
+28163,2023-09-07 12:08:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3699513,0,3699581.0,2023-09-07 12:10:03,,120.0,Windows-server
+27173,2023-09-07 12:06:40,Remote Desktop Services ({ITEM.LASTVALUE}),3699460,0,,2023-09-11 12:49:31,,,Windows-server
+27172,2023-09-07 12:06:39,Remote Desktop Licensing ({ITEM.LASTVALUE}),3699457,0,,2023-09-11 12:49:31,,,Windows-server
+28163,2023-09-07 12:06:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3699436,0,3699476.0,2023-09-07 12:07:03,,60.0,Windows-server
+28163,2023-09-07 12:02:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3699293,0,3699398.0,2023-09-07 12:05:03,,180.0,Windows-server
+28163,2023-09-07 11:58:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3699148,0,3699187.0,2023-09-07 11:59:03,,60.0,Windows-server
+28163,2023-09-07 11:54:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,3698995,0,3699038.0,2023-09-07 11:55:03,,60.0,Windows-server
+27615,2023-09-07 11:52:46,Windows(C:): Disk space is critically low,3698934,0,,2023-09-11 12:49:31,,,Windows-server
+28285,2023-09-07 11:52:38,"""VagrantVMware"" (vagrant-vmware-utility) is not running",3698929,0,,2023-09-11 12:49:31,,,Windows-server
+29302,2023-09-07 09:58:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3694885,0,3728021.0,2023-09-08 09:09:42,,83460.0,Zabbixproxy
+23599,2023-09-07 09:58:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3694877,0,3728129.0,2023-09-08 09:10:27,,83520.0,Zabbix-Server-Active
+29389,2023-09-07 09:58:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3694874,0,3728125.0,2023-09-08 09:10:24,,83520.0,Zabbixproxy2
+26266,2023-09-07 09:42:34,Forecast Memory Utilization High,3694405,0,3694523.0,2023-09-07 09:46:34,,240.0,Calculated and Aggregate items
+29414,2023-09-07 09:38:26,Zabbix proxy: has been restarted,3694266,0,3694583.0,2023-09-07 09:48:26,,600.0,Zabbixproxy2
+26607,2023-09-07 09:38:11,has been restarted,3694254,0,3694556.0,2023-09-07 09:47:41,,570.0,Linux Server
+26639,2023-09-07 09:38:10,has been restarted,3694253,0,3694576.0,2023-09-07 09:48:10,,600.0,Zabbix-Server-Active
+29327,2023-09-07 09:37:55,Zabbix proxy: has been restarted,3694229,0,3694566.0,2023-09-07 09:47:55,,600.0,Zabbixproxy
+26646,2023-09-07 09:37:47,Load average is too high,3694220,0,3694288.0,2023-09-07 09:38:47,,60.0,Zabbix-Server-Active
+23619,2023-09-07 09:37:46,Zabbix server: Utilization of snmp trapper processes is high,3694218,0,3694286.0,2023-09-07 09:38:46,,60.0,Zabbix-Server-Active
+29400,2023-09-07 09:37:45,Zabbix proxy: Utilization of snmp trapper processes is high,3694219,0,3694287.0,2023-09-07 09:38:45,,60.0,Zabbixproxy2
+31212,2023-09-07 01:46:52,Azure: There are errors in requests to API,3694176,0,3694212.0,2023-09-07 01:47:52,,60.0,Azure virtual machine Ubuntu20.04
+32206,2023-09-07 00:45:35,Port 37883 is down for sometime,3692071,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+23599,2023-09-07 00:45:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3692066,0,3694268.0,2023-09-07 09:38:27,,31980.0,Zabbix-Server-Active
+29389,2023-09-07 00:45:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3692064,0,3694264.0,2023-09-07 09:38:24,,31980.0,Zabbixproxy2
+29302,2023-09-07 00:44:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3692041,0,3694281.0,2023-09-07 09:38:42,,32040.0,Zabbixproxy
+26266,2023-09-07 00:29:34,Forecast Memory Utilization High,3691590,0,3691681.0,2023-09-07 00:32:34,,180.0,Calculated and Aggregate items
+29414,2023-09-07 00:25:26,Zabbix proxy: has been restarted,3691437,0,3691770.0,2023-09-07 00:35:26,,600.0,Zabbixproxy2
+26614,2023-09-07 00:25:18,Load average is too high,3691426,0,3691488.0,2023-09-07 00:26:18,,60.0,Linux Server
+26607,2023-09-07 00:25:11,has been restarted,3691421,0,3691744.0,2023-09-07 00:34:41,,570.0,Linux Server
+26639,2023-09-07 00:25:10,has been restarted,3691419,0,3691743.0,2023-09-07 00:34:40,,570.0,Zabbix-Server-Active
+29327,2023-09-07 00:24:55,Zabbix proxy: has been restarted,3691392,0,3691754.0,2023-09-07 00:34:55,,600.0,Zabbixproxy
+26646,2023-09-07 00:24:47,Load average is too high,3691380,0,3691468.0,2023-09-07 00:25:47,,60.0,Zabbix-Server-Active
+29400,2023-09-07 00:24:45,Zabbix proxy: Utilization of snmp trapper processes is high,3691377,0,3691465.0,2023-09-07 00:25:45,,60.0,Zabbixproxy2
+31179,2023-09-06 23:04:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3690696,0,3690735.0,2023-09-06 23:04:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-09-06 23:04:02,Azure Microsoft SQL: There are errors in requests to API,3690698,0,3690737.0,2023-09-06 23:04:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-09-06 22:47:04,Azure: There are errors in requests to API,3690087,0,3690119.0,2023-09-06 22:48:00,,56.0,Azure virtual machine Ubuntu20.04
+24738,2023-09-06 22:12:46,Website Unavailable: Facebook,3688878,0,3691371.0,2023-09-06 23:22:50,,4204.0,Zabbix-Server-Standby
+31179,2023-09-06 20:33:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3685345,0,3685454.0,2023-09-06 20:35:50,,168.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-09-06 20:33:02,Azure Microsoft SQL: There are errors in requests to API,3685347,0,3685456.0,2023-09-06 20:35:50,,168.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-09-06 20:27:52,Azure: There are errors in requests to API,3685145,0,3685186.0,2023-09-06 20:28:56,,64.0,Azure virtual machine Ubuntu20.04
+23345,2023-09-06 19:19:05,Nginx: Failed to fetch stub status page,3682724,0,,2023-09-11 12:49:31,,,NGINX
+26404,2023-09-06 19:19:04,Nginx: Failed to fetch stub status page,3682723,0,,2023-09-11 12:49:31,,,standby-node-2
+31257,2023-09-06 19:18:57,Nginx: Failed to fetch stub status page,3682714,0,,2023-09-11 12:49:31,,,NGINX clone
+26646,2023-09-06 19:12:46,Load average is too high,3682494,0,3682495.0,2023-09-06 19:12:47,,1.0,Zabbix-Server-Active
+26433,2023-09-06 18:54:05,Zabbix agent is not available,3681833,0,,2023-09-11 12:49:31,,,standby-node-2
+26665,2023-09-06 18:53:23,Zabbix agent is not available,3681802,0,,2023-09-11 12:49:31,,,Zabbix-Server-Standby
+24518,2023-09-06 18:50:09,Cluster node [node2]: Status changed,3681692,0,3691418.0,2023-09-07 00:25:09,,20100.0,Zabbix-Server-Active
+24214,2023-09-06 18:38:55,Website Unavailable: Grafana,3681285,0,3789964.0,2023-09-11 08:44:37,,396342.0,Web Scenario
+23296,2023-09-06 18:38:40,Website Unavailable: Grafana,3681279,0,3789895.0,2023-09-11 08:43:39,,396299.0,Zabbix-Server-Standby
+31179,2023-09-06 18:21:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3680623,0,3680662.0,2023-09-06 18:21:48,,46.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-09-06 18:21:02,Azure Microsoft SQL: There are errors in requests to API,3680625,0,3680664.0,2023-09-06 18:21:48,,46.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-09-06 18:00:51,Azure: There are errors in requests to API,3679877,0,3679915.0,2023-09-06 18:01:52,,61.0,Azure virtual machine Ubuntu20.04
+26646,2023-09-06 17:57:46,Load average is too high,3679766,0,3679767.0,2023-09-06 17:57:47,,1.0,Zabbix-Server-Active
+29302,2023-09-06 17:36:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3679035,0,3691462.0,2023-09-07 00:25:42,,24540.0,Zabbixproxy
+23599,2023-09-06 17:36:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3679026,0,3691438.0,2023-09-07 00:25:27,,24540.0,Zabbix-Server-Active
+29389,2023-09-06 17:36:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3679024,0,3691429.0,2023-09-07 00:25:24,,24540.0,Zabbixproxy2
+31179,2023-09-06 17:32:57,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3678911,0,3678937.0,2023-09-06 17:33:49,,52.0,Azure Microsoft SQL database azure-sqlserver1
+26266,2023-09-06 17:22:34,Forecast Memory Utilization High,3678571,0,3678604.0,2023-09-06 17:23:34,,60.0,Calculated and Aggregate items
+26642,2023-09-06 17:16:16,Zabbix agent is not available,3678338,0,3678382.0,2023-09-06 17:17:16,,60.0,Zabbix-Server-Active
+27774,2023-09-06 17:07:29,Zabbix - Linux: Memory utilization  and  Interface Status,3678289,0,3678381.0,2023-09-06 17:17:15,,586.0,Docker server
+27774,2023-09-06 17:07:29,Zabbix - Linux: Memory utilization  and  Interface Status,3678289,0,3678381.0,2023-09-06 17:17:15,,586.0,Zabbix-Server-Active
+26265,2023-09-06 17:03:33,Forecast CPU Utilization High,3678141,0,3678257.0,2023-09-06 17:06:33,,180.0,Calculated and Aggregate items
+31212,2023-09-06 17:02:07,Azure: There are errors in requests to API,3678070,0,3678114.0,2023-09-06 17:02:51,,44.0,Azure virtual machine Ubuntu20.04
+31182,2023-09-06 17:02:04,Azure Microsoft SQL: There are errors in requests to API,3678068,0,3678111.0,2023-09-06 17:02:49,,45.0,Azure Microsoft SQL database azure-sqlserver1
+26646,2023-09-06 16:53:46,Load average is too high,3678040,0,3678510.0,2023-09-06 17:20:47,,1621.0,Zabbix-Server-Active
+26609,2023-09-06 16:53:45,High memory utilization,3678038,0,3678192.0,2023-09-06 17:04:45,,660.0,Linux Server
+29302,2023-09-06 16:53:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3678034,0,3678042.0,2023-09-06 16:57:48,,246.0,Zabbixproxy
+29389,2023-09-06 16:53:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3678025,0,3678081.0,2023-09-06 17:02:24,,540.0,Zabbixproxy2
+23599,2023-09-06 16:52:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3677989,0,3678085.0,2023-09-06 17:02:27,,600.0,Zabbix-Server-Active
+27774,2023-09-06 16:52:15,Zabbix - Linux: Memory utilization  and  Interface Status,3677982,0,3678175.0,2023-09-06 17:04:14,,719.0,Docker server
+27774,2023-09-06 16:52:15,Zabbix - Linux: Memory utilization  and  Interface Status,3677982,0,3678175.0,2023-09-06 17:04:14,,719.0,Zabbix-Server-Active
+26614,2023-09-06 16:51:18,Load average is too high,3677949,0,3678531.0,2023-09-06 17:21:18,,1800.0,Linux Server
+23631,2023-09-06 16:42:18,Zabbix server: Utilization of history poller processes is high,3677622,0,3677666.0,2023-09-06 16:43:03,,45.0,Zabbix-Server-Active
+29325,2023-09-06 16:42:18,Zabbix proxy: Utilization of history poller processes is high,3677626,0,3677698.0,2023-09-06 16:43:53,,95.0,Zabbixproxy
+29326,2023-09-06 16:42:18,Zabbix proxy: Utilization of ODBC poller processes is high,3677627,0,3677661.0,2023-09-06 16:42:57,,39.0,Zabbixproxy
+29398,2023-09-06 16:42:17,Zabbix proxy: Utilization of poller processes is high,3677618,0,3677690.0,2023-09-06 16:43:41,,84.0,Zabbixproxy2
+29413,2023-09-06 16:42:17,Zabbix proxy: Utilization of ODBC poller processes is high,3677619,0,3677689.0,2023-09-06 16:43:40,,83.0,Zabbixproxy2
+23606,2023-09-06 16:41:57,Zabbix server: Utilization of history syncer processes is high,3677600,0,3677647.0,2023-09-06 16:42:34,,37.0,Zabbix-Server-Active
+29392,2023-09-06 16:41:55,Zabbix proxy: Utilization of history syncer processes is high,3677596,0,3677645.0,2023-09-06 16:42:33,,38.0,Zabbixproxy2
+29305,2023-09-06 16:41:45,Zabbix proxy: Utilization of history syncer processes is high,3677590,0,3677684.0,2023-09-06 16:43:33,,108.0,Zabbixproxy
+29412,2023-09-06 16:41:45,Zabbix proxy: Utilization of history poller processes is high,3677589,0,3677683.0,2023-09-06 16:43:32,,107.0,Zabbixproxy2
+29311,2023-09-06 16:41:41,Zabbix proxy: Utilization of poller processes is high,3677574,0,3677681.0,2023-09-06 16:43:31,,110.0,Zabbixproxy
+23611,2023-09-06 16:41:37,Zabbix server: Utilization of poller processes is high,3677572,0,3677678.0,2023-09-06 16:43:29,,112.0,Zabbix-Server-Active
+23637,2023-09-06 16:41:24,Zabbix server: Utilization of ODBC poller processes is high,3677566,0,3677709.0,2023-09-06 16:44:10,,166.0,Zabbix-Server-Active
+23635,2023-09-06 16:41:22,Zabbix server: Utilization of trigger housekeeper processes is high,3677563,0,3677636.0,2023-09-06 16:42:19,,57.0,Zabbix-Server-Active
+23632,2023-09-06 16:41:20,Zabbix server: Utilization of report manager processes is high,3677569,0,3677635.0,2023-09-06 16:42:19,,59.0,Zabbix-Server-Active
+27774,2023-09-06 16:20:29,Zabbix - Linux: Memory utilization  and  Interface Status,3677459,0,3677515.0,2023-09-06 16:41:17,,1248.0,Docker server
+27774,2023-09-06 16:20:29,Zabbix - Linux: Memory utilization  and  Interface Status,3677459,0,3677515.0,2023-09-06 16:41:17,,1248.0,Zabbix-Server-Active
+26266,2023-09-06 16:18:34,Forecast Memory Utilization High,3677390,0,3677727.0,2023-09-06 16:44:34,,1560.0,Calculated and Aggregate items
+26265,2023-09-06 16:18:33,Forecast CPU Utilization High,3677388,0,3677993.0,2023-09-06 16:52:33,,2040.0,Calculated and Aggregate items
+26614,2023-09-06 16:17:18,Load average is too high,3677331,0,3677784.0,2023-09-06 16:46:18,,1740.0,Linux Server
+26603,2023-09-06 16:16:24,High CPU utilization,3677299,0,3677788.0,2023-09-06 16:46:24,,1800.0,Linux Server
+26609,2023-09-06 16:13:45,High memory utilization,3677298,0,3677431.0,2023-09-06 16:19:45,,360.0,Linux Server
+26612,2023-09-06 16:13:39,High swap space usage,3677292,0,3677466.0,2023-09-06 16:20:38,,419.0,Linux Server
+27774,2023-09-06 16:09:14,Zabbix - Linux: Memory utilization  and  Interface Status,3677217,0,3677325.0,2023-09-06 16:17:14,,480.0,Docker server
+27774,2023-09-06 16:09:14,Zabbix - Linux: Memory utilization  and  Interface Status,3677217,0,3677325.0,2023-09-06 16:17:14,,480.0,Zabbix-Server-Active
+26646,2023-09-06 16:07:47,Load average is too high,3677162,0,3677835.0,2023-09-06 16:47:48,,2401.0,Zabbix-Server-Active
+26646,2023-09-06 15:19:47,Load average is too high,3675416,0,3675710.0,2023-09-06 15:27:47,,480.0,Zabbix-Server-Active
+26265,2023-09-06 15:06:33,Forecast CPU Utilization High,3674935,0,3675259.0,2023-09-06 15:15:33,,540.0,Calculated and Aggregate items
+24738,2023-09-06 15:00:57,Website Unavailable: Facebook,3674731,0,3688830.0,2023-09-06 22:11:31,,25834.0,Zabbix-Server-Standby
+26641,2023-09-06 14:43:14,High memory utilization,3674094,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+26646,2023-09-06 14:27:46,Load average is too high,3673529,0,3673711.0,2023-09-06 14:32:47,,301.0,Zabbix-Server-Active
+26265,2023-09-06 14:20:33,Forecast CPU Utilization High,3673263,0,3673882.0,2023-09-06 14:37:33,,1020.0,Calculated and Aggregate items
+26646,2023-09-06 14:19:52,Load average is too high,3673234,0,3673309.0,2023-09-06 14:21:54,,122.0,Zabbix-Server-Active
+26646,2023-09-06 14:11:46,Load average is too high,3672939,0,3672940.0,2023-09-06 14:11:47,,1.0,Zabbix-Server-Active
+32139,2023-09-06 14:02:48,Port 443 is down for sometime,3672613,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+26646,2023-09-06 13:53:46,Load average is too high,3672283,0,3672284.0,2023-09-06 13:53:47,,1.0,Zabbix-Server-Active
+29302,2023-09-06 09:53:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3663615,0,3677334.0,2023-09-06 16:17:19,,23017.0,Zabbixproxy
+30876,2023-09-06 09:52:48,Port 9080 is down for sometime,3663582,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32201,2023-09-06 09:52:48,Port 39419 is down for sometime,3663583,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32205,2023-09-06 09:52:48,Port 39031 is down for sometime,3663584,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+23599,2023-09-06 09:52:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3663570,0,3677302.0,2023-09-06 16:16:27,,23040.0,Zabbix-Server-Active
+29389,2023-09-06 09:52:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3663568,0,3677300.0,2023-09-06 16:16:26,,23042.0,Zabbixproxy2
+26265,2023-09-06 09:37:33,Forecast CPU Utilization High,3663087,0,3663151.0,2023-09-06 09:39:33,,120.0,Calculated and Aggregate items
+26266,2023-09-06 09:36:34,Forecast Memory Utilization High,3663055,0,3663153.0,2023-09-06 09:39:34,,180.0,Calculated and Aggregate items
+29307,2023-09-06 09:32:37,Zabbix proxy: Utilization of http poller processes is high,3662902,0,3662954.0,2023-09-06 09:33:37,,60.0,Zabbixproxy
+29394,2023-09-06 09:32:35,Zabbix proxy: Utilization of http poller processes is high,3662898,0,3662951.0,2023-09-06 09:33:35,,60.0,Zabbixproxy2
+23608,2023-09-06 09:32:32,Zabbix server: Utilization of http poller processes is high,3662894,0,3662944.0,2023-09-06 09:33:32,,60.0,Zabbix-Server-Active
+23296,2023-09-06 09:32:26,Website Unavailable: Grafana,3662888,0,3667175.0,2023-09-06 11:33:29,,7263.0,Zabbix-Server-Standby
+29414,2023-09-06 09:32:26,Zabbix proxy: has been restarted,3662887,0,3663253.0,2023-09-06 09:42:26,,600.0,Zabbixproxy2
+26614,2023-09-06 09:32:18,Load average is too high,3662878,0,3662938.0,2023-09-06 09:33:18,,60.0,Linux Server
+26662,2023-09-06 09:32:17,has been restarted,3662876,0,3663211.0,2023-09-06 09:41:17,,540.0,Zabbix-Server-Standby
+24214,2023-09-06 09:32:11,Website Unavailable: Grafana,3662863,0,3667209.0,2023-09-06 11:34:19,,7328.0,Web Scenario
+26607,2023-09-06 09:32:11,has been restarted,3662865,0,3663223.0,2023-09-06 09:41:41,,570.0,Linux Server
+26639,2023-09-06 09:32:10,has been restarted,3662864,0,3663228.0,2023-09-06 09:41:47,,577.0,Zabbix-Server-Active
+26430,2023-09-06 09:32:09,has been restarted,3662862,0,3663205.0,2023-09-06 09:41:09,,540.0,standby-node-2
+29327,2023-09-06 09:31:56,Zabbix proxy: has been restarted,3662839,0,3663234.0,2023-09-06 09:41:55,,599.0,Zabbixproxy
+24738,2023-09-05 23:05:35,Website Unavailable: Facebook,3657111,0,3657293.0,2023-09-05 23:10:35,,300.0,Zabbix-Server-Standby
+31179,2023-09-05 22:33:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3655913,0,3655952.0,2023-09-05 22:33:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-09-05 22:33:02,Azure Microsoft SQL: There are errors in requests to API,3655915,0,3655954.0,2023-09-05 22:33:49,,47.0,Azure Microsoft SQL database azure-sqlserver1
+31212,2023-09-05 21:28:04,Azure: There are errors in requests to API,3653546,0,3653578.0,2023-09-05 21:28:58,,54.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-05 21:22:51,Azure: There are errors in requests to API,3653348,0,3653468.0,2023-09-05 21:26:02,,191.0,Azure virtual machine Ubuntu20.04
+26265,2023-09-05 20:30:33,Forecast CPU Utilization High,3651445,0,3651516.0,2023-09-05 20:32:33,,120.0,Calculated and Aggregate items
+31212,2023-09-05 19:54:04,Azure: There are errors in requests to API,3650128,0,3650154.0,2023-09-05 19:54:52,,48.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-05 18:27:04,Azure: There are errors in requests to API,3646933,0,3646958.0,2023-09-05 18:27:53,,49.0,Azure virtual machine Ubuntu20.04
+31212,2023-09-05 18:22:04,Azure: There are errors in requests to API,3646750,0,3646820.0,2023-09-05 18:24:01,,117.0,Azure virtual machine Ubuntu20.04
+24738,2023-09-05 15:07:01,Website Unavailable: Facebook,3639693,0,3656965.0,2023-09-05 23:01:35,,28474.0,Zabbix-Server-Standby
+32203,2023-09-05 14:21:18,Port 41581 is down for sometime,3638037,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32202,2023-09-05 14:16:18,Port 43045 is down for sometime,3637854,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32204,2023-09-05 14:16:18,Port 43557 is down for sometime,3637855,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+26265,2023-09-05 13:41:33,Forecast CPU Utilization High,3636590,0,3636950.0,2023-09-05 13:51:33,,600.0,Calculated and Aggregate items
+31212,2023-09-05 12:21:53,Azure: There are errors in requests to API,3633694,0,3633803.0,2023-09-05 12:24:52,,179.0,Azure virtual machine Ubuntu20.04
+29389,2023-09-05 09:27:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3627405,0,3662884.0,2023-09-06 09:32:24,,86700.0,Zabbixproxy2
+29302,2023-09-05 09:26:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3627381,0,3662908.0,2023-09-06 09:32:42,,86760.0,Zabbixproxy
+23599,2023-09-05 09:26:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3627372,0,3662890.0,2023-09-06 09:32:27,,86760.0,Zabbix-Server-Active
+30876,2023-09-05 09:26:18,Port 9080 is down for sometime,3627362,0,3627882.0,2023-09-05 09:41:18,,900.0,Zabbix-Server-Active
+32196,2023-09-05 09:26:18,Port 46383 is down for sometime,3627363,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32197,2023-09-05 09:26:18,Port 35939 is down for sometime,3627364,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32198,2023-09-05 09:26:18,Port 46139 is down for sometime,3627365,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32199,2023-09-05 09:26:18,Port 36015 is down for sometime,3627366,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32200,2023-09-05 09:26:18,Port 41027 is down for sometime,3627367,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+31212,2023-09-05 09:18:04,Azure: There are errors in requests to API,3627100,0,3627122.0,2023-09-05 09:18:51,,47.0,Azure virtual machine Ubuntu20.04
+29315,2023-09-05 09:15:29,Zabbix proxy: Utilization of unreachable poller processes is high,3627011,0,,2023-09-11 12:49:31,,,Zabbixproxy
+26266,2023-09-05 09:09:34,Forecast Memory Utilization High,3626809,0,3626912.0,2023-09-05 09:12:34,,180.0,Calculated and Aggregate items
+29414,2023-09-05 09:06:26,Zabbix proxy: has been restarted,3626679,0,3627010.0,2023-09-05 09:15:26,,540.0,Zabbixproxy2
+26437,2023-09-05 09:05:56,Load average is too high,3626644,0,3626700.0,2023-09-05 09:06:48,,52.0,standby-node-2
+26669,2023-09-05 09:05:55,Load average is too high,3626641,0,3626703.0,2023-09-05 09:06:54,,59.0,Zabbix-Server-Standby
+29327,2023-09-05 09:05:55,Zabbix proxy: has been restarted,3626640,0,3627030.0,2023-09-05 09:15:55,,600.0,Zabbixproxy
+26662,2023-09-05 09:05:47,has been restarted,3626626,0,3627005.0,2023-09-05 09:15:17,,570.0,Zabbix-Server-Standby
+26607,2023-09-05 09:05:41,has been restarted,3626614,0,3627000.0,2023-09-05 09:15:11,,570.0,Linux Server
+26639,2023-09-05 09:05:40,has been restarted,3626611,0,3626999.0,2023-09-05 09:15:10,,570.0,Zabbix-Server-Active
+26430,2023-09-05 09:05:39,has been restarted,3626609,0,3627019.0,2023-09-05 09:15:39,,600.0,standby-node-2
+29307,2023-09-05 09:05:37,Zabbix proxy: Utilization of http poller processes is high,3626606,0,3626739.0,2023-09-05 09:07:37,,120.0,Zabbixproxy
+29394,2023-09-05 09:05:35,Zabbix proxy: Utilization of http poller processes is high,3626601,0,3626737.0,2023-09-05 09:07:35,,120.0,Zabbixproxy2
+23608,2023-09-05 09:05:32,Zabbix server: Utilization of http poller processes is high,3626588,0,3626773.0,2023-09-05 09:08:32,,180.0,Zabbix-Server-Active
+31212,2023-09-04 22:16:51,Azure: There are errors in requests to API,3624397,0,3624504.0,2023-09-04 22:19:55,,184.0,Azure virtual machine Ubuntu20.04
+26804,2023-09-04 21:27:55,Unavailable by ICMP ping,3622755,0,3760241.0,2023-09-09 00:03:53,,354958.0,AP_8_Kerala_TH
+26787,2023-09-04 21:27:52,Unavailable by ICMP ping,3622751,0,3760240.0,2023-09-09 00:03:53,,354961.0,AP_7_Kerala_TH
+26503,2023-09-04 21:27:46,Unavailable by ICMP ping,3622747,0,3760235.0,2023-09-09 00:03:45,,354959.0,AP_1_Mumbai_BN
+28878,2023-09-04 21:27:30,Unavailable by ICMP ping,3622738,0,3760222.0,2023-09-09 00:03:30,,354960.0,AP_15_Kerala_EK
+26609,2023-09-04 21:17:45,High memory utilization,3622407,0,3622577.0,2023-09-04 21:22:45,,300.0,Linux Server
+26609,2023-09-04 21:01:45,High memory utilization,3621862,0,3622030.0,2023-09-04 21:06:45,,300.0,Linux Server
+26609,2023-09-04 20:51:45,High memory utilization,3621524,0,3621659.0,2023-09-04 20:55:45,,240.0,Linux Server
+26609,2023-09-04 20:41:45,High memory utilization,3621186,0,3621353.0,2023-09-04 20:46:45,,300.0,Linux Server
+26609,2023-09-04 20:30:45,High memory utilization,3620811,0,3620948.0,2023-09-04 20:34:45,,240.0,Linux Server
+31212,2023-09-04 19:52:04,Azure: There are errors in requests to API,3619497,0,3619521.0,2023-09-04 19:52:52,,48.0,Azure virtual machine Ubuntu20.04
+26609,2023-09-04 19:38:45,High memory utilization,3619045,0,3620471.0,2023-09-04 20:20:45,,2520.0,Linux Server
+24738,2023-09-04 19:31:58,Website Unavailable: Facebook,3618816,0,3624039.0,2023-09-04 22:06:07,,9249.0,Zabbix-Server-Standby
+26609,2023-09-04 19:13:45,High memory utilization,3618203,0,3618706.0,2023-09-04 19:28:45,,900.0,Linux Server
+26609,2023-09-04 18:59:45,High memory utilization,3617727,0,3617863.0,2023-09-04 19:03:45,,240.0,Linux Server
+26609,2023-09-04 18:50:45,High memory utilization,3617420,0,3617558.0,2023-09-04 18:54:45,,240.0,Linux Server
+26609,2023-09-04 18:39:45,High memory utilization,3617033,0,3617068.0,2023-09-04 18:40:45,,60.0,Linux Server
+26609,2023-09-04 18:08:45,High memory utilization,3615947,0,3616193.0,2023-09-04 18:15:45,,420.0,Linux Server
+26265,2023-09-04 18:00:33,Forecast CPU Utilization High,3615660,0,3615731.0,2023-09-04 18:02:33,,120.0,Calculated and Aggregate items
+26265,2023-09-04 17:56:33,Forecast CPU Utilization High,3615514,0,3615552.0,2023-09-04 17:57:33,,60.0,Calculated and Aggregate items
+26265,2023-09-04 17:51:33,Forecast CPU Utilization High,3615340,0,3615373.0,2023-09-04 17:52:33,,60.0,Calculated and Aggregate items
+26609,2023-09-04 17:36:45,High memory utilization,3614825,0,3614861.0,2023-09-04 17:37:45,,60.0,Linux Server
+24738,2023-09-04 17:18:28,Website Unavailable: Facebook,3614184,0,3614533.0,2023-09-04 17:28:29,,601.0,Zabbix-Server-Standby
+26787,2023-09-04 16:08:54,Unavailable by ICMP ping,3611756,0,3622071.0,2023-09-04 21:07:54,,17940.0,AP_7_Kerala_TH
+26804,2023-09-04 16:08:54,Unavailable by ICMP ping,3611757,0,3622072.0,2023-09-04 21:07:54,,17940.0,AP_8_Kerala_TH
+26503,2023-09-04 16:08:45,Unavailable by ICMP ping,3611749,0,3622102.0,2023-09-04 21:08:45,,18000.0,AP_1_Mumbai_BN
+28878,2023-09-04 16:08:30,Unavailable by ICMP ping,3611740,0,3622090.0,2023-09-04 21:08:30,,18000.0,AP_15_Kerala_EK
+26646,2023-09-04 15:56:48,Load average is too high,3611325,0,3611501.0,2023-09-04 16:01:47,,299.0,Zabbix-Server-Active
+24738,2023-09-04 15:55:35,Website Unavailable: Facebook,3611284,0,3614017.0,2023-09-04 17:13:39,,4684.0,Zabbix-Server-Standby
+31179,2023-09-04 15:45:02,Azure Microsoft SQL: Microsoft SQL database is in unknown state,3610899,0,3610973.0,2023-09-04 15:46:50,,108.0,Azure Microsoft SQL database azure-sqlserver1
+31182,2023-09-04 15:45:02,Azure Microsoft SQL: There are errors in requests to API,3610901,0,3610975.0,2023-09-04 15:46:50,,108.0,Azure Microsoft SQL database azure-sqlserver1
+29734,2023-09-04 15:39:56,PostgreSQL: Configuration has changed,3610704,0,3612839.0,2023-09-04 16:39:56,,3600.0,PG2c
+29737,2023-09-04 15:32:57,PostgreSQL: Service is down,3610460,0,,2023-09-11 12:49:31,,,PG2c
+26614,2023-09-04 15:11:19,Load average is too high,3609633,0,3609980.0,2023-09-04 15:21:18,,599.0,Linux Server
+24214,2023-09-04 15:10:35,Website Unavailable: Grafana,3609608,0,3627582.0,2023-09-05 09:32:58,,66143.0,Web Scenario
+23296,2023-09-04 15:09:29,Website Unavailable: Grafana,3609565,0,3627591.0,2023-09-05 09:33:13,,66224.0,Zabbix-Server-Standby
+26646,2023-09-04 14:06:48,Load average is too high,3607330,0,3607476.0,2023-09-04 14:10:47,,239.0,Zabbix-Server-Active
+31212,2023-09-04 13:35:05,Azure: There are errors in requests to API,3606201,0,3606226.0,2023-09-04 13:35:52,,47.0,Azure virtual machine Ubuntu20.04
+26614,2023-09-04 13:01:19,Load average is too high,3604999,0,3605177.0,2023-09-04 13:06:18,,299.0,Linux Server
+26646,2023-09-04 13:00:47,Load average is too high,3604979,0,3605018.0,2023-09-04 13:01:47,,60.0,Zabbix-Server-Active
+26646,2023-09-04 12:53:47,Load average is too high,3604734,0,3604804.0,2023-09-04 12:55:47,,120.0,Zabbix-Server-Active
+26614,2023-09-04 12:53:18,Load average is too high,3604715,0,3604822.0,2023-09-04 12:56:18,,180.0,Linux Server
+26265,2023-09-04 12:47:33,Forecast CPU Utilization High,3604513,0,3606002.0,2023-09-04 13:29:33,,2520.0,Calculated and Aggregate items
+26787,2023-09-04 12:19:54,Unavailable by ICMP ping,3603552,0,3611611.0,2023-09-04 16:04:53,,13499.0,AP_7_Kerala_TH
+26804,2023-09-04 12:19:54,Unavailable by ICMP ping,3603553,0,3611612.0,2023-09-04 16:04:53,,13499.0,AP_8_Kerala_TH
+26503,2023-09-04 12:19:45,Unavailable by ICMP ping,3603545,0,3611606.0,2023-09-04 16:04:45,,13500.0,AP_1_Mumbai_BN
+28878,2023-09-04 12:19:30,Unavailable by ICMP ping,3603536,0,3611596.0,2023-09-04 16:04:30,,13500.0,AP_15_Kerala_EK
+29302,2023-09-04 09:12:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3597187,0,3626618.0,2023-09-05 09:05:42,,85980.0,Zabbixproxy
+23599,2023-09-04 09:12:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3597179,0,3626578.0,2023-09-05 09:05:28,,85981.0,Zabbix-Server-Active
+29389,2023-09-04 09:12:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3597174,0,3626677.0,2023-09-05 09:06:24,,86040.0,Zabbixproxy2
+32195,2023-09-04 09:11:49,Port 38891 is down for sometime,3597155,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+29734,2023-09-04 08:54:56,PostgreSQL: Configuration has changed,3596627,0,3598590.0,2023-09-04 09:54:56,,3600.0,PG2c
+26266,2023-09-04 08:54:34,Forecast Memory Utilization High,3596614,0,3596717.0,2023-09-04 08:57:34,,180.0,Calculated and Aggregate items
+29740,2023-09-04 08:51:59,PostgreSQL: Service has been restarted,3596477,0,3596829.0,2023-09-04 09:00:59,,540.0,PG2c
+29327,2023-09-04 08:51:55,Zabbix proxy: has been restarted,3596466,0,3596825.0,2023-09-04 09:00:55,,540.0,Zabbixproxy
+26662,2023-09-04 08:51:47,has been restarted,3596448,0,3596803.0,2023-09-04 09:00:17,,510.0,Zabbix-Server-Standby
+26430,2023-09-04 08:51:39,has been restarted,3596413,0,3596813.0,2023-09-04 09:00:39,,540.0,standby-node-2
+29307,2023-09-04 08:51:37,Zabbix proxy: Utilization of http poller processes is high,3596412,0,3596521.0,2023-09-04 08:52:37,,60.0,Zabbixproxy
+29394,2023-09-04 08:51:35,Zabbix proxy: Utilization of http poller processes is high,3596410,0,3596518.0,2023-09-04 08:52:35,,60.0,Zabbixproxy2
+23608,2023-09-04 08:51:32,Zabbix server: Utilization of http poller processes is high,3596404,0,3596506.0,2023-09-04 08:52:32,,60.0,Zabbix-Server-Active
+24646,2023-09-04 08:51:27,{HOST.NAME} is unavailable by ICMP - ({HOST.IP}),3596401,0,3681768.0,2023-09-06 18:52:27,,208860.0,Zabbix-Server-Standby
+29414,2023-09-04 08:51:26,Zabbix proxy: has been restarted,3596394,0,3596845.0,2023-09-04 09:01:26,,600.0,Zabbixproxy2
+26607,2023-09-04 08:51:11,has been restarted,3596375,0,3596816.0,2023-09-04 09:00:41,,570.0,Linux Server
+26639,2023-09-04 08:51:10,has been restarted,3596376,0,3596815.0,2023-09-04 09:00:40,,570.0,Zabbix-Server-Active
+24518,2023-09-04 08:51:09,Cluster node [node2]: Status changed,3596373,0,3621505.0,2023-09-04 20:51:09,,43200.0,Zabbix-Server-Active
+26770,2023-09-04 01:10:51,Unavailable by ICMP ping,3596353,0,3714787.0,2023-09-07 19:15:51,,324300.0,AP_6_Kerala_EK
+23599,2023-09-03 22:12:27,Zabbix server: More than 100 items having missing data for more than 10 minutes,3590107,0,3596395.0,2023-09-04 08:51:27,,38340.0,Zabbix-Server-Active
+32194,2023-09-03 22:12:25,Port 46207 is down for sometime,3590106,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+29389,2023-09-03 22:12:24,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3590104,0,3596390.0,2023-09-04 08:51:24,,38340.0,Zabbixproxy2
+29302,2023-09-03 22:11:42,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,3590081,0,3596418.0,2023-09-04 08:51:42,,38400.0,Zabbixproxy
+26266,2023-09-03 21:55:34,Forecast Memory Utilization High,3589600,0,3589722.0,2023-09-03 21:59:34,,240.0,Calculated and Aggregate items
+29414,2023-09-03 21:52:26,Zabbix proxy: has been restarted,3589495,0,3589811.0,2023-09-03 22:02:26,,600.0,Zabbixproxy2
+24214,2023-09-03 21:52:02,Website Unavailable: Grafana,3589473,0,3598465.0,2023-09-04 09:51:14,,43152.0,Web Scenario
+29327,2023-09-03 21:51:55,Zabbix proxy: has been restarted,3589460,0,3589793.0,2023-09-03 22:01:55,,600.0,Zabbixproxy
+23296,2023-09-03 21:51:47,Website Unavailable: Grafana,3589450,0,3598490.0,2023-09-04 09:51:58,,43211.0,Zabbix-Server-Standby
+26607,2023-09-03 21:51:41,has been restarted,3589440,0,3589785.0,2023-09-03 22:01:41,,600.0,Linux Server
+26639,2023-09-03 21:51:40,has been restarted,3589438,0,3589786.0,2023-09-03 22:01:40,,600.0,Zabbix-Server-Active
+29307,2023-09-03 21:51:37,Zabbix proxy: Utilization of http poller processes is high,3589433,0,3589572.0,2023-09-03 21:54:37,,180.0,Zabbixproxy
+29394,2023-09-03 21:51:35,Zabbix proxy: Utilization of http poller processes is high,3589430,0,3589570.0,2023-09-03 21:54:35,,180.0,Zabbixproxy2
+23606,2023-09-03 21:51:34,Zabbix server: Utilization of history syncer processes is high,3589426,0,3589502.0,2023-09-03 21:52:34,,60.0,Zabbix-Server-Active
+26787,2023-09-03 16:44:54,Unavailable by ICMP ping,3588651,0,3596468.0,2023-09-04 08:51:53,,58019.0,AP_7_Kerala_TH
+26804,2023-09-03 16:44:54,Unavailable by ICMP ping,3588652,0,3596469.0,2023-09-04 08:51:53,,58019.0,AP_8_Kerala_TH
+26503,2023-09-03 16:44:45,Unavailable by ICMP ping,3588645,0,3596446.0,2023-09-04 08:51:45,,58020.0,AP_1_Mumbai_BN
+28878,2023-09-03 16:44:30,Unavailable by ICMP ping,3588636,0,3596405.0,2023-09-04 08:51:30,,58020.0,AP_15_Kerala_EK
+32190,2023-09-03 11:25:38,Port 38383 is down for sometime,3577280,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32193,2023-09-02 15:06:51,Port 34933 is down for sometime,3555401,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32191,2023-09-02 15:01:51,Port 38895 is down for sometime,3555221,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32192,2023-09-02 15:01:51,Port 44529 is down for sometime,3555222,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32189,2023-09-02 12:34:51,Port 44935 is down for sometime,3550044,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32185,2023-09-01 20:30:31,Port 36415 is down for sometime,3543235,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32186,2023-09-01 20:30:31,Port 42973 is down for sometime,3543236,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32187,2023-09-01 20:30:31,Port 43383 is down for sometime,3543237,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32188,2023-09-01 20:30:31,Port 39885 is down for sometime,3543238,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+29741,2023-09-01 10:10:01,PostgreSQL: Version has changed,3521519,0,,2023-09-11 12:49:31,,,PG2c
+27708,2023-09-01 09:53:18,Docker: Failed to fetch info data,3520866,0,,2023-09-11 12:49:31,,,Docker server
+27818,2023-09-01 09:53:08,Zabbix agent is not available,3520858,0,,2023-09-11 12:49:31,,,AICIN
+28921,2023-08-31 19:44:33,Unavailable by ICMP ping,3506672,0,,2023-09-11 12:49:31,,,AP_18_Mumbai_BN
+28229,2023-08-31 13:08:29,WildFly: Failed to fetch info data,3491947,0,,2023-09-11 12:49:31,,,Wildfly-Jboss-JMX
+27969,2023-08-31 13:03:39,MongoDB: Failed to fetch info data,3491788,0,,2023-09-11 12:49:31,,,MongoDB
+23616,2023-08-31 12:59:30,Zabbix server: Utilization of unreachable poller processes is high,3491643,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+29402,2023-08-31 12:58:48,Zabbix proxy: Utilization of unreachable poller processes is high,3491624,0,3789911.0,2023-09-11 08:43:48,,935100.0,Zabbixproxy2
+26719,2023-08-31 12:56:48,Unavailable by ICMP ping,3491571,0,,2023-09-11 12:49:31,,,AP_2_Mumbai_KL
+29124,2023-08-31 12:56:39,Unavailable by ICMP ping,3491568,0,,2023-09-11 12:49:31,,,AP_26_Mumbai_KL
+28941,2023-08-31 12:56:36,Unavailable by ICMP ping,3491565,0,,2023-09-11 12:49:31,,,AP_19_Mumbai_BN
+29009,2023-08-31 12:56:36,Unavailable by ICMP ping,3491566,0,,2023-09-11 12:49:31,,,AP_7_Mumbai_KL
+28889,2023-08-31 12:56:33,Unavailable by ICMP ping,3491560,0,,2023-09-11 12:49:31,,,AP_16_Kerala_EK
+28901,2023-08-31 12:56:33,Unavailable by ICMP ping,3491561,0,,2023-09-11 12:49:31,,,AP_17_Mumbai_BN
+28847,2023-08-31 12:56:30,Unavailable by ICMP ping,3491559,0,,2023-09-11 12:49:31,,,AP_13_Mumbai_BN
+28754,2023-08-31 12:56:27,Unavailable by ICMP ping,3491555,0,,2023-09-11 12:49:31,,,AP_10_Mumbai_BN
+32166,2023-08-31 11:02:42,Port 45607 is down for sometime,3488235,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+27716,2023-08-31 10:10:12,Container /docker-cabot_web_1: An error has occurred in the container,3486638,0,,2023-09-11 12:49:31,,,Docker server
+32164,2023-08-31 09:31:42,Port 45639 is down for sometime,3485319,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32165,2023-08-30 16:27:04,Port 38993 is down for sometime,3464486,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+27772,2023-08-30 14:16:01,Space Utilization > 70%,3459545,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+28807,2023-08-30 14:11:27,Unavailable by ICMP ping,3459376,0,,2023-09-11 12:49:31,,,AP_11_Mumbai_BN
+32159,2023-08-30 09:33:02,Port 46703 is down for sometime,3450216,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+27714,2023-08-30 09:13:12,Container /docker-cabot_web_1: Container has been stopped with error code,3449402,0,,2023-09-11 12:49:31,,,Docker server
+28085,2023-08-30 09:13:12,Container /docker-cabot_web_1: Docker container stopped state,3449404,0,,2023-09-11 12:49:31,,,Docker server
+23585,2023-08-30 09:12:16,/: Disk space is low,3449253,0,,2023-09-11 12:49:31,,,Docker server
+32158,2023-08-29 13:47:44,Port 43107 is down for sometime,3427652,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+26736,2023-08-28 23:01:51,Unavailable by ICMP ping,3420126,0,,2023-09-11 12:49:31,,,AP_3_Kerala_EK
+26753,2023-08-28 23:01:51,Unavailable by ICMP ping,3420127,0,,2023-09-11 12:49:31,,,AP_4_Mumbai_BN
+26737,2023-08-28 22:58:51,High ICMP ping loss,3420014,0,,2023-09-11 12:49:31,,,AP_3_Kerala_EK
+26754,2023-08-28 22:58:51,High ICMP ping loss,3420015,0,,2023-09-11 12:49:31,,,AP_4_Mumbai_BN
+32157,2023-08-28 12:59:45,Port 46585 is down for sometime,3399484,1,,2023-09-11 12:49:31,No issues : Testing,,Zabbix-Server-Active
+32140,2023-08-26 22:02:41,Port 40237 is down for sometime,3344827,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32138,2023-08-25 09:45:26,Port 33069 is down for sometime,3323022,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+31110,2023-08-23 14:54:02,AWS S3: Failed to get alarms data,3254485,0,,2023-09-11 12:49:31,,,lokibucket1994
+30965,2023-08-23 14:50:05,AWS EC2: Failed to get volumes info,3254346,0,,2023-09-11 12:49:31,,,i-0df444c4af08fb05c
+31049,2023-08-23 14:50:05,AWS EC2: Failed to get volumes info,3254347,0,,2023-09-11 12:49:31,,,i-0773957198702ceb6
+31046,2023-08-23 14:50:04,AWS EC2: Failed to get metrics data,3254344,0,,2023-09-11 12:49:31,,,i-0773957198702ceb6
+30976,2023-08-23 14:50:03,AWS EC2: Failed to get metrics data,3254342,0,,2023-09-11 12:49:31,,,i-0c852b22dd4b688a2
+31004,2023-08-23 14:50:03,AWS EC2: Failed to get metrics data,3254334,0,,2023-09-11 12:49:31,,,i-0fdbb4ac2cef1b4ce
+31032,2023-08-23 14:50:03,AWS EC2: Failed to get metrics data,3254343,0,,2023-09-11 12:49:31,,,i-098ccda44a391520c
+31060,2023-08-23 14:50:03,AWS EC2: Failed to get metrics data,3254345,0,,2023-09-11 12:49:31,,,i-020624c16734140b4
+32131,2023-08-23 14:50:03,AWS S3: Failed to get alarms data,3254336,0,,2023-09-11 12:49:31,,,lokibucket21994
+30962,2023-08-23 14:50:02,AWS EC2: Failed to get metrics data,3254333,0,,2023-09-11 12:49:31,,,i-0df444c4af08fb05c
+31018,2023-08-23 14:50:02,AWS EC2: Failed to get metrics data,3254335,0,,2023-09-11 12:49:31,,,i-0b6285a4ef3c02a0c
+31074,2023-08-23 14:50:02,AWS EC2: Failed to get metrics data,3254330,0,,2023-09-11 12:49:31,,,i-0c2d804dc967f692f
+30920,2023-08-23 14:50:01,AWS EC2: Failed to get metrics data,3254325,0,,2023-09-11 12:49:31,,,i-0df1c9e7c4b1df988
+30934,2023-08-23 14:50:01,AWS EC2: Failed to get metrics data,3254328,0,,2023-09-11 12:49:31,,,i-0523c46a0294c3fa5
+30990,2023-08-23 14:50:01,AWS EC2: Failed to get metrics data,3254329,0,,2023-09-11 12:49:31,,,i-0a7e4a88a68b66215
+32123,2023-08-23 14:50:01,AWS EC2: Failed to get metrics data,3254331,0,,2023-09-11 12:49:31,,,i-0cb7127685a3938a9
+30948,2023-08-23 14:50:00,AWS EC2: Failed to get metrics data,3254326,0,,2023-09-11 12:49:31,,,i-068e5bd96f89ed662
+30951,2023-08-23 14:49:13,AWS EC2: Failed to get volumes info,3254294,0,,2023-09-11 12:49:31,,,i-068e5bd96f89ed662
+31035,2023-08-23 14:49:13,AWS EC2: Failed to get volumes info,3254295,0,,2023-09-11 12:49:31,,,i-098ccda44a391520c
+30937,2023-08-23 14:48:23,AWS EC2: Failed to get volumes info,3254255,0,,2023-09-11 12:49:31,,,i-0523c46a0294c3fa5
+31021,2023-08-23 14:48:23,AWS EC2: Failed to get volumes info,3254256,0,,2023-09-11 12:49:31,,,i-0b6285a4ef3c02a0c
+30923,2023-08-23 14:47:33,AWS EC2: Failed to get volumes info,3254227,0,,2023-09-11 12:49:31,,,i-0df1c9e7c4b1df988
+31007,2023-08-23 14:47:33,AWS EC2: Failed to get volumes info,3254228,0,,2023-09-11 12:49:31,,,i-0fdbb4ac2cef1b4ce
+30993,2023-08-23 14:46:43,AWS EC2: Failed to get volumes info,3254197,0,,2023-09-11 12:49:31,,,i-0a7e4a88a68b66215
+31077,2023-08-23 14:46:43,AWS EC2: Failed to get volumes info,3254198,0,,2023-09-11 12:49:31,,,i-0c2d804dc967f692f
+30914,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254150,0,,2023-09-11 12:49:31,,,i-0df1c9e7c4b1df988
+30928,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254151,0,,2023-09-11 12:49:31,,,i-0523c46a0294c3fa5
+30942,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254152,0,,2023-09-11 12:49:31,,,i-068e5bd96f89ed662
+30956,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254153,0,,2023-09-11 12:49:31,,,i-0df444c4af08fb05c
+30970,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254154,0,,2023-09-11 12:49:31,,,i-0c852b22dd4b688a2
+30984,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254155,0,,2023-09-11 12:49:31,,,i-0a7e4a88a68b66215
+30998,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254156,0,,2023-09-11 12:49:31,,,i-0fdbb4ac2cef1b4ce
+31012,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254157,0,,2023-09-11 12:49:31,,,i-0b6285a4ef3c02a0c
+31026,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254158,0,,2023-09-11 12:49:31,,,i-098ccda44a391520c
+31040,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254159,0,,2023-09-11 12:49:31,,,i-0773957198702ceb6
+31054,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254160,0,,2023-09-11 12:49:31,,,i-020624c16734140b4
+31068,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254161,0,,2023-09-11 12:49:31,,,i-0c2d804dc967f692f
+31106,2023-08-23 14:46:00,AWS S3: Failed to get alarms data,3254162,0,,2023-09-11 12:49:31,,,just-to-test-terraform
+32117,2023-08-23 14:46:00,AWS EC2: Failed to get alarms data,3254164,0,,2023-09-11 12:49:31,,,i-0cb7127685a3938a9
+30979,2023-08-23 14:45:53,AWS EC2: Failed to get volumes info,3254128,0,,2023-09-11 12:49:31,,,i-0c852b22dd4b688a2
+31063,2023-08-23 14:45:53,AWS EC2: Failed to get volumes info,3254129,0,,2023-09-11 12:49:31,,,i-020624c16734140b4
+32126,2023-08-23 14:45:39,AWS EC2: Failed to get volumes info,3254121,0,,2023-09-11 12:49:31,,,i-0cb7127685a3938a9
+30929,2023-08-23 10:15:01,AWS EC2: Instance CPU Credit balance is too low,3244835,0,,2023-09-11 12:49:31,,,i-0523c46a0294c3fa5
+30943,2023-08-23 09:30:01,AWS EC2: Instance CPU Credit balance is too low,3243405,0,,2023-09-11 12:49:31,,,i-068e5bd96f89ed662
+32137,2023-08-23 09:22:39,Port 46863 is down for sometime,3243165,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32116,2023-08-22 23:45:56,Port 43847 is down for sometime,3241672,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+26524,2023-08-22 15:48:48,Unavailable by ICMP ping,3226357,0,,2023-09-11 12:49:31,,,AP_5_Kerala_EK
+30669,2023-08-22 09:41:38,Port 8501 is down for sometime,3213983,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+31800,2023-08-22 09:41:38,Port 41099 is down for sometime,3213984,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32114,2023-08-21 18:05:55,Port 39269 is down for sometime,3201448,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32115,2023-08-21 18:00:55,Port 37965 is down for sometime,3201271,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+32082,2023-08-21 10:47:06,Zabbix agent is not available,3186452,0,,2023-09-11 12:49:31,,,host_50
+32059,2023-08-21 10:46:59,Zabbix agent is not available,3186445,0,,2023-09-11 12:49:31,,,host_49
+31949,2023-08-21 10:46:58,Zabbix agent is not available,3186443,0,,2023-09-11 12:49:31,,,host_42
+32036,2023-08-21 10:46:52,Zabbix agent is not available,3186439,0,,2023-09-11 12:49:31,,,host_48
+32013,2023-08-21 10:46:45,Zabbix agent is not available,3186436,0,,2023-09-11 12:49:31,,,host_47
+31990,2023-08-21 10:46:38,Zabbix agent is not available,3186431,0,,2023-09-11 12:49:31,,,host_46
+31908,2023-08-21 10:42:18,Zabbix agent is not available,3186280,0,,2023-09-11 12:49:31,,,host_38
+31885,2023-08-21 10:41:11,Zabbix agent is not available,3186243,0,,2023-09-11 12:49:31,,,host_37
+31862,2023-08-21 10:41:04,Zabbix agent is not available,3186239,0,,2023-09-11 12:49:31,,,host_36
+31839,2023-08-21 10:40:57,Zabbix agent is not available,3186231,0,,2023-09-11 12:49:31,,,host_35
+31816,2023-08-21 10:40:50,Zabbix agent is not available,3186226,0,,2023-09-11 12:49:31,,,host_34
+31273,2023-08-21 09:53:55,Port 42389 is down for sometime,3184650,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+31768,2023-08-19 20:08:58,Zabbix agent is not available,3125498,0,,2023-09-11 12:49:31,,,host_29
+31727,2023-08-19 19:18:18,Zabbix agent is not available,3123816,0,,2023-09-11 12:49:31,,,host_25
+31657,2023-08-19 18:33:20,Zabbix agent is not available,3122296,0,,2023-09-11 12:49:31,,,host_19
+31634,2023-08-19 18:33:13,Zabbix agent is not available,3122293,0,,2023-09-11 12:49:31,,,host_18
+31611,2023-08-19 18:33:06,Zabbix agent is not available,3122289,0,,2023-09-11 12:49:31,,,host_17
+31565,2023-08-19 18:32:52,Zabbix agent is not available,3122278,0,,2023-09-11 12:49:31,,,host_15
+31680,2023-08-19 18:32:27,Zabbix agent is not available,3122261,0,,2023-09-11 12:49:31,,,host_20
+31375,2023-08-19 18:16:45,Zabbix agent is not available,3121706,0,,2023-09-11 12:49:31,,,host_5
+31536,2023-08-19 18:16:34,Zabbix agent is not available,3121698,0,,2023-09-11 12:49:31,,,host_14
+31513,2023-08-19 18:16:27,Zabbix agent is not available,3121689,0,,2023-09-11 12:49:31,,,host_11
+31490,2023-08-19 18:16:20,Zabbix agent is not available,3121685,0,,2023-09-11 12:49:31,,,host_10
+31467,2023-08-19 18:16:13,Zabbix agent is not available,3121683,0,,2023-09-11 12:49:31,,,host_9
+31444,2023-08-19 18:16:06,Zabbix agent is not available,3121679,0,,2023-09-11 12:49:31,,,host_8
+31421,2023-08-19 18:15:59,Zabbix agent is not available,3121671,0,,2023-09-11 12:49:31,,,host_7
+31352,2023-08-19 17:59:38,Zabbix agent is not available,3121091,0,,2023-09-11 12:49:31,,,host_4
+31329,2023-08-19 17:59:31,Zabbix agent is not available,3121080,0,,2023-09-11 12:49:31,,,host_3
+31283,2023-08-19 17:59:17,Zabbix agent is not available,3121074,0,,2023-09-11 12:49:31,,,host_1
+31235,2023-08-19 17:15:21,Port 42185 is down for sometime,3119618,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+26689,2023-08-17 11:07:43,/: Disk space is low,3043190,0,,2023-09-11 12:49:31,,,Zabbix-Server-Standby
+26460,2023-08-17 11:07:10,/: Disk space is low,3043156,0,,2023-09-11 12:49:31,,,standby-node-2
+31233,2023-08-17 09:49:00,Port 46787 is down for sometime,3040559,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+31234,2023-08-16 12:56:56,Port 45391 is down for sometime,3029835,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+31231,2023-08-16 09:10:56,Port 39547 is down for sometime,3022332,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+31232,2023-08-16 09:10:56,Port 34511 is down for sometime,3022333,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
+31230,2023-08-14 09:13:56,Port 37197 is down for sometime,2994825,0,,2023-09-11 12:49:31,,,Zabbix-Server-Active
