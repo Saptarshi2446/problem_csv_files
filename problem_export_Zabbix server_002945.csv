@@ -1,0 +1,14 @@
+objectid,start_time,problem_description,problem_eventid,acknowledged,r_eventid,end_time,acknowledge_message,duration,hostname
+13486,2023-09-05 10:06:51,Zabbix server: More than 100 items having missing data for more than 10 minutes,1709150,0,,2023-09-14 18:59:45,,,Zabbix server
+13486,2023-09-01 03:38:51,Zabbix server: More than 100 items having missing data for more than 10 minutes,1469476,0,1708589.0,2023-09-05 09:46:51,,367680.000000,Zabbix server
+13486,2023-09-01 02:34:51,Zabbix server: More than 100 items having missing data for more than 10 minutes,1466484,0,1469011.0,2023-09-01 03:28:51,,3240.000000,Zabbix server
+13486,2023-09-01 01:44:51,Zabbix server: More than 100 items having missing data for more than 10 minutes,1464191,0,1465478.0,2023-09-01 02:12:51,,1680.000000,Zabbix server
+13486,2023-09-01 00:53:52,Zabbix server: More than 100 items having missing data for more than 10 minutes,1461881,0,1463291.0,2023-09-01 01:24:51,,1859.000000,Zabbix server
+13486,2023-08-30 23:47:51,Zabbix server: More than 100 items having missing data for more than 10 minutes,1392430,0,1461093.0,2023-09-01 00:37:51,,89400.000000,Zabbix server
+13486,2023-08-30 23:35:51,Zabbix server: More than 100 items having missing data for more than 10 minutes,1391868,0,1391912.0,2023-08-30 23:36:51,,60.000000,Zabbix server
+13486,2023-08-28 23:45:51,Zabbix server: More than 100 items having missing data for more than 10 minutes,1255389,0,1391241.0,2023-08-30 23:21:51,,171360.000000,Zabbix server
+13486,2023-08-28 21:24:51,Zabbix server: More than 100 items having missing data for more than 10 minutes,1248932,0,1254545.0,2023-08-28 23:26:51,,7320.000000,Zabbix server
+13486,2023-08-28 20:49:51,Zabbix server: More than 100 items having missing data for more than 10 minutes,1247225,0,1248128.0,2023-08-28 21:07:51,,1080.000000,Zabbix server
+13486,2023-08-28 20:20:51,Zabbix server: More than 100 items having missing data for more than 10 minutes,1245856,0,1246611.0,2023-08-28 20:36:51,,960.000000,Zabbix server
+13486,2023-08-28 19:46:51,Zabbix server: More than 100 items having missing data for more than 10 minutes,1244268,0,1245383.0,2023-08-28 20:10:51,,1440.000000,Zabbix server
+13479,2023-08-17 18:25:44,Zabbix server: Utilization of poller processes is high,898285,0,899860.0,2023-08-17 18:36:44,,660.000000,Zabbix server
